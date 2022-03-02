@@ -10313,6 +10313,24 @@
             "value": "不要再问了，用设置值代替。",
             "checked": false
           }
+        },
+        "create_objects_drop_files": {
+          "en": {
+            "value": "You can directly drop files to create objects.",
+            "checked": true
+          },
+          "fr": {
+            "value": "Vous pouvez directement déposer des fichiers pour créer des objets.",
+            "checked": true
+          },
+          "es": {
+            "value": "Puedes soltar directamente los archivos para crear objetos.",
+            "checked": false
+          },
+          "zh": {
+            "value": "你可以直接投放文件来创建对象。",
+            "checked": false
+          }
         }
       },
       "Animation": {
