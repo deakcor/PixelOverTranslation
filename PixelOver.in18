@@ -1471,7 +1471,7 @@
               "checked": false
             },
             "zh": {
-              "value": "渲染图",
+              "value": "渲染",
               "checked": false
             }
           }
@@ -3603,7 +3603,7 @@
               "checked": false
             },
             "zh": {
-              "value": "将颜色乘以这个颜色。",
+              "value": "将原色叠加这个颜色。",
               "checked": false
             }
           },
@@ -3621,7 +3621,7 @@
               "checked": false
             },
             "zh": {
-              "value": "转移色调。",
+              "value": "调整色调。",
               "checked": false
             }
           },
@@ -3639,7 +3639,7 @@
               "checked": false
             },
             "zh": {
-              "value": "白色强度。",
+              "value": "白色的强度。",
               "checked": false
             }
           },
@@ -3657,7 +3657,7 @@
               "checked": false
             },
             "zh": {
-              "value": "浅色和深色之间的区别。",
+              "value": "高饱和和低饱和之间的区别。",
               "checked": false
             }
           },
@@ -6312,7 +6312,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "面罩",
+                "value": "遮罩",
                 "checked": false
               }
             },
@@ -6330,7 +6330,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "面具色卡",
+                "value": "遮罩色卡",
                 "checked": false
               }
             },
@@ -6529,7 +6529,7 @@
               "checked": false
             },
             "zh": {
-              "value": "适合儿童",
+              "value": "贴合图像",
               "checked": false
             }
           },
@@ -6547,7 +6547,7 @@
               "checked": false
             },
             "zh": {
-              "value": "过滤器",
+              "value": "修正",
               "checked": false
             }
           },
@@ -6889,7 +6889,7 @@
               "checked": false
             },
             "zh": {
-              "value": "去芜存菁",
+              "value": "虚化",
               "checked": false
             }
           },
@@ -6907,7 +6907,7 @@
               "checked": false
             },
             "zh": {
-              "value": "边缘阈值",
+              "value": "范围",
               "checked": false
             }
           },
@@ -6979,7 +6979,7 @@
               "checked": false
             },
             "zh": {
-              "value": "不透明度下降",
+              "value": "不透明度调整",
               "checked": false
             }
           },
@@ -7105,7 +7105,7 @@
               "checked": false
             },
             "zh": {
-              "value": "宽度",
+              "value": "范围",
               "checked": false
             }
           },
@@ -7123,7 +7123,7 @@
               "checked": false
             },
             "zh": {
-              "value": "高度",
+              "value": "深度",
               "checked": false
             }
           },
@@ -7159,7 +7159,7 @@
               "checked": false
             },
             "zh": {
-              "value": "不透明性",
+              "value": "不透明",
               "checked": false
             }
           },
@@ -7321,7 +7321,7 @@
               "checked": false
             },
             "zh": {
-              "value": "投影",
+              "value": "透视",
               "checked": false
             }
           },
@@ -7485,7 +7485,7 @@
               "checked": false
             },
             "zh": {
-              "value": "法线视图",
+              "value": 法线视图",
               "checked": false
             }
           },
@@ -7521,7 +7521,7 @@
               "checked": false
             },
             "zh": {
-              "value": "失能",
+              "value": "无",
               "checked": false
             }
           },
@@ -8171,7 +8171,7 @@
               "checked": false
             },
             "zh": {
-              "value": "瓷砖模式",
+              "value": "瓷砖",
               "checked": false
             }
           },
@@ -8207,7 +8207,7 @@
               "checked": false
             },
             "zh": {
-              "value": "冲击波",
+              "value": "冲击",
               "checked": false
             }
           },
@@ -8333,7 +8333,7 @@
               "checked": false
             },
             "zh": {
-              "value": "影响",
+              "value": "特殊",
               "checked": false
             }
           },
@@ -9950,7 +9950,7 @@
             "checked": false
           },
           "zh": {
-            "value": "取消",
+            "value": "否",
             "checked": false
           }
         },
@@ -10040,7 +10040,7 @@
             "checked": false
           },
           "zh": {
-            "value": "上传问题",
+            "value": "上传错误报告",
             "checked": false
           }
         },
