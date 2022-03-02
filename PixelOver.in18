@@ -289,7 +289,7 @@
               "checked": true
             },
             "es": {
-              "value": "Guardar proyecto como... A la versión anterior del archivo pixelOver.",
+              "value": "Guardar proyecto como... A la versión anterior del archivo PixelOver.",
               "checked": false
             },
             "zh": {
@@ -830,7 +830,7 @@
             "checked": true
           },
           "es": {
-            "value": "Aplique",
+            "value": "Aplicar",
             "checked": false
           },
           "zh": {
@@ -5259,7 +5259,7 @@
               },
               "es": {
                 "value": "Posición",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "坐标",
@@ -5295,7 +5295,7 @@
               },
               "es": {
                 "value": "Tamaño",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "尺寸",
@@ -5349,7 +5349,7 @@
               },
               "es": {
                 "value": "Rotación",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "旋转",
@@ -5367,7 +5367,7 @@
               },
               "es": {
                 "value": "Rotación global",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "全局旋转",
@@ -5421,7 +5421,7 @@
               },
               "es": {
                 "value": "Arriba a la derecha",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "右上角",
@@ -5439,7 +5439,7 @@
               },
               "es": {
                 "value": "Centro superior",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "顶部中心",
@@ -5457,7 +5457,7 @@
               },
               "es": {
                 "value": "Centro izquierda",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "中间偏左",
@@ -5475,7 +5475,7 @@
               },
               "es": {
                 "value": "Centro",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "中心",
@@ -5493,7 +5493,7 @@
               },
               "es": {
                 "value": "Centro derecha",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "右边中间",
@@ -5511,7 +5511,7 @@
               },
               "es": {
                 "value": "Parte inferior izquierda",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "左下角",
@@ -5529,7 +5529,7 @@
               },
               "es": {
                 "value": "Centro inferior",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "底部中心",
@@ -5547,7 +5547,7 @@
               },
               "es": {
                 "value": "Abajo a la derecha",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "右下角",
@@ -5565,7 +5565,7 @@
               },
               "es": {
                 "value": "Personalizado",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "定制",
@@ -5583,7 +5583,7 @@
               },
               "es": {
                 "value": "Inclinación",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "斜度",
@@ -5600,8 +5600,8 @@
                 "checked": true
               },
               "es": {
-                "value": "Sesgo global",
-                "checked": false
+                "value": "Inclinación global",
+                "checked": true
               },
               "zh": {
                 "value": "全局斜度",
@@ -5637,7 +5637,7 @@
               },
               "es": {
                 "value": "Tamaño máximo",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "最大尺寸",
@@ -5782,7 +5782,7 @@
                 "checked": true
               },
               "es": {
-                "value": "En",
+                "value": "Entrada",
                 "checked": false
               },
               "zh": {
@@ -5800,7 +5800,7 @@
                 "checked": true
               },
               "es": {
-                "value": "Fuera",
+                "value": "Salida",
                 "checked": false
               },
               "zh": {
@@ -7102,7 +7102,7 @@
             },
             "es": {
               "value": "Anchura",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "范围",
@@ -7120,7 +7120,7 @@
             },
             "es": {
               "value": "Altura",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "深度",
@@ -7138,7 +7138,7 @@
             },
             "es": {
               "value": "Visible",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "可见",
@@ -7156,7 +7156,7 @@
             },
             "es": {
               "value": "Opacidad",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "不透明",
@@ -7174,7 +7174,7 @@
             },
             "es": {
               "value": "Capa Z",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "Z层",
@@ -7228,7 +7228,7 @@
             },
             "es": {
               "value": "Tipo",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "类型",
@@ -7246,7 +7246,7 @@
             },
             "es": {
               "value": "Duración",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "时间",
@@ -7264,7 +7264,7 @@
             },
             "es": {
               "value": "Calidad",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "质量",
@@ -7318,7 +7318,7 @@
             },
             "es": {
               "value": "Proyección",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "透视",
@@ -7336,7 +7336,7 @@
             },
             "es": {
               "value": "Ortogonal",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "正交",
@@ -7354,7 +7354,7 @@
             },
             "es": {
               "value": "Perspectiva",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "透视",
@@ -7390,7 +7390,7 @@
             },
             "es": {
               "value": "Luz",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "亮度",
@@ -7408,7 +7408,7 @@
             },
             "es": {
               "value": "Intensidad",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "强度",
@@ -7481,7 +7481,7 @@
               "checked": true
             },
             "es": {
-              "value": "Tampón normal",
+              "value": "Mapa normal",
               "checked": false
             },
             "zh": {
@@ -7499,7 +7499,7 @@
               "checked": true
             },
             "es": {
-              "value": "Tampón de profundidad",
+              "value": "Mapa de profundidad",
               "checked": false
             },
             "zh": {
@@ -7608,7 +7608,7 @@
             },
             "es": {
               "value": "Nunca",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "从不",
@@ -8149,8 +8149,8 @@
               "checked": true
             },
             "es": {
-              "value": "Polaco",
-              "checked": false
+              "value": "Polish",
+              "checked": true
             },
             "zh": {
               "value": "修正布线",
@@ -8203,8 +8203,8 @@
               "checked": true
             },
             "es": {
-              "value": "Onda de choque",
-              "checked": false
+              "value": "Ondas",
+              "checked": true
             },
             "zh": {
               "value": "冲击",
@@ -8293,7 +8293,7 @@
               "checked": true
             },
             "es": {
-              "value": "Deforme",
+              "value": "Deformar",
               "checked": false
             },
             "zh": {
@@ -8474,7 +8474,7 @@
             },
             "es": {
               "value": "Cámara",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "摄像机",
@@ -8492,7 +8492,7 @@
             },
             "es": {
               "value": "Medio ambiente",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "环境",
@@ -9202,7 +9202,7 @@
             "checked": true
           },
           "es": {
-            "value": "Animation",
+            "value": "Animación",
             "checked": false
           },
           "zh": {
@@ -9619,8 +9619,8 @@
               "checked": true
             },
             "es": {
-              "value": "Imágenes abiertas",
-              "checked": false
+              "value": "Abrir imágenes",
+              "checked": true
             },
             "zh": {
               "value": "打开图片",
@@ -9637,8 +9637,8 @@
               "checked": true
             },
             "es": {
-              "value": "Archivos de la gota",
-              "checked": false
+              "value": "Arrastra y suelta el archivo",
+              "checked": true
             },
             "zh": {
               "value": "丢弃文件",
@@ -9656,7 +9656,7 @@
             },
             "es": {
               "value": "Importar",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "进口",
@@ -9673,8 +9673,8 @@
               "checked": true
             },
             "es": {
-              "value": "Todas las células",
-              "checked": false
+              "value": "Todas las celdas",
+              "checked": true
             },
             "zh": {
               "value": "所有细胞",
@@ -9692,7 +9692,7 @@
             },
             "es": {
               "value": "Importar todas las celdas.",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "导入所有单元格。",
@@ -9727,7 +9727,7 @@
               "checked": true
             },
             "es": {
-              "value": " Células",
+              "value": "Celdas",
               "checked": false
             },
             "zh": {
@@ -9746,7 +9746,7 @@
             },
             "es": {
               "value": "Número de celdas.",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "细胞的数量。",
@@ -9763,8 +9763,8 @@
               "checked": false
             },
             "es": {
-              "value": "Hoja de Sprite Importación",
-              "checked": false
+              "value": "Importar hojas de sprites",
+              "checked": true
             },
             "zh": {
               "value": "雪碧表的导入",
@@ -9781,8 +9781,8 @@
               "checked": true
             },
             "es": {
-              "value": "Células",
-              "checked": false
+              "value": "Celdas",
+              "checked": true
             },
             "zh": {
               "value": "细胞",
@@ -9818,7 +9818,7 @@
             },
             "es": {
               "value": "Columnas",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "专栏",
@@ -9928,7 +9928,7 @@
             },
             "es": {
               "value": "No hay archivos de sesiones anteriores.",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "没有以前会议的文件。",
@@ -9947,7 +9947,7 @@
           },
           "es": {
             "value": "Cancelar",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "否",
@@ -9965,7 +9965,7 @@
           },
           "es": {
             "value": "Sí",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "是",
@@ -9982,8 +9982,8 @@
             "checked": true
           },
           "es": {
-            "value": "No ahorres",
-            "checked": false
+            "value": "No guardar",
+            "checked": true
           },
           "zh": {
             "value": "不保存",
@@ -10001,7 +10001,7 @@
           },
           "es": {
             "value": "Guardar y cerrar",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "保存并关闭",
@@ -10019,7 +10019,7 @@
           },
           "es": {
             "value": "Cerrar la aplicación",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "关闭应用程序",
@@ -10036,8 +10036,8 @@
             "checked": true
           },
           "es": {
-            "value": "Informe sobre el tema",
-            "checked": false
+            "value": "Informar sobre problema",
+            "checked": true
           },
           "zh": {
             "value": "上传错误报告",
@@ -10055,7 +10055,7 @@
           },
           "es": {
             "value": "Obtener la versión completa",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "获取完整版本",
@@ -10073,7 +10073,7 @@
           },
           "es": {
             "value": "Es una versión Alfa. Si has visto algún problema, por favor, infórmalo haciendo clic en el botón de abajo. Gracias.",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "这是一个测试版本。如果你发现错误，请点击下面的按钮上传。谢谢你。",
@@ -10091,7 +10091,7 @@
           },
           "es": {
             "value": "Estás utilizando la versión demo de PixelOver. Por favor, obtenga la versión completa para poder exportar su proyecto.",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "你使用的是PixelOver的测试版本。请获得完整版，以便能够导出您的项目。",
@@ -10108,8 +10108,8 @@
             "checked": true
           },
           "es": {
-            "value": "El proyecto no se salva.",
-            "checked": false
+            "value": "El proyecto no esta guardado.",
+            "checked": true
           },
           "zh": {
             "value": "该项目没有保存。",
@@ -10126,8 +10126,8 @@
             "checked": true
           },
           "es": {
-            "value": "Añadir este sombreador a los favoritos ?",
-            "checked": false
+            "value": "¿Añadir este shader a favoritos?",
+            "checked": true
           },
           "zh": {
             "value": "将此shader添加到列表？",
@@ -10144,8 +10144,8 @@
             "checked": true
           },
           "es": {
-            "value": "Algunos proyectos no se guardan, pero se deja la aplicación de todos modos?",
-            "checked": false
+            "value": "Algún proyecto no esta guardado. ¿Estas seguro de cerrar el editor de todos modos?",
+            "checked": true
           },
           "zh": {
             "value": "一些项目没有保存，是否退出应用程序？",
@@ -10163,7 +10163,7 @@
           },
           "es": {
             "value": "Este archivo no se ha encontrado, está dañado o su formato no es compatible.",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "未找到该文件，已损坏或格式不支持。",
@@ -10181,7 +10181,7 @@
           },
           "es": {
             "value": "Por favor, confirme...",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "请确认...",
@@ -10199,7 +10199,7 @@
           },
           "es": {
             "value": "Todo",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "全部",
@@ -10216,8 +10216,8 @@
             "checked": true
           },
           "es": {
-            "value": "Se estrelló",
-            "checked": false
+            "value": "Crashed",
+            "checked": true
           },
           "zh": {
             "value": "坠毁",
@@ -10235,7 +10235,7 @@
           },
           "es": {
             "value": "Otros",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "其他",
@@ -10253,7 +10253,7 @@
           },
           "es": {
             "value": "Nuevo proyecto",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "新项目",
@@ -10271,7 +10271,7 @@
           },
           "es": {
             "value": "Por favor, confirme",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "请确认",
@@ -10288,8 +10288,8 @@
             "checked": true
           },
           "es": {
-            "value": "El proyecto no se carga. El archivo del proyecto no es accesible o está dañado.",
-            "checked": false
+            "value": "El proyecto no carga. El archivo del proyecto no es accesible o está dañado.",
+            "checked": true
           },
           "zh": {
             "value": "项目无法加载。项目文件无法访问或损坏。",
@@ -10346,7 +10346,7 @@
             },
             "es": {
               "value": "Añadir nueva(s) pista(s).",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "添加新的轨道。",
@@ -10365,7 +10365,7 @@
           },
           "es": {
             "value": "No se ha seleccionado ninguna tecla",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "没有选择钥匙",
@@ -10383,7 +10383,7 @@
           },
           "es": {
             "value": "No hay tecla o pista seleccionada",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "没有选择键或轨道",
@@ -10401,7 +10401,7 @@
           },
           "es": {
             "value": "Seleccione el valor de la llave.",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "选择键值。",
@@ -10419,7 +10419,7 @@
           },
           "es": {
             "value": "Posición clave seleccionada en la línea de tiempo.",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "在时间轴上选定关键位置。",
@@ -10437,7 +10437,7 @@
           },
           "es": {
             "value": "Nueva animación",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "新动画",
@@ -10455,7 +10455,7 @@
           },
           "es": {
             "value": "Sin pista",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "没有轨道",
@@ -10473,7 +10473,7 @@
           },
           "es": {
             "value": "Añadir pista",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "添加轨道",
@@ -10509,7 +10509,7 @@
           },
           "es": {
             "value": "Pista",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "追踪",
@@ -10527,7 +10527,7 @@
           },
           "es": {
             "value": "Clave",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "钥匙",
@@ -10545,7 +10545,7 @@
           },
           "es": {
             "value": "Animación en bucle.",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "循环动画。",
@@ -10563,7 +10563,7 @@
           },
           "es": {
             "value": "Crear una nueva animación.",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "创建新的动画。",
@@ -10581,7 +10581,7 @@
           },
           "es": {
             "value": "Borrar pistas",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "删除轨道",
