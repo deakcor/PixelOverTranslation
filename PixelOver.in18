@@ -23,7 +23,7 @@
               "checked": true
             },
             "zh": {
-              "value": "创建2D或3D项目。",
+              "value": "新建2D或3D项目。",
               "checked": true
             }
           },
@@ -41,7 +41,7 @@
               "checked": true
             },
             "zh": {
-              "value": "打开项目、图像或3D模型。",
+              "value": "打开项目、图片或3D模型。",
               "checked": false
             }
           },
@@ -59,7 +59,7 @@
               "checked": true
             },
             "zh": {
-              "value": "分割选定的图像并作为多个图像或动画图像导入。",
+              "value": "拆分选定的图像为序列图或作为动图导入。",
               "checked": false
             }
           },
@@ -77,7 +77,7 @@
               "checked": true
             },
             "zh": {
-              "value": "退出该程序。",
+              "value": "退出软件。",
               "checked": false
             }
           },
@@ -95,7 +95,7 @@
               "checked": true
             },
             "zh": {
-              "value": "从列表中删除所有喜爱的着色器，除了当前的默认着色器。",
+              "value": "删除列表中除默认shader之外的所有shaders。",
               "checked": false
             }
           },
@@ -113,7 +113,7 @@
               "checked": true
             },
             "zh": {
-              "value": "从剪贴板上粘贴图像或物体。",
+              "value": "从剪贴板上粘贴图片或物体。",
               "checked": false
             }
           },
@@ -131,7 +131,7 @@
               "checked": true
             },
             "zh": {
-              "value": "从列表中删除该着色器。",
+              "value": "从列表中删除此 shader。",
               "checked": false
             }
           },
@@ -149,7 +149,7 @@
               "checked": true
             },
             "zh": {
-              "value": "默认情况下，这个着色器将被应用于新项目。",
+              "value": "此shader将默认应用在新的项目。",
               "checked": false
             }
           },
@@ -167,7 +167,7 @@
               "checked": true
             },
             "zh": {
-              "value": "将此着色器应用于当前项目。",
+              "value": "将此shader应用于当前项目。",
               "checked": false
             }
           },
@@ -185,7 +185,7 @@
               "checked": true
             },
             "zh": {
-              "value": "删除列表中所有最近的着色器。",
+              "value": "删除列表中最近使用的shaders。",
               "checked": false
             }
           },
@@ -203,7 +203,7 @@
               "checked": true
             },
             "zh": {
-              "value": "将着色器保存为...",
+              "value": "将此shader另存为...",
               "checked": false
             }
           },
@@ -221,7 +221,7 @@
               "checked": true
             },
             "zh": {
-              "value": "保存着色器。",
+              "value": "保存shader。",
               "checked": false
             }
           },
@@ -239,7 +239,7 @@
               "checked": true
             },
             "zh": {
-              "value": "打开着色器，替换选定的对象着色器。",
+              "value": "打开shader，将选择对象的shader替换。",
               "checked": false
             }
           },
@@ -257,7 +257,7 @@
               "checked": true
             },
             "zh": {
-              "value": "关闭实际项目标签。",
+              "value": "关闭当前项目。",
               "checked": false
             }
           },
@@ -275,7 +275,7 @@
               "checked": true
             },
             "zh": {
-              "value": "将项目结果以图像或gif格式导出。",
+              "value": "导出为图片或GIF。",
               "checked": false
             }
           },
@@ -293,7 +293,7 @@
               "checked": true
             },
             "zh": {
-              "value": "将项目保存为...到旧的pixelOver文件版本。",
+              "value": "将项目另存为...到pixelOver的早期版本。",
               "checked": false
             }
           },
@@ -311,7 +311,7 @@
               "checked": true
             },
             "zh": {
-              "value": "将项目保存为...",
+              "value": "将项目另存为...",
               "checked": false
             }
           },
@@ -384,7 +384,7 @@
             "checked": true
           },
           "zh": {
-            "value": "着色器",
+            "value": "Shader",
             "checked": false
           }
         },
@@ -420,7 +420,7 @@
             "checked": true
           },
           "zh": {
-            "value": "开放式",
+            "value": "打开",
             "checked": false
           }
         },
@@ -438,7 +438,7 @@
             "checked": true
           },
           "zh": {
-            "value": "开放式 最近",
+            "value": "打开 最近的文件",
             "checked": false
           }
         },
@@ -456,7 +456,7 @@
             "checked": true
           },
           "zh": {
-            "value": "清除最近的文件",
+            "value": "删除 最近的文件",
             "checked": false
           }
         },
@@ -474,7 +474,7 @@
             "checked": true
           },
           "zh": {
-            "value": "打开精灵表",
+            "value": "打开精灵图像",
             "checked": false
           }
         },
@@ -546,7 +546,7 @@
             "checked": true
           },
           "zh": {
-            "value": "阿尔法版本",
+            "value": "测试版本",
             "checked": false
           }
         },
@@ -600,7 +600,7 @@
             "checked": true
           },
           "zh": {
-            "value": "收藏",
+            "value": "列表",
             "checked": false
           }
         },
@@ -618,7 +618,7 @@
             "checked": true
           },
           "zh": {
-            "value": "添加喜爱的着色器",
+            "value": "添加shader",
             "checked": false
           }
         },
@@ -636,7 +636,7 @@
             "checked": true
           },
           "zh": {
-            "value": "清除喜爱的着色器",
+            "value": "删除shader",
             "checked": false
           }
         },
@@ -654,7 +654,7 @@
             "checked": true
           },
           "zh": {
-            "value": "移除",
+            "value": "删除",
             "checked": false
           }
         },
@@ -690,7 +690,7 @@
             "checked": true
           },
           "zh": {
-            "value": "拯救",
+            "value": "保存",
             "checked": false
           }
         },
@@ -744,7 +744,7 @@
             "checked": true
           },
           "zh": {
-            "value": "出口...",
+            "value": "导出...",
             "checked": false
           }
         },
@@ -816,7 +816,7 @@
             "checked": true
           },
           "zh": {
-            "value": "清除最近的着色器",
+            "value": "删除最近的shader",
             "checked": false
           }
         },
@@ -834,7 +834,7 @@
             "checked": true
           },
           "zh": {
-            "value": "申请",
+            "value": "应用",
             "checked": false
           }
         },
@@ -872,7 +872,7 @@
             "checked": true
           },
           "zh": {
-            "value": "新闻",
+            "value": "新的",
             "checked": false
           }
         },
@@ -962,7 +962,7 @@
             "checked": true
           },
           "zh": {
-            "value": "文件和教程",
+            "value": "文档和教程",
             "checked": false
           }
         },
@@ -1106,7 +1106,7 @@
             "checked": true
           },
           "zh": {
-            "value": "或 %s 拖放文件",
+            "value": "或 %s 拖拽文件",
             "checked": false
           }
         },
@@ -1145,7 +1145,7 @@
               "checked": true
             },
             "zh": {
-              "value": "应用程序的语言。",
+              "value": "语言。",
               "checked": false
             }
           },
@@ -1163,7 +1163,7 @@
               "checked": true
             },
             "zh": {
-              "value": "资源节约模式。",
+              "value": "资源节省模式。",
               "checked": false
             }
           },
@@ -1181,7 +1181,7 @@
               "checked": false
             },
             "zh": {
-              "value": "更新动画长度为动画图片一。",
+              "value": "更新动画长度为动画一。",
               "checked": false
             }
           },
@@ -1199,7 +1199,7 @@
               "checked": false
             },
             "zh": {
-              "value": "将FPS更新为动画图片一。",
+              "value": "更新FPS为动画一。",
               "checked": false
             }
           },
@@ -1217,7 +1217,7 @@
               "checked": true
             },
             "zh": {
-              "value": "从三维场景创建新的动画。",
+              "value": "创建新的3D动画。",
               "checked": false
             }
           }
@@ -1237,7 +1237,7 @@
               "checked": true
             },
             "zh": {
-              "value": "格子背景",
+              "value": "透明背景",
               "checked": false
             }
           },
@@ -1255,7 +1255,7 @@
               "checked": true
             },
             "zh": {
-              "value": "轴线",
+              "value": "轴",
               "checked": false
             }
           },
@@ -1273,7 +1273,7 @@
               "checked": true
             },
             "zh": {
-              "value": "栅格",
+              "value": "网格",
               "checked": false
             }
           },
@@ -1471,7 +1471,7 @@
               "checked": true
             },
             "zh": {
-              "value": "渲染图",
+              "value": "渲染",
               "checked": false
             }
           }
@@ -1984,35 +1984,35 @@
             "checked": false
           }
         },
-        "For File": {
+        "For new project": {
           "en": {
-            "value": "For File",
+            "value": "For new project",
             "checked": true
           },
           "fr": {
-            "value": "Pour les fichiers",
+            "value": "Pour les nouveaux projets",
             "checked": true
           },
           "es": {
-            "value": "Para archivos",
-            "checked": true
+            "value": "Para nuevo proyecto",
+            "checked": false
           },
           "zh": {
             "value": "文件用",
             "checked": false
           }
         },
-        "For Project": {
+        "For current project": {
           "en": {
-            "value": "For Project",
+            "value": "For current project",
             "checked": true
           },
           "fr": {
-            "value": "Pour les projets",
+            "value": "Pour les projets actuels",
             "checked": true
           },
           "es": {
-            "value": "Para proyecto",
+            "value": "Para proyecto actual",
             "checked": true
           },
           "zh": {
@@ -2196,7 +2196,7 @@
             "checked": true
           },
           "zh": {
-            "value": "线路空间",
+            "value": "描边空间",
             "checked": false
           }
         },
@@ -2268,7 +2268,7 @@
             "checked": true
           },
           "zh": {
-            "value": "帆布",
+            "value": "画布",
             "checked": false
           }
         },
@@ -2286,7 +2286,7 @@
             "checked": true
           },
           "zh": {
-            "value": "资源",
+            "value": "物体",
             "checked": false
           }
         },
@@ -2322,7 +2322,7 @@
             "checked": true
           },
           "zh": {
-            "value": "动画图片",
+            "value": "精灵图片",
             "checked": false
           }
         },
@@ -3603,7 +3603,7 @@
               "checked": true
             },
             "zh": {
-              "value": "将颜色乘以这个颜色。",
+              "value": "将原色叠加这个颜色。",
               "checked": false
             }
           },
@@ -3621,7 +3621,7 @@
               "checked": true
             },
             "zh": {
-              "value": "转移色调。",
+              "value": "调整色调。",
               "checked": false
             }
           },
@@ -3639,7 +3639,7 @@
               "checked": true
             },
             "zh": {
-              "value": "白色强度。",
+              "value": "白色的强度。",
               "checked": false
             }
           },
@@ -3657,7 +3657,7 @@
               "checked": true
             },
             "zh": {
-              "value": "浅色和深色之间的区别。",
+              "value": "高饱和和低饱和之间的区别。",
               "checked": false
             }
           },
@@ -3693,7 +3693,7 @@
               "checked": true
             },
             "zh": {
-              "value": "根据调色板对颜色进行索引。",
+              "value": "根据色卡对颜色进行索引。",
               "checked": false
             }
           },
@@ -3711,7 +3711,7 @@
               "checked": true
             },
             "zh": {
-              "value": "应用在索引图像上的调色板颜色。",
+              "value": "应用在索引图像上的色卡颜色。",
               "checked": false
             }
           },
@@ -3729,7 +3729,7 @@
               "checked": true
             },
             "zh": {
-              "value": "按照调色板上的位置将索引的颜色替换成新的颜色。",
+              "value": "按照色卡上的位置将索引的颜色替换成新的颜色。",
               "checked": false
             }
           },
@@ -3747,7 +3747,7 @@
               "checked": true
             },
             "zh": {
-              "value": "颜色应该被编入索引以使用这个功能。请启用索引并添加一个调色板。",
+              "value": "颜色应该被编入索引以使用这个功能。请启用索引并添加一个色卡。",
               "checked": false
             }
           },
@@ -3765,7 +3765,7 @@
               "checked": true
             },
             "zh": {
-              "value": "移位匹配调色板。",
+              "value": "移位匹配色卡。",
               "checked": false
             }
           },
@@ -3783,7 +3783,7 @@
               "checked": true
             },
             "zh": {
-              "value": "用这个调色板的颜色替换索引的颜色。",
+              "value": "用这个色卡的颜色替换索引的颜色。",
               "checked": false
             }
           },
@@ -3819,7 +3819,7 @@
               "checked": true
             },
             "zh": {
-              "value": "这款调色板的面具颜色。",
+              "value": "这款色卡的面具颜色。",
               "checked": false
             }
           },
@@ -3855,7 +3855,7 @@
               "checked": true
             },
             "zh": {
-              "value": "根据当前颜色与两个最近的调色板颜色的距离，应用抖动。",
+              "value": "根据当前颜色与两个最近的色卡颜色的距离，应用抖动。",
               "checked": false
             }
           },
@@ -4251,7 +4251,7 @@
               "checked": true
             },
             "zh": {
-              "value": "内部线路阈值。",
+              "value": "内部描边阈值。",
               "checked": false
             }
           },
@@ -4269,7 +4269,7 @@
               "checked": true
             },
             "zh": {
-              "value": "内部线路颜色。",
+              "value": "内部描边颜色。",
               "checked": false
             }
           },
@@ -5244,7 +5244,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "基础",
+                "value": "参考系",
                 "checked": false
               }
             },
@@ -5262,7 +5262,7 @@
                 "checked": true
               },
               "zh": {
-                "value": "职务",
+                "value": "坐标",
                 "checked": false
               }
             },
@@ -5280,7 +5280,7 @@
                 "checked": true
               },
               "zh": {
-                "value": "全球位置",
+                "value": "全局坐标",
                 "checked": false
               }
             },
@@ -5316,7 +5316,7 @@
                 "checked": true
               },
               "zh": {
-                "value": "规模",
+                "value": "比例",
                 "checked": false
               }
             },
@@ -5334,7 +5334,7 @@
                 "checked": true
               },
               "zh": {
-                "value": "全球规模",
+                "value": "全局比例",
                 "checked": false
               }
             },
@@ -5370,7 +5370,7 @@
                 "checked": true
               },
               "zh": {
-                "value": "全球轮换",
+                "value": "全局旋转",
                 "checked": false
               }
             },
@@ -5406,7 +5406,7 @@
                 "checked": true
               },
               "zh": {
-                "value": "偏移",
+                "value": "原点",
                 "checked": false
               }
             },
@@ -5457,7 +5457,7 @@
               },
               "es": {
                 "value": "Centro izquierda",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "中间偏左",
@@ -5475,7 +5475,7 @@
               },
               "es": {
                 "value": "Centro",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "中心",
@@ -5493,7 +5493,7 @@
               },
               "es": {
                 "value": "Centro derecha",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "右边中间",
@@ -5586,7 +5586,7 @@
                 "checked": true
               },
               "zh": {
-                "value": "歪斜",
+                "value": "斜度",
                 "checked": false
               }
             },
@@ -5604,7 +5604,7 @@
                 "checked": true
               },
               "zh": {
-                "value": "全球倾斜",
+                "value": "全局斜度",
                 "checked": false
               }
             },
@@ -6058,7 +6058,7 @@
                 "checked": true
               },
               "zh": {
-                "value": "动画图片",
+                "value": "精灵图片",
                 "checked": false
               }
             },
@@ -6240,7 +6240,7 @@
                 "checked": true
               },
               "zh": {
-                "value": "调色板",
+                "value": "色卡",
                 "checked": false
               }
             },
@@ -6276,7 +6276,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "移交",
+                "value": "移动",
                 "checked": false
               }
             },
@@ -6294,7 +6294,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "匹配调色板",
+                "value": "匹配色卡",
                 "checked": false
               }
             },
@@ -6312,7 +6312,7 @@
                 "checked": true
               },
               "zh": {
-                "value": "面罩",
+                "value": "遮罩",
                 "checked": false
               }
             },
@@ -6330,7 +6330,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "面具调色板",
+                "value": "遮罩色卡",
                 "checked": false
               }
             },
@@ -6402,7 +6402,7 @@
                 "checked": true
               },
               "zh": {
-                "value": "仅限线路",
+                "value": "仅显示描边",
                 "checked": false
               }
             }
@@ -6439,7 +6439,7 @@
               "checked": true
             },
             "zh": {
-              "value": "命名",
+              "value": "名称",
               "checked": false
             }
           },
@@ -6475,7 +6475,7 @@
               "checked": true
             },
             "zh": {
-              "value": "水平方向",
+              "value": "水平翻转",
               "checked": false
             }
           },
@@ -6515,13 +6515,13 @@
               "checked": false
             }
           },
-          "Fit Children": {
+          "Auto Resize": {
             "en": {
-              "value": "Fit Children",
+              "value": "Auto Resize",
               "checked": true
             },
             "fr": {
-              "value": "S'adapter aux enfants",
+              "value": "Redimensionner auto",
               "checked": true
             },
             "es": {
@@ -6529,7 +6529,7 @@
               "checked": true
             },
             "zh": {
-              "value": "适合儿童",
+              "value": "贴合图像",
               "checked": false
             }
           },
@@ -6547,7 +6547,7 @@
               "checked": true
             },
             "zh": {
-              "value": "过滤器",
+              "value": "修正",
               "checked": false
             }
           },
@@ -6565,7 +6565,7 @@
               "checked": true
             },
             "zh": {
-              "value": "像素缩放",
+              "value": "缩放算法",
               "checked": false
             }
           },
@@ -6583,7 +6583,7 @@
               "checked": true
             },
             "zh": {
-              "value": "概要",
+              "value": "打开",
               "checked": false
             }
           },
@@ -6619,7 +6619,7 @@
               "checked": true
             },
             "zh": {
-              "value": "帆布边框",
+              "value": "允许超出画布",
               "checked": false
             }
           },
@@ -6637,7 +6637,7 @@
               "checked": true
             },
             "zh": {
-              "value": "在线式",
+              "value": "内描边",
               "checked": false
             }
           },
@@ -6673,7 +6673,7 @@
               "checked": true
             },
             "zh": {
-              "value": "线路",
+              "value": "描边",
               "checked": false
             }
           },
@@ -6745,7 +6745,7 @@
               "checked": true
             },
             "zh": {
-              "value": "内部线路",
+              "value": "内部描边",
               "checked": false
             }
           },
@@ -6853,7 +6853,7 @@
               "checked": true
             },
             "zh": {
-              "value": "移除边缘",
+              "value": "线条修正",
               "checked": false
             }
           },
@@ -6871,7 +6871,7 @@
               "checked": true
             },
             "zh": {
-              "value": "移除内部边缘",
+              "value": "内部线条修正",
               "checked": false
             }
           },
@@ -6889,7 +6889,7 @@
               "checked": true
             },
             "zh": {
-              "value": "去芜存菁",
+              "value": "虚化",
               "checked": false
             }
           },
@@ -6907,7 +6907,7 @@
               "checked": true
             },
             "zh": {
-              "value": "边缘阈值",
+              "value": "范围",
               "checked": false
             }
           },
@@ -6979,7 +6979,7 @@
               "checked": true
             },
             "zh": {
-              "value": "不透明度下降",
+              "value": "不透明度调整",
               "checked": false
             }
           },
@@ -7105,7 +7105,7 @@
               "checked": true
             },
             "zh": {
-              "value": "宽度",
+              "value": "范围",
               "checked": false
             }
           },
@@ -7123,7 +7123,7 @@
               "checked": true
             },
             "zh": {
-              "value": "高度",
+              "value": "深度",
               "checked": false
             }
           },
@@ -7159,7 +7159,7 @@
               "checked": true
             },
             "zh": {
-              "value": "不透明性",
+              "value": "不透明",
               "checked": false
             }
           },
@@ -7321,7 +7321,7 @@
               "checked": true
             },
             "zh": {
-              "value": "投影",
+              "value": "透视",
               "checked": false
             }
           },
@@ -7390,7 +7390,7 @@
             },
             "es": {
               "value": "Luz",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "亮度",
@@ -7429,7 +7429,7 @@
               "checked": true
             },
             "zh": {
-              "value": "纵向",
+              "value": "纵向翻转",
               "checked": false
             }
           }
@@ -7449,7 +7449,7 @@
               "checked": false
             },
             "zh": {
-              "value": "没有影响",
+              "value": "常规视图",
               "checked": false
             }
           },
@@ -7467,7 +7467,7 @@
               "checked": false
             },
             "zh": {
-              "value": "预览",
+              "value": "预览视图",
               "checked": false
             }
           },
@@ -7481,11 +7481,11 @@
               "checked": true
             },
             "es": {
-              "value": "Tampón normal",
+              "value": "Mapa normal",
               "checked": false
             },
             "zh": {
-              "value": "正常缓冲区",
+              "value": "法线视图",
               "checked": false
             }
           },
@@ -7499,11 +7499,11 @@
               "checked": true
             },
             "es": {
-              "value": "Tampón de profundidad",
+              "value": "Mapa de profundidad",
               "checked": false
             },
             "zh": {
-              "value": "深度缓冲区",
+              "value": "深度视图",
               "checked": false
             }
           },
@@ -7521,7 +7521,7 @@
               "checked": false
             },
             "zh": {
-              "value": "失能",
+              "value": "无",
               "checked": false
             }
           },
@@ -7608,7 +7608,7 @@
             },
             "es": {
               "value": "Nunca",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "从不",
@@ -7809,7 +7809,7 @@
               "checked": false
             },
             "zh": {
-              "value": "汽缸",
+              "value": "圆柱",
               "checked": false
             }
           },
@@ -7845,7 +7845,7 @@
               "checked": false
             },
             "zh": {
-              "value": "线性",
+              "value": "硬边缘",
               "checked": false
             }
           },
@@ -7863,7 +7863,7 @@
               "checked": false
             },
             "zh": {
-              "value": "当地",
+              "value": "自身",
               "checked": false
             }
           },
@@ -7881,7 +7881,7 @@
               "checked": false
             },
             "zh": {
-              "value": "全球",
+              "value": "全局",
               "checked": false
             }
           },
@@ -8063,7 +8063,7 @@
               "checked": false
             },
             "zh": {
-              "value": "指数化",
+              "value": "索引色卡",
               "checked": false
             }
           },
@@ -8081,7 +8081,7 @@
               "checked": false
             },
             "zh": {
-              "value": "匹配指数化",
+              "value": "匹配色卡",
               "checked": false
             }
           },
@@ -8149,11 +8149,11 @@
               "checked": true
             },
             "es": {
-              "value": "Polaco",
-              "checked": false
+              "value": "Polish",
+              "checked": true
             },
             "zh": {
-              "value": "波兰语",
+              "value": "修正布线",
               "checked": false
             }
           },
@@ -8171,7 +8171,7 @@
               "checked": false
             },
             "zh": {
-              "value": "瓷砖模式",
+              "value": "瓷砖",
               "checked": false
             }
           },
@@ -8203,11 +8203,11 @@
               "checked": true
             },
             "es": {
-              "value": "Onda de choque",
-              "checked": false
+              "value": "Ondas",
+              "checked": true
             },
             "zh": {
-              "value": "冲击波",
+              "value": "冲击",
               "checked": false
             }
           },
@@ -8225,7 +8225,7 @@
               "checked": false
             },
             "zh": {
-              "value": "重新采样",
+              "value": "修正",
               "checked": false
             }
           },
@@ -8279,7 +8279,7 @@
               "checked": false
             },
             "zh": {
-              "value": "转型",
+              "value": "数值",
               "checked": false
             }
           },
@@ -8293,7 +8293,7 @@
               "checked": true
             },
             "es": {
-              "value": "Deforme",
+              "value": "Deformar",
               "checked": false
             },
             "zh": {
@@ -8315,7 +8315,7 @@
               "checked": false
             },
             "zh": {
-              "value": "路径",
+              "value": "残影",
               "checked": false
             }
           },
@@ -8333,7 +8333,7 @@
               "checked": false
             },
             "zh": {
-              "value": "影响",
+              "value": "特殊",
               "checked": false
             }
           },
@@ -8369,7 +8369,7 @@
               "checked": false
             },
             "zh": {
-              "value": "线路",
+              "value": "描边",
               "checked": false
             }
           },
@@ -8474,7 +8474,7 @@
             },
             "es": {
               "value": "Cámara",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "摄像机",
@@ -8492,7 +8492,7 @@
             },
             "es": {
               "value": "Medio ambiente",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "环境",
@@ -8679,7 +8679,7 @@
               "checked": false
             },
             "zh": {
-              "value": "平台型游戏",
+              "value": "正视图",
               "checked": false
             }
           },
@@ -8733,7 +8733,7 @@
               "checked": false
             },
             "zh": {
-              "value": "预设",
+              "value": "预设镜头",
               "checked": false
             }
           },
@@ -8916,7 +8916,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "该层应该是有索引的，并且调色板处于管理模式，以使用这个工具。",
+                "value": "该层应该是有索引的，并且色卡处于管理模式，以使用这个工具。",
                 "checked": false
               }
             },
@@ -8934,7 +8934,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "选择图层上的颜色将选择你调色板上的颜色。\\n（%s）来保持工具。",
+                "value": "选择图层上的颜色将选择你色卡上的颜色。\\n（%s）来保持工具。",
                 "checked": false
               }
             },
@@ -9115,7 +9115,7 @@
               "checked": true
             },
             "zh": {
-              "value": "调色板选色工具",
+              "value": "色卡选色工具",
               "checked": false
             }
           },
@@ -9187,7 +9187,7 @@
               "checked": true
             },
             "zh": {
-              "value": "调色板选色工具（保持）",
+              "value": "色卡选色工具（保持）",
               "checked": false
             }
           }
@@ -9202,7 +9202,7 @@
             "checked": true
           },
           "es": {
-            "value": "Animation",
+            "value": "Animación",
             "checked": false
           },
           "zh": {
@@ -9242,7 +9242,7 @@
             "checked": false
           },
           "zh": {
-            "value": "Z型订单",
+            "value": "图层顺序",
             "checked": false
           }
         },
@@ -9260,7 +9260,7 @@
             "checked": false
           },
           "zh": {
-            "value": "精选",
+            "value": "基本",
             "checked": false
           }
         },
@@ -9368,7 +9368,7 @@
             "checked": false
           },
           "zh": {
-            "value": "形状",
+            "value": "素体",
             "checked": false
           }
         },
@@ -9566,7 +9566,7 @@
             "checked": false
           },
           "zh": {
-            "value": "着色器层",
+            "value": "图层",
             "checked": false
           }
         },
@@ -9584,7 +9584,7 @@
             "checked": false
           },
           "zh": {
-            "value": "着色器三维层",
+            "value": "3D图层",
             "checked": false
           }
         },
@@ -9619,8 +9619,8 @@
               "checked": true
             },
             "es": {
-              "value": "Imágenes abiertas",
-              "checked": false
+              "value": "Abrir imágenes",
+              "checked": true
             },
             "zh": {
               "value": "打开图片",
@@ -9637,8 +9637,8 @@
               "checked": true
             },
             "es": {
-              "value": "Archivos de la gota",
-              "checked": false
+              "value": "Arrastra y suelta el archivo",
+              "checked": true
             },
             "zh": {
               "value": "丢弃文件",
@@ -9656,7 +9656,7 @@
             },
             "es": {
               "value": "Importar",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "进口",
@@ -9673,8 +9673,8 @@
               "checked": true
             },
             "es": {
-              "value": "Todas las células",
-              "checked": false
+              "value": "Todas las celdas",
+              "checked": true
             },
             "zh": {
               "value": "所有细胞",
@@ -9692,7 +9692,7 @@
             },
             "es": {
               "value": "Importar todas las celdas.",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "导入所有单元格。",
@@ -9727,7 +9727,7 @@
               "checked": true
             },
             "es": {
-              "value": " Células",
+              "value": "Celdas",
               "checked": false
             },
             "zh": {
@@ -9746,7 +9746,7 @@
             },
             "es": {
               "value": "Número de celdas.",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "细胞的数量。",
@@ -9763,8 +9763,8 @@
               "checked": false
             },
             "es": {
-              "value": "Hoja de Sprite Importación",
-              "checked": false
+              "value": "Importar hojas de sprites",
+              "checked": true
             },
             "zh": {
               "value": "雪碧表的导入",
@@ -9781,8 +9781,8 @@
               "checked": true
             },
             "es": {
-              "value": "Células",
-              "checked": false
+              "value": "Celdas",
+              "checked": true
             },
             "zh": {
               "value": "细胞",
@@ -9818,7 +9818,7 @@
             },
             "es": {
               "value": "Columnas",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "专栏",
@@ -9928,7 +9928,7 @@
             },
             "es": {
               "value": "No hay archivos de sesiones anteriores.",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "没有以前会议的文件。",
@@ -9947,10 +9947,10 @@
           },
           "es": {
             "value": "Cancelar",
-            "checked": false
+            "checked": true
           },
           "zh": {
-            "value": "取消",
+            "value": "否",
             "checked": false
           }
         },
@@ -9965,7 +9965,7 @@
           },
           "es": {
             "value": "Sí",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "是",
@@ -9982,11 +9982,11 @@
             "checked": true
           },
           "es": {
-            "value": "No ahorres",
-            "checked": false
+            "value": "No guardar",
+            "checked": true
           },
           "zh": {
-            "value": "不要保存",
+            "value": "不保存",
             "checked": false
           }
         },
@@ -10001,7 +10001,7 @@
           },
           "es": {
             "value": "Guardar y cerrar",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "保存并关闭",
@@ -10019,7 +10019,7 @@
           },
           "es": {
             "value": "Cerrar la aplicación",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "关闭应用程序",
@@ -10036,11 +10036,11 @@
             "checked": true
           },
           "es": {
-            "value": "Informe sobre el tema",
-            "checked": false
+            "value": "Informar sobre problema",
+            "checked": true
           },
           "zh": {
-            "value": "报告问题",
+            "value": "上传错误报告",
             "checked": false
           }
         },
@@ -10055,7 +10055,7 @@
           },
           "es": {
             "value": "Obtener la versión completa",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "获取完整版本",
@@ -10073,10 +10073,10 @@
           },
           "es": {
             "value": "Es una versión Alfa. Si has visto algún problema, por favor, infórmalo haciendo clic en el botón de abajo. Gracias.",
-            "checked": false
+            "checked": true
           },
           "zh": {
-            "value": "这是一个Alpha版本。如果你看到任何问题，请点击下面的按钮报告。谢谢你。",
+            "value": "这是一个测试版本。如果你发现错误，请点击下面的按钮上传。谢谢你。",
             "checked": false
           }
         },
@@ -10091,10 +10091,10 @@
           },
           "es": {
             "value": "Estás utilizando la versión demo de PixelOver. Por favor, obtenga la versión completa para poder exportar su proyecto.",
-            "checked": false
+            "checked": true
           },
           "zh": {
-            "value": "你使用的是PixelOver的演示版本。请获得完整版，以便能够导出您的项目。",
+            "value": "你使用的是PixelOver的测试版本。请获得完整版，以便能够导出您的项目。",
             "checked": false
           }
         },
@@ -10108,11 +10108,11 @@
             "checked": true
           },
           "es": {
-            "value": "El proyecto no se salva.",
-            "checked": false
+            "value": "El proyecto no esta guardado.",
+            "checked": true
           },
           "zh": {
-            "value": "该项目没有被保存。",
+            "value": "该项目没有保存。",
             "checked": false
           }
         },
@@ -10126,11 +10126,11 @@
             "checked": true
           },
           "es": {
-            "value": "Añadir este sombreador a los favoritos ?",
-            "checked": false
+            "value": "¿Añadir este shader a favoritos?",
+            "checked": true
           },
           "zh": {
-            "value": "将此着色器添加到收藏夹？",
+            "value": "将此shader添加到列表？",
             "checked": false
           }
         },
@@ -10144,11 +10144,11 @@
             "checked": true
           },
           "es": {
-            "value": "Algunos proyectos no se guardan, pero se deja la aplicación de todos modos?",
-            "checked": false
+            "value": "Algún proyecto no esta guardado. ¿Estas seguro de cerrar el editor de todos modos?",
+            "checked": true
           },
           "zh": {
-            "value": "有些项目没有保存，无论如何都要离开应用程序？",
+            "value": "一些项目没有保存，是否退出应用程序？",
             "checked": false
           }
         },
@@ -10163,7 +10163,7 @@
           },
           "es": {
             "value": "Este archivo no se ha encontrado, está dañado o su formato no es compatible.",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "未找到该文件，已损坏或格式不支持。",
@@ -10181,7 +10181,7 @@
           },
           "es": {
             "value": "Por favor, confirme...",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "请确认...",
@@ -10199,7 +10199,7 @@
           },
           "es": {
             "value": "Todo",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "全部",
@@ -10216,8 +10216,8 @@
             "checked": true
           },
           "es": {
-            "value": "Se estrelló",
-            "checked": false
+            "value": "Crashed",
+            "checked": true
           },
           "zh": {
             "value": "坠毁",
@@ -10235,7 +10235,7 @@
           },
           "es": {
             "value": "Otros",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "其他",
@@ -10253,7 +10253,7 @@
           },
           "es": {
             "value": "Nuevo proyecto",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "新项目",
@@ -10271,7 +10271,7 @@
           },
           "es": {
             "value": "Por favor, confirme",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "请确认",
@@ -10288,8 +10288,8 @@
             "checked": true
           },
           "es": {
-            "value": "El proyecto no se carga. El archivo del proyecto no es accesible o está dañado.",
-            "checked": false
+            "value": "El proyecto no carga. El archivo del proyecto no es accesible o está dañado.",
+            "checked": true
           },
           "zh": {
             "value": "项目无法加载。项目文件无法访问或损坏。",
@@ -10313,6 +10313,24 @@
             "value": "不要再问了，用设置值代替。",
             "checked": false
           }
+        },
+        "create_objects_drop_files": {
+          "en": {
+            "value": "You can directly drop files to create objects.",
+            "checked": true
+          },
+          "fr": {
+            "value": "Vous pouvez directement déposer des fichiers pour créer des objets.",
+            "checked": true
+          },
+          "es": {
+            "value": "Puedes soltar directamente los archivos para crear objetos.",
+            "checked": false
+          },
+          "zh": {
+            "value": "你可以直接投放文件来创建对象。",
+            "checked": false
+          }
         }
       },
       "Animation": {
@@ -10328,7 +10346,7 @@
             },
             "es": {
               "value": "Añadir nueva(s) pista(s).",
-              "checked": false
+              "checked": true
             },
             "zh": {
               "value": "添加新的轨道。",
@@ -10347,7 +10365,7 @@
           },
           "es": {
             "value": "No se ha seleccionado ninguna tecla",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "没有选择钥匙",
@@ -10365,7 +10383,7 @@
           },
           "es": {
             "value": "No hay tecla o pista seleccionada",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "没有选择键或轨道",
@@ -10383,7 +10401,7 @@
           },
           "es": {
             "value": "Seleccione el valor de la llave.",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "选择键值。",
@@ -10401,7 +10419,7 @@
           },
           "es": {
             "value": "Posición clave seleccionada en la línea de tiempo.",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "在时间轴上选定关键位置。",
@@ -10419,7 +10437,7 @@
           },
           "es": {
             "value": "Nueva animación",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "新动画",
@@ -10437,7 +10455,7 @@
           },
           "es": {
             "value": "Sin pista",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "没有轨道",
@@ -10455,7 +10473,7 @@
           },
           "es": {
             "value": "Añadir pista",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "添加轨道",
@@ -10491,7 +10509,7 @@
           },
           "es": {
             "value": "Pista",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "追踪",
@@ -10509,7 +10527,7 @@
           },
           "es": {
             "value": "Clave",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "钥匙",
@@ -10527,7 +10545,7 @@
           },
           "es": {
             "value": "Animación en bucle.",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "循环动画。",
@@ -10545,7 +10563,7 @@
           },
           "es": {
             "value": "Crear una nueva animación.",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "创建新的动画。",
@@ -10563,7 +10581,7 @@
           },
           "es": {
             "value": "Borrar pistas",
-            "checked": false
+            "checked": true
           },
           "zh": {
             "value": "删除轨道",
