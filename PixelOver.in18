@@ -1726,7 +1726,7 @@
                 "checked": true
               },
               "zh": {
-                "value": "复制的钥匙",
+                "value": "复制的关键帧",
                 "checked": false
               }
             },
@@ -6583,7 +6583,7 @@
               "checked": true
             },
             "zh": {
-              "value": "打开",
+              "value": "外描边",
               "checked": false
             }
           },
@@ -6745,7 +6745,7 @@
               "checked": true
             },
             "zh": {
-              "value": "内部描边",
+              "value": "内描边",
               "checked": false
             }
           },
@@ -10368,7 +10368,7 @@
             "checked": true
           },
           "zh": {
-            "value": "没有选择钥匙",
+            "value": "没有选择关键帧",
             "checked": false
           }
         },
@@ -10530,7 +10530,7 @@
             "checked": true
           },
           "zh": {
-            "value": "钥匙",
+            "value": "关键帧",
             "checked": false
           }
         },
