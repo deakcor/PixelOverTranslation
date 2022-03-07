@@ -9936,6 +9936,26 @@
             }
           }
         },
+        "Export": {
+          "export_anim_all_tooltip": {
+            "en": {
+              "value": "Export all animations.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Exporter toutes les animations.",
+              "checked": true
+            },
+            "es": {
+              "value": "Exportar todo.",
+              "checked": false
+            },
+            "zh": {
+              "value": "导出全部",
+              "checked": false
+            }
+          }
+        },
         "Cancel": {
           "en": {
             "value": "Cancel",
