@@ -1,10 +1,7 @@
 {
   "version": "1.3.0",
   "mainLanguage": "en",
-  "ExportingPaths": {
-    "ext": "C:\\Users\\vince\\Documents\\projects\\app_topixelart\\src\\asset\\font\\PixelOver.csv",
-    "csv": "C:\\Users\\vince\\Documents\\projects\\app_topixelart\\src\\asset\\font\\PixelOver.csv"
-  },
+  "ExportingPaths": {},
   "project": {
     "PixelOver": {
       "Toolbar": {
@@ -23,7 +20,7 @@
               "checked": true
             },
             "zh": {
-              "value": "新建2D或3D项目。",
+              "value": "新建2D或3D工程。",
               "checked": true
             }
           },
@@ -41,8 +38,8 @@
               "checked": true
             },
             "zh": {
-              "value": "打开项目、图片或3D模型。",
-              "checked": false
+              "value": "打开工程、图像或3D模型。",
+              "checked": true
             }
           },
           "open_spritesheet_tooltip": {
@@ -59,8 +56,8 @@
               "checked": true
             },
             "zh": {
-              "value": "拆分选定的图像为序列图或作为动图导入。",
-              "checked": false
+              "value": "拆分选定的精灵图并以多张图像或动图导入。",
+              "checked": true
             }
           },
           "exit_tooltip": {
@@ -77,8 +74,8 @@
               "checked": true
             },
             "zh": {
-              "value": "退出软件。",
-              "checked": false
+              "value": "退出程序。",
+              "checked": true
             }
           },
           "remove_favorite_shaders_tooltip": {
@@ -95,8 +92,8 @@
               "checked": true
             },
             "zh": {
-              "value": "删除列表中除默认shader之外的所有shaders。",
-              "checked": false
+              "value": "删除收藏夹中所有非默认着色器。",
+              "checked": true
             }
           },
           "paste_image_tooltip": {
@@ -113,8 +110,8 @@
               "checked": true
             },
             "zh": {
-              "value": "从剪贴板上粘贴图片或物体。",
-              "checked": false
+              "value": "从剪贴板上粘贴图片或对象。",
+              "checked": true
             }
           },
           "remove_shader_tooltip": {
@@ -131,8 +128,8 @@
               "checked": true
             },
             "zh": {
-              "value": "从列表中删除此 shader。",
-              "checked": false
+              "value": "从列表中删除此着色器。",
+              "checked": true
             }
           },
           "default_shader_tooltip": {
@@ -149,8 +146,8 @@
               "checked": true
             },
             "zh": {
-              "value": "此shader将默认应用在新的项目。",
-              "checked": false
+              "value": "将该着色器默认应用于新的项目。",
+              "checked": true
             }
           },
           "apply_shader_tooltip": {
@@ -167,8 +164,8 @@
               "checked": true
             },
             "zh": {
-              "value": "将此shader应用于当前项目。",
-              "checked": false
+              "value": "将该着色器应用于当前项目。",
+              "checked": true
             }
           },
           "remove_recent_shaders_tooltip": {
@@ -185,8 +182,8 @@
               "checked": true
             },
             "zh": {
-              "value": "删除列表中最近使用的shaders。",
-              "checked": false
+              "value": "移除列表中最近使用的着色器。",
+              "checked": true
             }
           },
           "save_shader_as_tooltip": {
@@ -203,8 +200,8 @@
               "checked": true
             },
             "zh": {
-              "value": "将此shader另存为...",
-              "checked": false
+              "value": "将该着色器另存为...",
+              "checked": true
             }
           },
           "save_shader_tooltip": {
@@ -221,8 +218,8 @@
               "checked": true
             },
             "zh": {
-              "value": "保存shader。",
-              "checked": false
+              "value": "保存着色器。",
+              "checked": true
             }
           },
           "open_shader_tooltip": {
@@ -239,8 +236,8 @@
               "checked": true
             },
             "zh": {
-              "value": "打开shader，将选择对象的shader替换。",
-              "checked": false
+              "value": "打开新着色器并替换该选中对象的着色器。",
+              "checked": true
             }
           },
           "close_project_tooltip": {
@@ -257,8 +254,8 @@
               "checked": true
             },
             "zh": {
-              "value": "关闭当前项目。",
-              "checked": false
+              "value": "关闭当前工程页。",
+              "checked": true
             }
           },
           "export_project_tooltip": {
@@ -275,8 +272,8 @@
               "checked": true
             },
             "zh": {
-              "value": "导出为图片或GIF。",
-              "checked": false
+              "value": "导出为图像或GIF。",
+              "checked": true
             }
           },
           "save_project_as_old_tooltip": {
@@ -293,8 +290,8 @@
               "checked": true
             },
             "zh": {
-              "value": "将项目另存为...到pixelOver的早期版本。",
-              "checked": false
+              "value": "以PixelOver早期格式将工程另存为...。",
+              "checked": true
             }
           },
           "save_project_as_tooltip": {
@@ -311,8 +308,8 @@
               "checked": true
             },
             "zh": {
-              "value": "将项目另存为...",
-              "checked": false
+              "value": "将工程另存为...",
+              "checked": true
             }
           },
           "save_project_tooltip": {
@@ -329,8 +326,8 @@
               "checked": true
             },
             "zh": {
-              "value": "保存项目。",
-              "checked": false
+              "value": "保存工程。",
+              "checked": true
             }
           },
           "remove_recent_files_tooltip": {
@@ -347,8 +344,8 @@
               "checked": true
             },
             "zh": {
-              "value": "删除列表中所有最近的文件。",
-              "checked": false
+              "value": "移除列表中所有最近文件。",
+              "checked": true
             }
           }
         },
@@ -367,7 +364,7 @@
           },
           "zh": {
             "value": "文件",
-            "checked": false
+            "checked": true
           }
         },
         "Shader": {
@@ -384,8 +381,8 @@
             "checked": true
           },
           "zh": {
-            "value": "Shader",
-            "checked": false
+            "value": "着色器",
+            "checked": true
           }
         },
         "New": {
@@ -402,8 +399,8 @@
             "checked": true
           },
           "zh": {
-            "value": "新的",
-            "checked": false
+            "value": "新建",
+            "checked": true
           }
         },
         "Open": {
@@ -421,7 +418,7 @@
           },
           "zh": {
             "value": "打开",
-            "checked": false
+            "checked": true
           }
         },
         "Open Recent": {
@@ -438,8 +435,8 @@
             "checked": true
           },
           "zh": {
-            "value": "打开 最近的文件",
-            "checked": false
+            "value": "最近打开",
+            "checked": true
           }
         },
         "Clear Recent Files": {
@@ -456,8 +453,8 @@
             "checked": true
           },
           "zh": {
-            "value": "删除 最近的文件",
-            "checked": false
+            "value": "清除最近的文件",
+            "checked": true
           }
         },
         "Open Sprite Sheet": {
@@ -474,8 +471,8 @@
             "checked": true
           },
           "zh": {
-            "value": "打开精灵图像",
-            "checked": false
+            "value": "打开精灵图",
+            "checked": true
           }
         },
         "Exit Editor": {
@@ -492,8 +489,8 @@
             "checked": true
           },
           "zh": {
-            "value": "退出编辑",
-            "checked": false
+            "value": "退出编辑器",
+            "checked": true
           }
         },
         "Settings": {
@@ -511,7 +508,7 @@
           },
           "zh": {
             "value": "设置",
-            "checked": false
+            "checked": true
           }
         },
         "About": {
@@ -529,7 +526,7 @@
           },
           "zh": {
             "value": "关于",
-            "checked": false
+            "checked": true
           }
         },
         "Alpha Version": {
@@ -546,8 +543,8 @@
             "checked": true
           },
           "zh": {
-            "value": "测试版本",
-            "checked": false
+            "value": "Alpha版本",
+            "checked": true
           }
         },
         "New...": {
@@ -564,8 +561,8 @@
             "checked": true
           },
           "zh": {
-            "value": "新的...",
-            "checked": false
+            "value": "新建...",
+            "checked": true
           }
         },
         "Open...": {
@@ -583,7 +580,7 @@
           },
           "zh": {
             "value": "打开...",
-            "checked": false
+            "checked": true
           }
         },
         "Favorites": {
@@ -600,8 +597,8 @@
             "checked": true
           },
           "zh": {
-            "value": "列表",
-            "checked": false
+            "value": "收藏夹",
+            "checked": true
           }
         },
         "Add Favorite Shader": {
@@ -618,8 +615,8 @@
             "checked": true
           },
           "zh": {
-            "value": "添加shader",
-            "checked": false
+            "value": "向收藏夹添加着色器",
+            "checked": true
           }
         },
         "Clear Favorite Shaders": {
@@ -636,8 +633,8 @@
             "checked": true
           },
           "zh": {
-            "value": "删除shader",
-            "checked": false
+            "value": "删除收藏夹内着色器",
+            "checked": true
           }
         },
         "Remove": {
@@ -654,8 +651,8 @@
             "checked": true
           },
           "zh": {
-            "value": "删除",
-            "checked": false
+            "value": "移除",
+            "checked": true
           }
         },
         "Alpha": {
@@ -672,8 +669,8 @@
             "checked": true
           },
           "zh": {
-            "value": "阿尔法",
-            "checked": false
+            "value": "Alpha",
+            "checked": true
           }
         },
         "Save": {
@@ -691,7 +688,7 @@
           },
           "zh": {
             "value": "保存",
-            "checked": false
+            "checked": true
           }
         },
         "Save As": {
@@ -709,7 +706,7 @@
           },
           "zh": {
             "value": "另存为",
-            "checked": false
+            "checked": true
           }
         },
         "Save As to old version": {
@@ -726,8 +723,8 @@
             "checked": true
           },
           "zh": {
-            "value": "另存为旧版本",
-            "checked": false
+            "value": "以旧版本另存为",
+            "checked": true
           }
         },
         "Export...": {
@@ -745,7 +742,7 @@
           },
           "zh": {
             "value": "导出...",
-            "checked": false
+            "checked": true
           }
         },
         "Undo": {
@@ -763,7 +760,7 @@
           },
           "zh": {
             "value": "撤销",
-            "checked": false
+            "checked": true
           }
         },
         "Redo": {
@@ -780,8 +777,8 @@
             "checked": true
           },
           "zh": {
-            "value": "重做",
-            "checked": false
+            "value": "还原",
+            "checked": true
           }
         },
         "Close": {
@@ -799,7 +796,7 @@
           },
           "zh": {
             "value": "关闭",
-            "checked": false
+            "checked": true
           }
         },
         "Clear Recent Shaders": {
@@ -816,8 +813,8 @@
             "checked": true
           },
           "zh": {
-            "value": "删除最近的shader",
-            "checked": false
+            "value": "清除最近的着色器",
+            "checked": true
           }
         },
         "Apply": {
@@ -835,7 +832,7 @@
           },
           "zh": {
             "value": "应用",
-            "checked": false
+            "checked": true
           }
         },
         "Default": {
@@ -852,8 +849,8 @@
             "checked": true
           },
           "zh": {
-            "value": "默认情况下",
-            "checked": false
+            "value": "默认",
+            "checked": true
           }
         }
       },
@@ -872,8 +869,8 @@
             "checked": true
           },
           "zh": {
-            "value": "新的",
-            "checked": false
+            "value": "通知",
+            "checked": true
           }
         },
         "Files": {
@@ -891,7 +888,7 @@
           },
           "zh": {
             "value": "文件",
-            "checked": false
+            "checked": true
           }
         },
         "Projects": {
@@ -908,8 +905,8 @@
             "checked": true
           },
           "zh": {
-            "value": "项目",
-            "checked": false
+            "value": "工程",
+            "checked": true
           }
         },
         "Folders": {
@@ -927,7 +924,7 @@
           },
           "zh": {
             "value": "文件夹",
-            "checked": false
+            "checked": true
           }
         },
         "Infos": {
@@ -944,8 +941,8 @@
             "checked": true
           },
           "zh": {
-            "value": "信息",
-            "checked": false
+            "value": "资讯",
+            "checked": true
           }
         },
         "Docs and tutorials": {
@@ -962,8 +959,8 @@
             "checked": true
           },
           "zh": {
-            "value": "文档和教程",
-            "checked": false
+            "value": "软件文档和教程",
+            "checked": true
           }
         },
         "Open in a new project": {
@@ -980,8 +977,8 @@
             "checked": true
           },
           "zh": {
-            "value": "在一个新项目中打开",
-            "checked": false
+            "value": "在新工程中打开",
+            "checked": true
           }
         },
         "Reveal in file explorer": {
@@ -998,8 +995,8 @@
             "checked": true
           },
           "zh": {
-            "value": "在文件资源管理器中显示出来",
-            "checked": false
+            "value": "在资源管理器中显示文件",
+            "checked": true
           }
         },
         "Remove from recent list": {
@@ -1016,8 +1013,8 @@
             "checked": true
           },
           "zh": {
-            "value": "从最近列表中删除",
-            "checked": false
+            "value": "从最近打开中移除",
+            "checked": true
           }
         },
         "Author": {
@@ -1034,8 +1031,8 @@
             "checked": true
           },
           "zh": {
-            "value": "作者",
-            "checked": false
+            "value": "开发者",
+            "checked": true
           }
         },
         "Made with": {
@@ -1052,8 +1049,8 @@
             "checked": true
           },
           "zh": {
-            "value": "使用方法",
-            "checked": false
+            "value": "基于",
+            "checked": true
           }
         },
         "recover_files": {
@@ -1071,7 +1068,7 @@
           },
           "zh": {
             "value": "恢复文件...",
-            "checked": false
+            "checked": true
           }
         },
         "Community": {
@@ -1089,7 +1086,7 @@
           },
           "zh": {
             "value": "社区",
-            "checked": false
+            "checked": true
           }
         },
         "or_dragndrop_files": {
@@ -1106,8 +1103,8 @@
             "checked": true
           },
           "zh": {
-            "value": "或 %s 拖拽文件",
-            "checked": false
+            "value": "或 %s 拖放文件",
+            "checked": true
           }
         },
         "Home": {
@@ -1125,7 +1122,7 @@
           },
           "zh": {
             "value": "首页",
-            "checked": false
+            "checked": true
           }
         }
       },
@@ -1145,8 +1142,8 @@
               "checked": true
             },
             "zh": {
-              "value": "语言。",
-              "checked": false
+              "value": "应用界面的语言。",
+              "checked": true
             }
           },
           "saving_mode_tooltip": {
@@ -1163,8 +1160,8 @@
               "checked": true
             },
             "zh": {
-              "value": "资源节省模式。",
-              "checked": false
+              "value": "资源保存方式。",
+              "checked": true
             }
           },
           "update_length_tooltip": {
@@ -1182,7 +1179,7 @@
             },
             "zh": {
               "value": "更新动画长度为动画一。",
-              "checked": false
+              "checked": true
             }
           },
           "update_fps_tooltip": {
@@ -1200,7 +1197,7 @@
             },
             "zh": {
               "value": "更新FPS为动画一。",
-              "checked": false
+              "checked": true
             }
           },
           "settings_scene3d_create_anim_tooltip": {
@@ -1217,8 +1214,8 @@
               "checked": true
             },
             "zh": {
-              "value": "创建新的3D动画。",
-              "checked": false
+              "value": "从新的3D场景创建动画。",
+              "checked": true
             }
           }
         },
@@ -1238,7 +1235,7 @@
             },
             "zh": {
               "value": "透明背景",
-              "checked": false
+              "checked": true
             }
           },
           "Axes": {
@@ -1256,7 +1253,7 @@
             },
             "zh": {
               "value": "轴",
-              "checked": false
+              "checked": true
             }
           },
           "Grid": {
@@ -1274,7 +1271,7 @@
             },
             "zh": {
               "value": "网格",
-              "checked": false
+              "checked": true
             }
           },
           "Snaps": {
@@ -1291,8 +1288,8 @@
               "checked": true
             },
             "zh": {
-              "value": "捕捉器",
-              "checked": false
+              "value": "吸附",
+              "checked": true
             }
           },
           "Bones": {
@@ -1310,7 +1307,7 @@
             },
             "zh": {
               "value": "骨骼",
-              "checked": false
+              "checked": true
             }
           },
           "Compare": {
@@ -1328,7 +1325,7 @@
             },
             "zh": {
               "value": "比较",
-              "checked": false
+              "checked": true
             }
           },
           "Localization": {
@@ -1364,7 +1361,7 @@
             },
             "zh": {
               "value": "应用",
-              "checked": false
+              "checked": true
             }
           },
           "Objects": {
@@ -1381,8 +1378,8 @@
               "checked": true
             },
             "zh": {
-              "value": "物品",
-              "checked": false
+              "value": "对象",
+              "checked": true
             }
           },
           "Inputs": {
@@ -1400,7 +1397,7 @@
             },
             "zh": {
               "value": "输入",
-              "checked": false
+              "checked": true
             }
           },
           "Background": {
@@ -1417,8 +1414,8 @@
               "checked": true
             },
             "zh": {
-              "value": "背景介绍",
-              "checked": false
+              "value": "背景",
+              "checked": true
             }
           },
           "Pixel Art": {
@@ -1436,7 +1433,7 @@
             },
             "zh": {
               "value": "像素艺术",
-              "checked": false
+              "checked": true
             }
           },
           "3D Scene": {
@@ -1454,7 +1451,7 @@
             },
             "zh": {
               "value": "3D场景",
-              "checked": false
+              "checked": true
             }
           },
           "Rendering": {
@@ -1472,7 +1469,7 @@
             },
             "zh": {
               "value": "渲染",
-              "checked": false
+              "checked": true
             }
           }
         },
@@ -1492,8 +1489,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "颜色添加",
-                "checked": false
+                "value": "添加颜色",
+                "checked": true
               }
             },
             "Color Copy": {
@@ -1510,8 +1507,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "彩色副本",
-                "checked": false
+                "value": "复制颜色",
+                "checked": true
               }
             },
             "Color Paste": {
@@ -1528,8 +1525,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "色浆",
-                "checked": false
+                "value": "粘贴颜色",
+                "checked": true
               }
             },
             "Color Delete": {
@@ -1547,7 +1544,7 @@
               },
               "zh": {
                 "value": "删除颜色",
-                "checked": false
+                "checked": true
               }
             },
             "Integer Value": {
@@ -1564,8 +1561,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "整数值",
-                "checked": false
+                "value": "取整",
+                "checked": true
               }
             },
             "Play": {
@@ -1583,7 +1580,7 @@
               },
               "zh": {
                 "value": "播放",
-                "checked": false
+                "checked": true
               }
             },
             "Rewind": {
@@ -1601,7 +1598,7 @@
               },
               "zh": {
                 "value": "倒带",
-                "checked": false
+                "checked": true
               }
             },
             "Cut Track": {
@@ -1619,7 +1616,7 @@
               },
               "zh": {
                 "value": "切割轨道",
-                "checked": false
+                "checked": true
               }
             },
             "Copy Track": {
@@ -1636,8 +1633,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "复制跟踪",
-                "checked": false
+                "value": "复制轨道",
+                "checked": true
               }
             },
             "Paste Track": {
@@ -1655,7 +1652,7 @@
               },
               "zh": {
                 "value": "粘贴轨道",
-                "checked": false
+                "checked": true
               }
             },
             "Delete Track": {
@@ -1673,7 +1670,7 @@
               },
               "zh": {
                 "value": "删除轨道",
-                "checked": false
+                "checked": true
               }
             },
             "Add Key": {
@@ -1690,8 +1687,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "添加密钥",
-                "checked": false
+                "value": "添加关键帧",
+                "checked": true
               }
             },
             "Add Key Double Click": {
@@ -1708,8 +1705,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "添加键双击",
-                "checked": false
+                "value": "双击添加关键帧",
+                "checked": true
               }
             },
             "Duplicate Key": {
@@ -1726,8 +1723,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "复制的关键帧",
-                "checked": false
+                "value": "冻结关键帧",
+                "checked": true
               }
             },
             "Delete Key": {
@@ -1744,8 +1741,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "删除键",
-                "checked": false
+                "value": "删除关键帧",
+                "checked": true
               }
             }
           },
@@ -1763,8 +1760,8 @@
               "checked": true
             },
             "zh": {
-              "value": "最大颜色",
-              "checked": false
+              "value": "最大颜色数目",
+              "checked": true
             }
           },
           "Detect Pixel Art": {
@@ -1781,8 +1778,8 @@
               "checked": true
             },
             "zh": {
-              "value": "检测像素艺术",
-              "checked": false
+              "value": "像素艺术筛选",
+              "checked": true
             }
           },
           "Fit Canvas": {
@@ -1799,8 +1796,8 @@
               "checked": true
             },
             "zh": {
-              "value": "合身的帆布",
-              "checked": false
+              "value": "画布适配",
+              "checked": true
             }
           },
           "Don't ask": {
@@ -1817,8 +1814,8 @@
               "checked": true
             },
             "zh": {
-              "value": "不要问",
-              "checked": false
+              "value": "不再询问",
+              "checked": true
             }
           },
           "Select All": {
@@ -1835,8 +1832,8 @@
               "checked": true
             },
             "zh": {
-              "value": "选择所有",
-              "checked": false
+              "value": "全选",
+              "checked": true
             }
           },
           "Play": {
@@ -1854,7 +1851,7 @@
             },
             "zh": {
               "value": "播放",
-              "checked": false
+              "checked": true
             }
           },
           "Rewind": {
@@ -1872,7 +1869,7 @@
             },
             "zh": {
               "value": "倒带",
-              "checked": false
+              "checked": true
             }
           },
           "Toggle Lock": {
@@ -1889,8 +1886,8 @@
               "checked": true
             },
             "zh": {
-              "value": "拨动锁",
-              "checked": false
+              "value": "切换锁定",
+              "checked": true
             }
           },
           "Toggle 3D Lock": {
@@ -1907,8 +1904,8 @@
               "checked": true
             },
             "zh": {
-              "value": "切换3D锁",
-              "checked": false
+              "value": "切换3D锁定",
+              "checked": true
             }
           },
           "Toggle Center": {
@@ -1926,7 +1923,7 @@
             },
             "zh": {
               "value": "切换中心",
-              "checked": false
+              "checked": true
             }
           }
         },
@@ -1945,7 +1942,7 @@
           },
           "zh": {
             "value": "最近",
-            "checked": false
+            "checked": true
           }
         },
         "Unsaved file": {
@@ -1962,8 +1959,8 @@
             "checked": true
           },
           "zh": {
-            "value": "未保存的文件",
-            "checked": false
+            "value": "文件未保存",
+            "checked": true
           }
         },
         "Alert message": {
@@ -1980,8 +1977,8 @@
             "checked": true
           },
           "zh": {
-            "value": "警报信息",
-            "checked": false
+            "value": "警告弹窗",
+            "checked": true
           }
         },
         "For new project": {
@@ -1998,8 +1995,8 @@
             "checked": false
           },
           "zh": {
-            "value": "文件用",
-            "checked": false
+            "value": "新工程",
+            "checked": true
           }
         },
         "For current project": {
@@ -2016,8 +2013,8 @@
             "checked": true
           },
           "zh": {
-            "value": "对于项目",
-            "checked": false
+            "value": "当前工程",
+            "checked": true
           }
         },
         "General": {
@@ -2034,8 +2031,8 @@
             "checked": true
           },
           "zh": {
-            "value": "一般",
-            "checked": false
+            "value": "通用",
+            "checked": true
           }
         },
         "Interface": {
@@ -2052,8 +2049,8 @@
             "checked": true
           },
           "zh": {
-            "value": "介面",
-            "checked": false
+            "value": "界面",
+            "checked": true
           }
         },
         "Project": {
@@ -2070,8 +2067,8 @@
             "checked": true
           },
           "zh": {
-            "value": "项目",
-            "checked": false
+            "value": "工程",
+            "checked": true
           }
         },
         "Import": {
@@ -2088,8 +2085,8 @@
             "checked": true
           },
           "zh": {
-            "value": "进口",
-            "checked": false
+            "value": "导入",
+            "checked": true
           }
         },
         "Home page": {
@@ -2106,8 +2103,8 @@
             "checked": true
           },
           "zh": {
-            "value": "主页",
-            "checked": false
+            "value": "首页",
+            "checked": true
           }
         },
         "Open Folder": {
@@ -2125,7 +2122,7 @@
           },
           "zh": {
             "value": "打开文件夹",
-            "checked": false
+            "checked": true
           }
         },
         "Items": {
@@ -2143,7 +2140,7 @@
           },
           "zh": {
             "value": "项目",
-            "checked": false
+            "checked": true
           }
         },
         "Location": {
@@ -2160,8 +2157,8 @@
             "checked": true
           },
           "zh": {
-            "value": "地点",
-            "checked": false
+            "value": "位置",
+            "checked": true
           }
         },
         "Item List": {
@@ -2178,8 +2175,8 @@
             "checked": true
           },
           "zh": {
-            "value": "项目列表",
-            "checked": false
+            "value": "菜单",
+            "checked": true
           }
         },
         "Line space": {
@@ -2196,8 +2193,8 @@
             "checked": true
           },
           "zh": {
-            "value": "描边空间",
-            "checked": false
+            "value": "列间距",
+            "checked": true
           }
         },
         "Elements": {
@@ -2214,8 +2211,8 @@
             "checked": true
           },
           "zh": {
-            "value": "构成要素",
-            "checked": false
+            "value": "元素",
+            "checked": true
           }
         },
         "Text": {
@@ -2233,7 +2230,7 @@
           },
           "zh": {
             "value": "文本",
-            "checked": false
+            "checked": true
           }
         },
         "View": {
@@ -2250,8 +2247,8 @@
             "checked": true
           },
           "zh": {
-            "value": "查看",
-            "checked": false
+            "value": "预览",
+            "checked": true
           }
         },
         "Canvas": {
@@ -2269,7 +2266,7 @@
           },
           "zh": {
             "value": "画布",
-            "checked": false
+            "checked": true
           }
         },
         "Resource": {
@@ -2286,8 +2283,8 @@
             "checked": true
           },
           "zh": {
-            "value": "物体",
-            "checked": false
+            "value": "资源",
+            "checked": true
           }
         },
         "Image": {
@@ -2304,8 +2301,8 @@
             "checked": true
           },
           "zh": {
-            "value": "图片",
-            "checked": false
+            "value": "图像",
+            "checked": true
           }
         },
         "Animated Image": {
@@ -2322,8 +2319,8 @@
             "checked": true
           },
           "zh": {
-            "value": "精灵图片",
-            "checked": false
+            "value": "动图",
+            "checked": true
           }
         },
         "Auto Reload": {
@@ -2340,8 +2337,8 @@
             "checked": true
           },
           "zh": {
-            "value": "自动重新装填",
-            "checked": false
+            "value": "自动重加载",
+            "checked": true
           }
         },
         "Last selected": {
@@ -2358,8 +2355,8 @@
             "checked": true
           },
           "zh": {
-            "value": "最后选择",
-            "checked": false
+            "value": "最近选择",
+            "checked": true
           }
         },
         "Language": {
@@ -2377,7 +2374,7 @@
           },
           "zh": {
             "value": "语言",
-            "checked": false
+            "checked": true
           }
         },
         "Processor": {
@@ -2395,7 +2392,7 @@
           },
           "zh": {
             "value": "处理器",
-            "checked": false
+            "checked": true
           }
         },
         "Update FPS": {
@@ -2413,7 +2410,7 @@
           },
           "zh": {
             "value": "更新FPS",
-            "checked": false
+            "checked": true
           }
         },
         "Update length": {
@@ -2431,7 +2428,7 @@
           },
           "zh": {
             "value": "更新长度",
-            "checked": false
+            "checked": true
           }
         },
         "Saving mode": {
@@ -2448,8 +2445,8 @@
             "checked": true
           },
           "zh": {
-            "value": "储蓄模式",
-            "checked": false
+            "value": "保存方式",
+            "checked": true
           }
         },
         "Backup files": {
@@ -2466,8 +2463,8 @@
             "checked": true
           },
           "zh": {
-            "value": "备份文件",
-            "checked": false
+            "value": "文件备份",
+            "checked": true
           }
         },
         "Backup": {
@@ -2485,7 +2482,7 @@
           },
           "zh": {
             "value": "备份",
-            "checked": false
+            "checked": true
           }
         },
         "Backup every": {
@@ -2502,8 +2499,8 @@
             "checked": true
           },
           "zh": {
-            "value": "每一次备份",
-            "checked": false
+            "value": "备份间操作数",
+            "checked": true
           }
         },
         "Keep backup for": {
@@ -2520,8 +2517,8 @@
             "checked": true
           },
           "zh": {
-            "value": "保持备份，以便",
-            "checked": false
+            "value": "备份保留时长",
+            "checked": true
           }
         },
         "Actions": {
@@ -2538,8 +2535,8 @@
             "checked": true
           },
           "zh": {
-            "value": "行动",
-            "checked": false
+            "value": "次",
+            "checked": true
           }
         },
         "Days": {
@@ -2556,8 +2553,8 @@
             "checked": true
           },
           "zh": {
-            "value": "天数",
-            "checked": false
+            "value": "天",
+            "checked": true
           }
         },
         "default_values_new_project": {
@@ -2574,8 +2571,8 @@
             "checked": true
           },
           "zh": {
-            "value": "这些值默认应用于新项目。",
-            "checked": false
+            "value": "这些值将默认应用于新项目。",
+            "checked": true
           }
         },
         "custom_values_project": {
@@ -2593,7 +2590,7 @@
           },
           "zh": {
             "value": "本项目的自定义值。",
-            "checked": false
+            "checked": true
           }
         },
         "Tools": {
@@ -2611,7 +2608,7 @@
           },
           "zh": {
             "value": "工具",
-            "checked": false
+            "checked": true
           }
         },
         "Editor": {
@@ -2629,7 +2626,7 @@
           },
           "zh": {
             "value": "编辑",
-            "checked": false
+            "checked": true
           }
         },
         "Show Checker": {
@@ -2646,8 +2643,8 @@
             "checked": true
           },
           "zh": {
-            "value": "显示检查器",
-            "checked": false
+            "value": "显示透明背景",
+            "checked": true
           }
         },
         "Fit Zoom": {
@@ -2664,8 +2661,8 @@
             "checked": true
           },
           "zh": {
-            "value": "合适的缩放",
-            "checked": false
+            "value": "缩放适配",
+            "checked": true
           }
         },
         "Cell Size": {
@@ -2682,8 +2679,8 @@
             "checked": true
           },
           "zh": {
-            "value": "细胞大小",
-            "checked": false
+            "value": "棋盘格尺寸",
+            "checked": true
           }
         },
         "Primary": {
@@ -2700,8 +2697,8 @@
             "checked": true
           },
           "zh": {
-            "value": "初级",
-            "checked": false
+            "value": "主色",
+            "checked": true
           }
         },
         "Secondary": {
@@ -2718,8 +2715,8 @@
             "checked": true
           },
           "zh": {
-            "value": "中学",
-            "checked": false
+            "value": "副色",
+            "checked": true
           }
         },
         "Show Axes": {
@@ -2737,7 +2734,7 @@
           },
           "zh": {
             "value": "显示坐标轴",
-            "checked": false
+            "checked": true
           }
         },
         "x-axis color": {
@@ -2754,8 +2751,8 @@
             "checked": true
           },
           "zh": {
-            "value": "X轴的颜色",
-            "checked": false
+            "value": "X轴颜色",
+            "checked": true
           }
         },
         "y-axis color": {
@@ -2772,8 +2769,8 @@
             "checked": true
           },
           "zh": {
-            "value": "y轴的颜色",
-            "checked": false
+            "value": "Y轴颜色",
+            "checked": true
           }
         },
         "z-axis color": {
@@ -2790,8 +2787,8 @@
             "checked": true
           },
           "zh": {
-            "value": "Z轴的颜色",
-            "checked": false
+            "value": "Z轴颜色",
+            "checked": true
           }
         },
         "Show Grid": {
@@ -2809,7 +2806,7 @@
           },
           "zh": {
             "value": "显示网格",
-            "checked": false
+            "checked": true
           }
         },
         "Grid Size": {
@@ -2827,7 +2824,7 @@
           },
           "zh": {
             "value": "网格大小",
-            "checked": false
+            "checked": true
           }
         },
         "Grid Color": {
@@ -2845,7 +2842,7 @@
           },
           "zh": {
             "value": "网格颜色",
-            "checked": false
+            "checked": true
           }
         },
         "Snap to Grid": {
@@ -2862,8 +2859,8 @@
             "checked": true
           },
           "zh": {
-            "value": "捕捉到的网格",
-            "checked": false
+            "value": "网格吸附",
+            "checked": true
           }
         },
         "Snap to Axes": {
@@ -2880,8 +2877,8 @@
             "checked": true
           },
           "zh": {
-            "value": "捕捉到的轴",
-            "checked": false
+            "value": "轴吸附",
+            "checked": true
           }
         },
         "Show": {
@@ -2899,7 +2896,7 @@
           },
           "zh": {
             "value": "显示",
-            "checked": false
+            "checked": true
           }
         },
         "Enabled": {
@@ -2916,8 +2913,8 @@
             "checked": true
           },
           "zh": {
-            "value": "已启用",
-            "checked": false
+            "value": "激活",
+            "checked": true
           }
         },
         "Create animations": {
@@ -2935,7 +2932,7 @@
           },
           "zh": {
             "value": "创建动画",
-            "checked": false
+            "checked": true
           }
         },
         "Shortcuts": {
@@ -2952,8 +2949,8 @@
             "checked": true
           },
           "zh": {
-            "value": "捷径",
-            "checked": false
+            "value": "快捷键",
+            "checked": true
           }
         },
         "Checker Size": {
@@ -2970,8 +2967,8 @@
             "checked": true
           },
           "zh": {
-            "value": "棋盘尺寸",
-            "checked": false
+            "value": "棋盘格尺寸",
+            "checked": true
           }
         },
         "Low Mode": {
@@ -2988,8 +2985,8 @@
             "checked": true
           },
           "zh": {
-            "value": "低模式",
-            "checked": false
+            "value": "低性能模式",
+            "checked": true
           }
         }
       },
@@ -3009,8 +3006,8 @@
               "checked": true
             },
             "zh": {
-              "value": "场景树中的对象名称。",
-              "checked": false
+              "value": "对象在场景树中的名称。",
+              "checked": true
             }
           },
           "object_path_tooltip": {
@@ -3027,8 +3024,8 @@
               "checked": true
             },
             "zh": {
-              "value": "场景树中的物体路径。",
-              "checked": false
+              "value": "对象在场景树中的路径。",
+              "checked": true
             }
           },
           "object_basis_tooltip": {
@@ -3045,8 +3042,8 @@
               "checked": true
             },
             "zh": {
-              "value": "改变转换基础。全局基础或父级基础。",
-              "checked": false
+              "value": "改变变换参考系。可选择全局参考系或父级参考系。",
+              "checked": true
             }
           },
           "object_position_tooltip": {
@@ -3063,8 +3060,8 @@
               "checked": true
             },
             "zh": {
-              "value": "对象在父系基础上的位置。",
-              "checked": false
+              "value": "对象在父级参考系中的位置。",
+              "checked": true
             }
           },
           "object_global_position_tooltip": {
@@ -3081,8 +3078,8 @@
               "checked": true
             },
             "zh": {
-              "value": "物体在全球的位置。",
-              "checked": false
+              "value": "对象在全局坐标系中的位置。",
+              "checked": true
             }
           },
           "object_size_tooltip": {
@@ -3099,8 +3096,8 @@
               "checked": false
             },
             "zh": {
-              "value": "使用不同尺寸的重新取样参数的物体尺寸。",
-              "checked": false
+              "value": "在不同大小下重新采样后的项目尺寸。",
+              "checked": true
             }
           },
           "object_scale_tooltip": {
@@ -3117,8 +3114,8 @@
               "checked": true
             },
             "zh": {
-              "value": "对象在父系基础上与原件的百分比大小。",
-              "checked": false
+              "value": "对象在父级参考系下相对于源的百分比大小。",
+              "checked": true
             }
           },
           "object_global_scale_tooltip": {
@@ -3135,8 +3132,8 @@
               "checked": true
             },
             "zh": {
-              "value": "在全局的基础上，对象与原件的百分比大小。",
-              "checked": false
+              "value": "对象在全局坐标系下相对于源的百分比大小。",
+              "checked": true
             }
           },
           "object_rotation_tooltip": {
@@ -3153,8 +3150,8 @@
               "checked": true
             },
             "zh": {
-              "value": "物体在母体基础上的旋转。",
-              "checked": false
+              "value": "父级参考系下的对象旋转角度。",
+              "checked": true
             }
           },
           "object_global_rotation_tooltip": {
@@ -3171,8 +3168,8 @@
               "checked": true
             },
             "zh": {
-              "value": "在全局基础上的物体旋转。",
-              "checked": false
+              "value": "全局参考系下的对象旋转角度。",
+              "checked": true
             }
           },
           "object_pivot_tooltip": {
@@ -3189,8 +3186,8 @@
               "checked": true
             },
             "zh": {
-              "value": "物体支点和位置偏移。",
-              "checked": false
+              "value": "对象原点和位置的位移。",
+              "checked": true
             }
           },
           "object_skew_tooltip": {
@@ -3207,8 +3204,8 @@
               "checked": true
             },
             "zh": {
-              "value": "X轴在母体基础上的旋转。",
-              "checked": false
+              "value": "对象相对于父级坐标系X轴的旋转。",
+              "checked": true
             }
           },
           "object_global_skew_tooltip": {
@@ -3225,8 +3222,8 @@
               "checked": true
             },
             "zh": {
-              "value": "在全局基础上的X轴的旋转。",
-              "checked": false
+              "value": "对象相对于全局坐标系X轴的旋转。",
+              "checked": true
             }
           },
           "bone_length_tooltip": {
@@ -3243,8 +3240,8 @@
               "checked": true
             },
             "zh": {
-              "value": "当比例为100%时，骨骼的视觉长度（像素）。",
-              "checked": false
+              "value": "比例为100%时骨骼的视觉像素长度。",
+              "checked": true
             }
           },
           "bone_rest_position_tooltip": {
@@ -3261,8 +3258,8 @@
               "checked": true
             },
             "zh": {
-              "value": "在父母基础上的骨休位置。",
-              "checked": false
+              "value": "父级坐标系下的骨骼位置。",
+              "checked": true
             }
           },
           "bone_rest_rotation_tooltip": {
@@ -3279,8 +3276,8 @@
               "checked": true
             },
             "zh": {
-              "value": "在父母的基础上进行骨质休整。",
-              "checked": false
+              "value": "父级坐标系下的骨骼旋转角度。",
+              "checked": true
             }
           },
           "bone_rest_scale_tooltip": {
@@ -3297,8 +3294,8 @@
               "checked": true
             },
             "zh": {
-              "value": "在母体基础上的骨质休整比例。",
-              "checked": false
+              "value": "父级坐标系下的骨骼缩放比例。",
+              "checked": true
             }
           },
           "bone_rest_skew_tooltip": {
@@ -3315,8 +3312,8 @@
               "checked": true
             },
             "zh": {
-              "value": "在父母的基础上，骨休偏斜。",
-              "checked": false
+              "value": "父级坐标系下的骨骼斜度。",
+              "checked": true
             }
           },
           "canvas_max_size_tooltip": {
@@ -3333,8 +3330,8 @@
               "checked": true
             },
             "zh": {
-              "value": "可以显示对象的区域的大小。要小心，大的尺寸会降低软件的速度。",
-              "checked": false
+              "value": "对象可被显示区域的大小。提示：过大尺寸可拖慢软件。",
+              "checked": true
             }
           },
           "canvas_update_zoom_tooltip": {
@@ -3352,7 +3349,7 @@
             },
             "zh": {
               "value": "当画布调整大小时更新缩放。",
-              "checked": false
+              "checked": true
             }
           },
           "canvas_fit_childs_tooltip": {
@@ -3369,8 +3366,8 @@
               "checked": true
             },
             "zh": {
-              "value": "画布自动调整大小以包括他的孩子。",
-              "checked": false
+              "value": "画布自动调整大小以囊括其子对象。",
+              "checked": true
             }
           },
           "canvas_size_tooltip": {
@@ -3387,8 +3384,8 @@
               "checked": true
             },
             "zh": {
-              "value": "画布尺寸。它将是导出的结果的尺寸。",
-              "checked": false
+              "value": "画布尺寸。其为导出结果的尺寸。",
+              "checked": true
             }
           },
           "mesh_tooltip": {
@@ -3405,8 +3402,8 @@
               "checked": true
             },
             "zh": {
-              "value": "网状资源。",
-              "checked": false
+              "value": "网格资源。",
+              "checked": true
             }
           },
           "mtls_tooltip": {
@@ -3423,8 +3420,8 @@
               "checked": true
             },
             "zh": {
-              "value": "材料资源。",
-              "checked": false
+              "value": "材质资源。",
+              "checked": true
             }
           },
           "image_tooltip": {
@@ -3441,8 +3438,8 @@
               "checked": true
             },
             "zh": {
-              "value": "图片资源。",
-              "checked": false
+              "value": "图像资源。",
+              "checked": true
             }
           },
           "image_flip_h_tooltip": {
@@ -3460,7 +3457,7 @@
             },
             "zh": {
               "value": "水平翻转图像。",
-              "checked": false
+              "checked": true
             }
           },
           "image_flip_v_tooltip": {
@@ -3478,7 +3475,7 @@
             },
             "zh": {
               "value": "竖直翻转图像。",
-              "checked": false
+              "checked": true
             }
           },
           "image_frames_tooltip": {
@@ -3496,7 +3493,7 @@
             },
             "zh": {
               "value": "动画图像资源。",
-              "checked": false
+              "checked": true
             }
           },
           "frames_tooltip": {
@@ -3513,8 +3510,8 @@
               "checked": true
             },
             "zh": {
-              "value": "当前帧。最后一帧与第一帧相同，对循环动画有用。",
-              "checked": false
+              "value": "当前帧。最后一帧与第一帧相同，有利于循环动画制作。",
+              "checked": true
             }
           },
           "mipmaps_tooltip": {
@@ -3531,8 +3528,8 @@
               "checked": true
             },
             "zh": {
-              "value": "预先计算的纹理方案，以减少混叠。只适用于转换后的图像。",
-              "checked": false
+              "value": "预先计算纹理方案以减少混叠。只适用于转换后的图像。",
+              "checked": true
             }
           },
           "filter_tooltip": {
@@ -3549,8 +3546,8 @@
               "checked": true
             },
             "zh": {
-              "value": "缩放算法。只对转换后的图像起作用。",
-              "checked": false
+              "value": "缩放算法。只适用于转换后的图像。",
+              "checked": true
             }
           },
           "sharp_bilinear_tooltip": {
@@ -3568,7 +3565,7 @@
             },
             "zh": {
               "value": "针对像素艺术改进的双线性过滤器。",
-              "checked": false
+              "checked": true
             }
           },
           "pixel_scale_tooltip": {
@@ -3586,7 +3583,7 @@
             },
             "zh": {
               "value": "当图像被转换时，应用像素缩放算法。(将此用于原生像素艺术)",
-              "checked": false
+              "checked": true
             }
           },
           "shader_modulate_color_tooltip": {
@@ -3603,8 +3600,8 @@
               "checked": true
             },
             "zh": {
-              "value": "将原色叠加这个颜色。",
-              "checked": false
+              "value": "将两种不同颜色叠加。",
+              "checked": true
             }
           },
           "shader_hue_shift_tooltip": {
@@ -3621,8 +3618,8 @@
               "checked": true
             },
             "zh": {
-              "value": "调整色调。",
-              "checked": false
+              "value": "调整色相。",
+              "checked": true
             }
           },
           "shader_brightness_tooltip": {
@@ -3639,8 +3636,8 @@
               "checked": true
             },
             "zh": {
-              "value": "白色的强度。",
-              "checked": false
+              "value": "调整亮度（发白的程度）。",
+              "checked": true
             }
           },
           "shader_contrast_tooltip": {
@@ -3657,8 +3654,8 @@
               "checked": true
             },
             "zh": {
-              "value": "高饱和和低饱和之间的区别。",
-              "checked": false
+              "value": "调整对比度（亮色与暗色的差异度）。",
+              "checked": true
             }
           },
           "shader_gamma_tooltip": {
@@ -3676,7 +3673,7 @@
             },
             "zh": {
               "value": "非线性对比。",
-              "checked": false
+              "checked": true
             }
           },
           "shader_indexed_tooltip": {
@@ -3693,8 +3690,8 @@
               "checked": true
             },
             "zh": {
-              "value": "根据色卡对颜色进行索引。",
-              "checked": false
+              "value": "以调色板创建颜色索引。",
+              "checked": true
             }
           },
           "shader_palette_tooltip": {
@@ -3711,8 +3708,8 @@
               "checked": true
             },
             "zh": {
-              "value": "应用在索引图像上的色卡颜色。",
-              "checked": false
+              "value": "应用调色板于索引图像。",
+              "checked": true
             }
           },
           "shader_match_tooltip": {
@@ -3729,8 +3726,8 @@
               "checked": true
             },
             "zh": {
-              "value": "按照色卡上的位置将索引的颜色替换成新的颜色。",
-              "checked": false
+              "value": "基于调色板索引颜色位置替换新颜色。",
+              "checked": true
             }
           },
           "shader_indexation_alert_tooltip": {
@@ -3747,8 +3744,8 @@
               "checked": true
             },
             "zh": {
-              "value": "颜色应该被编入索引以使用这个功能。请启用索引并添加一个色卡。",
-              "checked": false
+              "value": "为使用该功能，颜色应被索引。请启用索引并添加调色板。",
+              "checked": true
             }
           },
           "shader_match_shift_tooltip": {
@@ -3765,8 +3762,8 @@
               "checked": true
             },
             "zh": {
-              "value": "移位匹配色卡。",
-              "checked": false
+              "value": "移位匹配调色板。",
+              "checked": true
             }
           },
           "shader_match_palette_palette": {
@@ -3783,8 +3780,8 @@
               "checked": true
             },
             "zh": {
-              "value": "用这个色卡的颜色替换索引的颜色。",
-              "checked": false
+              "value": "用该调色板颜色替换索引颜色。",
+              "checked": true
             }
           },
           "shader_mask_tooltip": {
@@ -3801,8 +3798,8 @@
               "checked": true
             },
             "zh": {
-              "value": "允许颜色被掩盖。",
-              "checked": false
+              "value": "允许覆盖颜色。",
+              "checked": true
             }
           },
           "shader_mask_palette_tooltip": {
@@ -3819,8 +3816,8 @@
               "checked": true
             },
             "zh": {
-              "value": "这款色卡的面具颜色。",
-              "checked": false
+              "value": "从调色板覆盖颜色。",
+              "checked": true
             }
           },
           "shader_dithering_enable_tooltip": {
@@ -3837,8 +3834,8 @@
               "checked": true
             },
             "zh": {
-              "value": "像素艺术技术，它模拟了过渡性的颜色。要使用它，图像应该有索引。",
-              "checked": false
+              "value": "模拟颜色过渡的像素艺术技法。为使用该功能，图像应创建索引。",
+              "checked": true
             }
           },
           "shader_dithering_amount_tooltip": {
@@ -3855,8 +3852,8 @@
               "checked": true
             },
             "zh": {
-              "value": "根据当前颜色与两个最近的色卡颜色的距离，应用抖动。",
-              "checked": false
+              "value": "根据当前颜色与两最近调色板颜色的色差应用抖动。",
+              "checked": true
             }
           },
           "shader_dithering_invert_tooltip": {
@@ -3873,8 +3870,8 @@
               "checked": true
             },
             "zh": {
-              "value": "反向抖动把抖动放在较深的颜色而不是较浅的颜色上。",
-              "checked": false
+              "value": "反向抖动，在较深颜色上创建抖动而非较浅。",
+              "checked": true
             }
           },
           "shader_lines_only_tooltip": {
@@ -3891,8 +3888,8 @@
               "checked": true
             },
             "zh": {
-              "value": "只显示线条。",
-              "checked": false
+              "value": "仅显示线条。",
+              "checked": true
             }
           },
           "shader_lines_indexed_tooltip": {
@@ -3909,8 +3906,8 @@
               "checked": true
             },
             "zh": {
-              "value": "关于索引线的颜色。",
-              "checked": false
+              "value": "重建索引线的颜色。",
+              "checked": true
             }
           },
           "shader_outline_enable_tooltip": {
@@ -3927,8 +3924,8 @@
               "checked": true
             },
             "zh": {
-              "value": "在形状周围画上完美的轮廓。",
-              "checked": false
+              "value": "在形状周围创建标准外轮廓。",
+              "checked": true
             }
           },
           "shader_saturation_tooltip": {
@@ -3945,8 +3942,8 @@
               "checked": true
             },
             "zh": {
-              "value": "颜色强度。",
-              "checked": false
+              "value": "颜色饱和度。",
+              "checked": true
             }
           },
           "image_flip_tooltip": {
@@ -3963,8 +3960,8 @@
               "checked": true
             },
             "zh": {
-              "value": "在给定的轴上翻转图像。",
-              "checked": false
+              "value": "在给定轴上翻转图像。",
+              "checked": true
             }
           },
           "shader_outline_color_tooltip": {
@@ -3981,8 +3978,8 @@
               "checked": true
             },
             "zh": {
-              "value": "轮廓颜色。",
-              "checked": false
+              "value": "描边颜色。",
+              "checked": true
             }
           },
           "shader_outline_screen_border_tooltip": {
@@ -3999,8 +3996,8 @@
               "checked": true
             },
             "zh": {
-              "value": "允许在边界和画布外打印轮廓。",
-              "checked": false
+              "value": "允许在边界和画布外创建描边。",
+              "checked": true
             }
           },
           "shader_outline_size_tooltip": {
@@ -4017,8 +4014,8 @@
               "checked": true
             },
             "zh": {
-              "value": "大纲尺寸。",
-              "checked": false
+              "value": "描边尺寸。",
+              "checked": true
             }
           },
           "shader_inline_enable_tooltip": {
@@ -4035,8 +4032,8 @@
               "checked": true
             },
             "zh": {
-              "value": "在形状周围放一个像素完美的内联。",
-              "checked": false
+              "value": "对形状创建标准像素内轮廓。",
+              "checked": true
             }
           },
           "shader_inline_blend_tooltip": {
@@ -4053,8 +4050,8 @@
               "checked": true
             },
             "zh": {
-              "value": "与下面的颜色混合在一起。",
-              "checked": false
+              "value": "混合下层颜色。",
+              "checked": true
             }
           },
           "shader_inline_screen_border_tooltip": {
@@ -4071,8 +4068,8 @@
               "checked": true
             },
             "zh": {
-              "value": "允许在边界和画布以外的地方打印内联。",
-              "checked": false
+              "value": "允许在边界和画布外创建内描边。",
+              "checked": true
             }
           },
           "shader_inline_size_tooltip": {
@@ -4089,8 +4086,8 @@
               "checked": true
             },
             "zh": {
-              "value": "直线尺寸。",
-              "checked": false
+              "value": "内描边尺寸。",
+              "checked": true
             }
           },
           "shader_inline_color_tooltip": {
@@ -4107,8 +4104,8 @@
               "checked": true
             },
             "zh": {
-              "value": "内联颜色。半透明的颜色将与下面的颜色混合。",
-              "checked": false
+              "value": "内描边颜色。半透明颜色将混合下层颜色。",
+              "checked": true
             }
           },
           "shader_colors_line_enable_tooltip": {
@@ -4125,8 +4122,8 @@
               "checked": true
             },
             "zh": {
-              "value": "在颜色之间放上像素般完美的线条。",
-              "checked": false
+              "value": "在颜色间创建像素优化边线。",
+              "checked": true
             }
           },
           "shader_colors_line_from_to_color_tooltip": {
@@ -4143,8 +4140,8 @@
               "checked": false
             },
             "zh": {
-              "value": "线条将显示在从和到颜色之间。",
-              "checked": false
+              "value": "边线将显示在主色彩和副色彩之间。",
+              "checked": true
             }
           },
           "shader_colors_line_invert_tooltip": {
@@ -4161,8 +4158,8 @@
               "checked": true
             },
             "zh": {
-              "value": "线条显示在第二种颜色上，而不是第一种。",
-              "checked": false
+              "value": "边线显示在副颜色上，而不是主颜色。",
+              "checked": true
             }
           },
           "shader_colors_line_color_tooltip": {
@@ -4179,8 +4176,8 @@
               "checked": true
             },
             "zh": {
-              "value": "线条颜色。",
-              "checked": false
+              "value": "边线颜色。",
+              "checked": true
             }
           },
           "shader_internal_line_depth_enable_tooltip": {
@@ -4197,8 +4194,8 @@
               "checked": true
             },
             "zh": {
-              "value": "把像素完美的内部线条放在深度图之后。",
-              "checked": false
+              "value": "依照深度图创建标准像素内折线。",
+              "checked": true
             }
           },
           "shader_internal_line_enable_alert_tooltip": {
@@ -4215,8 +4212,8 @@
               "checked": true
             },
             "zh": {
-              "value": "内部线条目前只在3D中可用。创建一个三维图层或导入一个三维模型来尝试。",
-              "checked": false
+              "value": "内折线当前仅在3D模式中可用。尝试创建一个3D图层或导入一个3D模型。",
+              "checked": true
             }
           },
           "shader_internal_line_invert_tooltip": {
@@ -4233,8 +4230,8 @@
               "checked": false
             },
             "zh": {
-              "value": "内部线将显示在第二种颜色上，而不是第一种颜色。",
-              "checked": false
+              "value": "内折线将显示在副颜色上而非主颜色。",
+              "checked": true
             }
           },
           "shader_internal_line_threshold_tooltip": {
@@ -4251,8 +4248,8 @@
               "checked": true
             },
             "zh": {
-              "value": "内部描边阈值。",
-              "checked": false
+              "value": "内折线阈值。",
+              "checked": true
             }
           },
           "shader_internal_line_color_tooltip": {
@@ -4269,8 +4266,8 @@
               "checked": true
             },
             "zh": {
-              "value": "内部描边颜色。",
-              "checked": false
+              "value": "内折线颜色。",
+              "checked": true
             }
           },
           "shader_internal_line_enable_tooltip": {
@@ -4287,8 +4284,8 @@
               "checked": false
             },
             "zh": {
-              "value": "在法线图后放上完美的内部线条。",
-              "checked": false
+              "value": "依照法线图创建标准像素内折线。",
+              "checked": true
             }
           },
           "shader_internal_line_color_outward_tooltip": {
@@ -4305,8 +4302,8 @@
               "checked": true
             },
             "zh": {
-              "value": "角度向外时的内部线条颜色。",
-              "checked": false
+              "value": "角度向外时的内折线颜色。",
+              "checked": true
             }
           },
           "shader_internal_line_color_inward_tooltip": {
@@ -4323,7 +4320,7 @@
               "checked": false
             },
             "zh": {
-              "value": "角度向内时的内部线条颜色。",
+              "value": "角度向内时的内折线颜色。",
               "checked": false
             }
           },
@@ -4341,8 +4338,8 @@
               "checked": true
             },
             "zh": {
-              "value": "允许透明。",
-              "checked": false
+              "value": "允许透明色。",
+              "checked": true
             }
           },
           "shader_alpha_to_zero_tooltip": {
@@ -4359,8 +4356,8 @@
               "checked": true
             },
             "zh": {
-              "value": "隐藏α值低于阈值的颜色。",
-              "checked": false
+              "value": "隐藏alpha值低于阈值的颜色。",
+              "checked": true
             }
           },
           "shader_polish_edge_tooltip": {
@@ -4377,8 +4374,8 @@
               "checked": true
             },
             "zh": {
-              "value": "删除尺寸等于或小于指定值的边。",
-              "checked": false
+              "value": "移除尺寸小于等于指定值的边。",
+              "checked": true
             }
           },
           "shader_polish_internal_edge_tooltip": {
@@ -4395,8 +4392,8 @@
               "checked": true
             },
             "zh": {
-              "value": "删除尺寸等于或小于指定值的内部边缘。",
-              "checked": false
+              "value": "移除尺寸小于等于指定值的内边。",
+              "checked": true
             }
           },
           "shader_denoise_tooltip": {
@@ -4413,8 +4410,8 @@
               "checked": true
             },
             "zh": {
-              "value": "减少噪音。",
-              "checked": false
+              "value": "减少噪点。",
+              "checked": true
             }
           },
           "shader_denoise_threshold_tooltip": {
@@ -4432,7 +4429,7 @@
             },
             "zh": {
               "value": "边缘锐化阈值。",
-              "checked": false
+              "checked": true
             }
           },
           "shader_denoise_sigma_tooltip": {
@@ -4450,7 +4447,7 @@
             },
             "zh": {
               "value": "标准偏差sigma半径。",
-              "checked": false
+              "checked": true
             }
           },
           "shader_denoise_ksigma_tooltip": {
@@ -4467,8 +4464,8 @@
               "checked": false
             },
             "zh": {
-              "value": "K因子的西格玛系数。",
-              "checked": false
+              "value": "K因子sigma系数。",
+              "checked": true
             }
           },
           "effect_tiled_mode_tooltip": {
@@ -4485,8 +4482,8 @@
               "checked": true
             },
             "zh": {
-              "value": "重复画布。",
-              "checked": false
+              "value": "重复并平铺画布。",
+              "checked": true
             }
           },
           "effect_tiled_opacity_tooltip": {
@@ -4503,8 +4500,8 @@
               "checked": true
             },
             "zh": {
-              "value": "每一步都按这个值减少瓷砖的不透明度。这对避免屏幕过载很有用。",
-              "checked": false
+              "value": "依该数值在每次平铺时减少不透明度。可以有效防止屏幕超负荷。",
+              "checked": true
             }
           },
           "effect_wave_tooltip": {
@@ -4522,7 +4519,7 @@
             },
             "zh": {
               "value": "启用波浪效果。",
-              "checked": false
+              "checked": true
             }
           },
           "effect_wave_time_tooltip": {
@@ -4539,8 +4536,8 @@
               "checked": true
             },
             "zh": {
-              "value": "制作波浪周期的时间偏移。",
-              "checked": false
+              "value": "偏移时间以制作波浪周期。",
+              "checked": true
             }
           },
           "effect_wave_angle_tooltip": {
@@ -4558,7 +4555,7 @@
             },
             "zh": {
               "value": "波浪的方向角。",
-              "checked": false
+              "checked": true
             }
           },
           "effect_wave_length_tooltip": {
@@ -4576,7 +4573,7 @@
             },
             "zh": {
               "value": "波动频率。",
-              "checked": false
+              "checked": true
             }
           },
           "effect_wave_amplitude_tooltip": {
@@ -4593,8 +4590,8 @@
               "checked": true
             },
             "zh": {
-              "value": "波浪的振幅。",
-              "checked": false
+              "value": "波浪振幅。",
+              "checked": true
             }
           },
           "effect_wave_wrap_tooltip": {
@@ -4611,8 +4608,8 @@
               "checked": false
             },
             "zh": {
-              "value": "裹住波浪失真，防止它出界。",
-              "checked": false
+              "value": "包裹波浪失真，防止它出界。",
+              "checked": true
             }
           },
           "effect_shockwave_tooltip": {
@@ -4630,7 +4627,7 @@
             },
             "zh": {
               "value": "启用冲击波效果。",
-              "checked": false
+              "checked": true
             }
           },
           "effect_shockwave_position_tooltip": {
@@ -4648,7 +4645,7 @@
             },
             "zh": {
               "value": "冲击波在层上的位置。",
-              "checked": false
+              "checked": true
             }
           },
           "effect_shockwave_time_tooltip": {
@@ -4666,7 +4663,7 @@
             },
             "zh": {
               "value": "冲击波时间偏移。",
-              "checked": false
+              "checked": true
             }
           },
           "effect_shockwave_width_tooltip": {
@@ -4684,7 +4681,7 @@
             },
             "zh": {
               "value": "冲击波宽度。",
-              "checked": false
+              "checked": true
             }
           },
           "effect_shockwave_height_tooltip": {
@@ -4702,7 +4699,7 @@
             },
             "zh": {
               "value": "冲击波高度。",
-              "checked": false
+              "checked": true
             }
           },
           "object_visible_tooltip": {
@@ -4719,8 +4716,8 @@
               "checked": true
             },
             "zh": {
-              "value": "物体的可见性。隐藏一个物体也会隐藏他的孩子。",
-              "checked": false
+              "value": "对象的可显性。隐藏一个对象同时会隐藏他的子对象。",
+              "checked": true
             }
           },
           "object_opacity_tooltip": {
@@ -4738,7 +4735,7 @@
             },
             "zh": {
               "value": "对象的不透明度。",
-              "checked": false
+              "checked": true
             }
           },
           "object_zlayer_tooltip": {
@@ -4755,8 +4752,8 @@
               "checked": true
             },
             "zh": {
-              "value": "定义显示的顺序，对打破父辈的排序很有用。较高的Z层将被显示在上面。",
-              "checked": false
+              "value": "定义显示层级，有利于突破父对象的排序。较高的Z层将被显示在顶层。",
+              "checked": true
             }
           },
           "layer_clipping_mask_tooltip": {
@@ -4773,8 +4770,8 @@
               "checked": true
             },
             "zh": {
-              "value": "用这个图层作为另一个图层的剪贴蒙版。",
-              "checked": false
+              "value": "用该图层作为另一个图层的剪贴蒙版。",
+              "checked": true
             }
           },
           "layer_clipping_mask_invert_tooltip": {
@@ -4791,8 +4788,8 @@
               "checked": true
             },
             "zh": {
-              "value": "颠倒面具。",
-              "checked": false
+              "value": "反转蒙版。",
+              "checked": true
             }
           },
           "group_position_tooltip": {
@@ -4810,7 +4807,7 @@
             },
             "zh": {
               "value": "组在画布上的位置，影响组中每个对象的位置。",
-              "checked": false
+              "checked": true
             }
           },
           "group_rotation_tooltip": {
@@ -4827,8 +4824,8 @@
               "checked": true
             },
             "zh": {
-              "value": "画布上的群组旋转，影响群组中每个物体的旋转和位置。",
-              "checked": false
+              "value": "组在画布上的旋转角度，影响组中每个对象的旋转角度以及位置。",
+              "checked": true
             }
           },
           "group_scale_tooltip": {
@@ -4845,8 +4842,8 @@
               "checked": true
             },
             "zh": {
-              "value": "画布上的群组比例，影响到群组中每个对象的比例和位置。",
-              "checked": false
+              "value": "组在画布上的缩放比例，影响到群组中每个对象的比例和位置。",
+              "checked": true
             }
           },
           "group_pivot_tooltip": {
@@ -4863,8 +4860,8 @@
               "checked": true
             },
             "zh": {
-              "value": "组的支点和偏移位置。",
-              "checked": false
+              "value": "组的原点和偏移位置。",
+              "checked": true
             }
           },
           "group_skew_tooltip": {
@@ -4882,7 +4879,7 @@
             },
             "zh": {
               "value": "组的X轴失真。",
-              "checked": false
+              "checked": true
             }
           },
           "anim_key_in_tooltip": {
@@ -4899,8 +4896,8 @@
               "checked": false
             },
             "zh": {
-              "value": "关键的过渡期在。",
-              "checked": false
+              "value": "关键帧入点。",
+              "checked": true
             }
           },
           "fill_tooltip": {
@@ -4917,8 +4914,8 @@
               "checked": false
             },
             "zh": {
-              "value": "使图像能够被填充颜色。",
-              "checked": false
+              "value": "使图像能被填充颜色。",
+              "checked": true
             }
           },
           "fill_color_tooltip": {
@@ -4936,7 +4933,7 @@
             },
             "zh": {
               "value": "填充颜色。",
-              "checked": false
+              "checked": true
             }
           },
           "shape_corner_radius_tooltip": {
@@ -4953,8 +4950,8 @@
               "checked": true
             },
             "zh": {
-              "value": "形状角半径。",
-              "checked": false
+              "value": "圆角半径。",
+              "checked": true
             }
           },
           "shape_center_radius_tooltip": {
@@ -4972,7 +4969,7 @@
             },
             "zh": {
               "value": "半径居中。",
-              "checked": false
+              "checked": true
             }
           },
           "shape_3d_type_tooltip": {
@@ -4989,8 +4986,8 @@
               "checked": true
             },
             "zh": {
-              "value": "形状类型。",
-              "checked": false
+              "value": "形状种类。",
+              "checked": true
             }
           },
           "effect_trail_tooltip": {
@@ -5007,8 +5004,8 @@
               "checked": true
             },
             "zh": {
-              "value": "启用跟踪效果。",
-              "checked": false
+              "value": "启用残影效果。",
+              "checked": true
             }
           },
           "effect_trail_time_tooltip": {
@@ -5025,8 +5022,8 @@
               "checked": true
             },
             "zh": {
-              "value": "追踪时间。",
-              "checked": false
+              "value": "残影留存时间。",
+              "checked": true
             }
           },
           "effect_trail_quality_tooltip": {
@@ -5044,7 +5041,7 @@
             },
             "zh": {
               "value": "图像重复的数量。",
-              "checked": false
+              "checked": true
             }
           },
           "settings_object_halign_tooltip": {
@@ -5061,8 +5058,8 @@
               "checked": true
             },
             "zh": {
-              "value": "画布中的水平对齐。",
-              "checked": false
+              "value": "在画布上水平对齐。",
+              "checked": true
             }
           },
           "settings_object_valign": {
@@ -5080,7 +5077,7 @@
             },
             "zh": {
               "value": "在画布上垂直对齐。",
-              "checked": false
+              "checked": true
             }
           },
           "settings_aimage_add_anim_tooltip": {
@@ -5097,8 +5094,8 @@
               "checked": true
             },
             "zh": {
-              "value": "添加动画的图像帧动画。",
-              "checked": false
+              "value": "添加动图的图像帧动画。",
+              "checked": true
             }
           },
           "scene3d_animation_tooltip": {
@@ -5116,7 +5113,7 @@
             },
             "zh": {
               "value": "3D场景动画。",
-              "checked": false
+              "checked": true
             }
           },
           "camera_fov_tooltip": {
@@ -5133,8 +5130,8 @@
               "checked": true
             },
             "zh": {
-              "value": "更新相机角度视场。",
-              "checked": false
+              "value": "更新摄像机视场角。",
+              "checked": true
             }
           },
           "environment_light_tooltip": {
@@ -5151,8 +5148,8 @@
               "checked": true
             },
             "zh": {
-              "value": "添加一个定向灯。",
-              "checked": false
+              "value": "添加一个定向光源。",
+              "checked": true
             }
           },
           "environment_light_color_tooltip": {
@@ -5169,8 +5166,8 @@
               "checked": true
             },
             "zh": {
-              "value": "设置方向光的颜色。",
-              "checked": false
+              "value": "设置定向光源的颜色。",
+              "checked": true
             }
           },
           "environment_light_intensity_tooltip": {
@@ -5187,8 +5184,8 @@
               "checked": true
             },
             "zh": {
-              "value": "设置方向性的灯光强度。",
-              "checked": false
+              "value": "设置定向光源的亮度。",
+              "checked": true
             }
           },
           "environment_ambient_color_tooltip": {
@@ -5206,7 +5203,7 @@
             },
             "zh": {
               "value": "设置环境光的颜色。",
-              "checked": false
+              "checked": true
             }
           },
           "environment_ambient_intensity_tooltip": {
@@ -5224,7 +5221,7 @@
             },
             "zh": {
               "value": "设置环境光强度。",
-              "checked": false
+              "checked": true
             }
           }
         },
@@ -5245,7 +5242,7 @@
               },
               "zh": {
                 "value": "参考系",
-                "checked": false
+                "checked": true
               }
             },
             "Position": {
@@ -5262,8 +5259,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "坐标",
-                "checked": false
+                "value": "位置",
+                "checked": true
               }
             },
             "Global Position": {
@@ -5280,8 +5277,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "全局坐标",
-                "checked": false
+                "value": "全局位置",
+                "checked": true
               }
             },
             "Size": {
@@ -5299,7 +5296,7 @@
               },
               "zh": {
                 "value": "尺寸",
-                "checked": false
+                "checked": true
               }
             },
             "Scale": {
@@ -5316,8 +5313,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "比例",
-                "checked": false
+                "value": "缩放",
+                "checked": true
               }
             },
             "Global Scale": {
@@ -5334,8 +5331,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "全局比例",
-                "checked": false
+                "value": "全局缩放",
+                "checked": true
               }
             },
             "Rotation": {
@@ -5352,8 +5349,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "旋转",
-                "checked": false
+                "value": "旋转角",
+                "checked": true
               }
             },
             "Global Rotation": {
@@ -5370,8 +5367,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "全局旋转",
-                "checked": false
+                "value": "全局旋转角",
+                "checked": true
               }
             },
             "Custom Offset": {
@@ -5389,7 +5386,7 @@
               },
               "zh": {
                 "value": "自定义偏移",
-                "checked": false
+                "checked": true
               }
             },
             "Offset": {
@@ -5406,8 +5403,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "原点",
-                "checked": false
+                "value": "偏移",
+                "checked": true
               }
             },
             "Top Right": {
@@ -5424,8 +5421,8 @@
                 "checked": false
               },
               "zh": {
-                "value": "右上角",
-                "checked": false
+                "value": "右上",
+                "checked": true
               }
             },
             "Top Center": {
@@ -5442,8 +5439,8 @@
                 "checked": false
               },
               "zh": {
-                "value": "顶部中心",
-                "checked": false
+                "value": "顶部",
+                "checked": true
               }
             },
             "Center Left": {
@@ -5460,8 +5457,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "中间偏左",
-                "checked": false
+                "value": "左中",
+                "checked": true
               }
             },
             "Center": {
@@ -5479,7 +5476,7 @@
               },
               "zh": {
                 "value": "中心",
-                "checked": false
+                "checked": true
               }
             },
             "Center Right": {
@@ -5496,8 +5493,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "右边中间",
-                "checked": false
+                "value": "右中",
+                "checked": true
               }
             },
             "Bottom Left": {
@@ -5514,8 +5511,8 @@
                 "checked": false
               },
               "zh": {
-                "value": "左下角",
-                "checked": false
+                "value": "左下",
+                "checked": true
               }
             },
             "Bottom Center": {
@@ -5532,8 +5529,8 @@
                 "checked": false
               },
               "zh": {
-                "value": "底部中心",
-                "checked": false
+                "value": "底部",
+                "checked": true
               }
             },
             "Bottom Right": {
@@ -5550,8 +5547,8 @@
                 "checked": false
               },
               "zh": {
-                "value": "右下角",
-                "checked": false
+                "value": "右下",
+                "checked": true
               }
             },
             "Custom": {
@@ -5568,8 +5565,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "定制",
-                "checked": false
+                "value": "自定义",
+                "checked": true
               }
             },
             "Skew": {
@@ -5587,7 +5584,7 @@
               },
               "zh": {
                 "value": "斜度",
-                "checked": false
+                "checked": true
               }
             },
             "Global Skew": {
@@ -5605,7 +5602,7 @@
               },
               "zh": {
                 "value": "全局斜度",
-                "checked": false
+                "checked": true
               }
             },
             "Length": {
@@ -5623,7 +5620,7 @@
               },
               "zh": {
                 "value": "长度",
-                "checked": false
+                "checked": true
               }
             },
             "Max size": {
@@ -5641,7 +5638,7 @@
               },
               "zh": {
                 "value": "最大尺寸",
-                "checked": false
+                "checked": true
               }
             }
           },
@@ -5661,7 +5658,7 @@
               },
               "zh": {
                 "value": "动画",
-                "checked": false
+                "checked": true
               }
             },
             "Freq.": {
@@ -5678,8 +5675,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "频率。",
-                "checked": false
+                "value": "频率",
+                "checked": true
               }
             },
             "Speed": {
@@ -5697,7 +5694,7 @@
               },
               "zh": {
                 "value": "速度",
-                "checked": false
+                "checked": true
               }
             },
             "Snap": {
@@ -5715,7 +5712,7 @@
               },
               "zh": {
                 "value": "捕捉",
-                "checked": false
+                "checked": true
               }
             },
             "Step": {
@@ -5732,7 +5729,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "步骤",
+                "value": "分段",
                 "checked": false
               }
             },
@@ -5750,8 +5747,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "モンクレール",
-                "checked": false
+                "value": "取模",
+                "checked": true
               }
             },
             "Value": {
@@ -5768,8 +5765,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "价值",
-                "checked": false
+                "value": "值",
+                "checked": true
               }
             },
             "In": {
@@ -5786,8 +5783,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "在",
-                "checked": false
+                "value": "帧入",
+                "checked": true
               }
             },
             "Out": {
@@ -5804,8 +5801,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "淘汰",
-                "checked": false
+                "value": "帧出",
+                "checked": true
               }
             },
             "Sine": {
@@ -5823,7 +5820,7 @@
               },
               "zh": {
                 "value": "正弦",
-                "checked": false
+                "checked": true
               }
             },
             "Quad": {
@@ -5840,7 +5837,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "四个",
+                "value": "平方",
                 "checked": false
               }
             },
@@ -5858,14 +5855,14 @@
                 "checked": false
               },
               "zh": {
-                "value": "立体式",
+                "value": "立方",
                 "checked": false
               }
             },
             "Quart": {
               "en": {
                 "value": "Quart",
-                "checked": true
+                "checked": false
               },
               "fr": {
                 "value": "Quart",
@@ -5876,7 +5873,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "夸特",
+                "value": "四次幂",
                 "checked": false
               }
             },
@@ -5894,7 +5891,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "昆特牌",
+                "value": "五次幂",
                 "checked": false
               }
             },
@@ -5912,7 +5909,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "博览会",
+                "value": "指数",
                 "checked": false
               }
             },
@@ -5930,7 +5927,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "溯源",
+                "value": "回弹",
                 "checked": false
               }
             },
@@ -5948,8 +5945,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "恒定",
-                "checked": false
+                "value": "不变",
+                "checked": true
               }
             },
             "Key transition": {
@@ -5966,8 +5963,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "关键过渡",
-                "checked": false
+                "value": "关键帧过渡",
+                "checked": true
               }
             }
           },
@@ -5986,8 +5983,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "网状物",
-                "checked": false
+                "value": "网格",
+                "checked": true
               }
             },
             "Materials": {
@@ -6004,8 +6001,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "材料",
-                "checked": false
+                "value": "材质",
+                "checked": true
               }
             },
             "Scene": {
@@ -6023,7 +6020,7 @@
               },
               "zh": {
                 "value": "场景",
-                "checked": false
+                "checked": true
               }
             },
             "Image": {
@@ -6040,8 +6037,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "图片",
-                "checked": false
+                "value": "图像",
+                "checked": true
               }
             },
             "Animated Image": {
@@ -6058,8 +6055,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "精灵图片",
-                "checked": false
+                "value": "动图",
+                "checked": true
               }
             },
             "Frame": {
@@ -6076,8 +6073,8 @@
                 "checked": false
               },
               "zh": {
-                "value": "框架",
-                "checked": false
+                "value": "帧",
+                "checked": true
               }
             },
             "File": {
@@ -6095,7 +6092,7 @@
               },
               "zh": {
                 "value": "文件",
-                "checked": false
+                "checked": true
               }
             }
           },
@@ -6114,8 +6111,8 @@
                 "checked": false
               },
               "zh": {
-                "value": "调制颜色",
-                "checked": false
+                "value": "调节色",
+                "checked": true
               }
             },
             "Hue": {
@@ -6132,8 +6129,8 @@
                 "checked": false
               },
               "zh": {
-                "value": "色调",
-                "checked": false
+                "value": "色相",
+                "checked": true
               }
             },
             "Brightness": {
@@ -6151,7 +6148,7 @@
               },
               "zh": {
                 "value": "亮度",
-                "checked": false
+                "checked": true
               }
             },
             "Contrast": {
@@ -6168,8 +6165,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "对比",
-                "checked": false
+                "value": "对比度",
+                "checked": true
               }
             },
             "Saturation": {
@@ -6187,7 +6184,7 @@
               },
               "zh": {
                 "value": "饱和度",
-                "checked": false
+                "checked": true
               }
             },
             "Gamma": {
@@ -6204,8 +6201,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "伽玛",
-                "checked": false
+                "value": "Gamma",
+                "checked": true
               }
             },
             "Indexed": {
@@ -6223,7 +6220,7 @@
               },
               "zh": {
                 "value": "索引",
-                "checked": false
+                "checked": true
               }
             },
             "Palette": {
@@ -6240,8 +6237,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "色卡",
-                "checked": false
+                "value": "调色盘",
+                "checked": true
               }
             },
             "Match": {
@@ -6258,7 +6255,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "匹配",
+                "value": "配对",
                 "checked": false
               }
             },
@@ -6294,7 +6291,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "匹配色卡",
+                "value": "与调色盘配对",
                 "checked": false
               }
             },
@@ -6312,8 +6309,8 @@
                 "checked": true
               },
               "zh": {
-                "value": "遮罩",
-                "checked": false
+                "value": "蒙版",
+                "checked": true
               }
             },
             "Mask Palette": {
@@ -6330,7 +6327,7 @@
                 "checked": false
               },
               "zh": {
-                "value": "遮罩色卡",
+                "value": "蒙版调色板",
                 "checked": false
               }
             },
@@ -6349,7 +6346,7 @@
               },
               "zh": {
                 "value": "抖动",
-                "checked": false
+                "checked": true
               }
             },
             "Amount": {
@@ -6367,7 +6364,7 @@
               },
               "zh": {
                 "value": "数量",
-                "checked": false
+                "checked": true
               }
             },
             "Invert": {
@@ -6385,7 +6382,7 @@
               },
               "zh": {
                 "value": "反转",
-                "checked": false
+                "checked": true
               }
             },
             "Lines Only": {
@@ -6403,7 +6400,7 @@
               },
               "zh": {
                 "value": "仅显示描边",
-                "checked": false
+                "checked": true
               }
             }
           },
@@ -6421,8 +6418,8 @@
               "checked": true
             },
             "zh": {
-              "value": "储蓄模式",
-              "checked": false
+              "value": "保存方式",
+              "checked": true
             }
           },
           "Name": {
@@ -6440,7 +6437,7 @@
             },
             "zh": {
               "value": "名称",
-              "checked": false
+              "checked": true
             }
           },
           "Flip": {
@@ -6458,7 +6455,7 @@
             },
             "zh": {
               "value": "翻转",
-              "checked": false
+              "checked": true
             }
           },
           "Horizontally": {
@@ -6476,7 +6473,7 @@
             },
             "zh": {
               "value": "水平翻转",
-              "checked": false
+              "checked": true
             }
           },
           "Path": {
@@ -6494,7 +6491,7 @@
             },
             "zh": {
               "value": "路径",
-              "checked": false
+              "checked": true
             }
           },
           "Update zoom": {
@@ -6512,7 +6509,7 @@
             },
             "zh": {
               "value": "更新变焦",
-              "checked": false
+              "checked": true
             }
           },
           "Auto Resize": {
@@ -6529,8 +6526,8 @@
               "checked": true
             },
             "zh": {
-              "value": "贴合图像",
-              "checked": false
+              "value": "图像自适应",
+              "checked": true
             }
           },
           "Filter": {
@@ -6547,8 +6544,8 @@
               "checked": true
             },
             "zh": {
-              "value": "修正",
-              "checked": false
+              "value": "滤镜",
+              "checked": true
             }
           },
           "Pixel scaling": {
@@ -6565,8 +6562,8 @@
               "checked": true
             },
             "zh": {
-              "value": "缩放算法",
-              "checked": false
+              "value": "像素缩放",
+              "checked": true
             }
           },
           "Outline": {
@@ -6583,8 +6580,8 @@
               "checked": true
             },
             "zh": {
-              "value": "外描边",
-              "checked": false
+              "value": "描边",
+              "checked": true
             }
           },
           "Color": {
@@ -6602,7 +6599,7 @@
             },
             "zh": {
               "value": "颜色",
-              "checked": false
+              "checked": true
             }
           },
           "Canvas Border": {
@@ -6619,8 +6616,8 @@
               "checked": true
             },
             "zh": {
-              "value": "允许超出画布",
-              "checked": false
+              "value": "画布边界",
+              "checked": true
             }
           },
           "Inline": {
@@ -6638,7 +6635,7 @@
             },
             "zh": {
               "value": "内描边",
-              "checked": false
+              "checked": true
             }
           },
           "Blend": {
@@ -6655,8 +6652,8 @@
               "checked": false
             },
             "zh": {
-              "value": "混合型",
-              "checked": false
+              "value": "混合",
+              "checked": true
             }
           },
           "Line": {
@@ -6673,8 +6670,8 @@
               "checked": true
             },
             "zh": {
-              "value": "描边",
-              "checked": false
+              "value": "边线",
+              "checked": true
             }
           },
           "From Color": {
@@ -6691,8 +6688,8 @@
               "checked": true
             },
             "zh": {
-              "value": "来自颜色",
-              "checked": false
+              "value": "主颜色",
+              "checked": true
             }
           },
           "To Color": {
@@ -6709,8 +6706,8 @@
               "checked": true
             },
             "zh": {
-              "value": "对色彩",
-              "checked": false
+              "value": "副颜色",
+              "checked": true
             }
           },
           "Line Color": {
@@ -6727,8 +6724,8 @@
               "checked": true
             },
             "zh": {
-              "value": "线条颜色",
-              "checked": false
+              "value": "边线颜色",
+              "checked": true
             }
           },
           "Internal Line": {
@@ -6745,8 +6742,8 @@
               "checked": true
             },
             "zh": {
-              "value": "内描边",
-              "checked": false
+              "value": "内折线",
+              "checked": true
             }
           },
           "Threshold": {
@@ -6764,7 +6761,7 @@
             },
             "zh": {
               "value": "阈值",
-              "checked": false
+              "checked": true
             }
           },
           "Color Outward": {
@@ -6781,8 +6778,8 @@
               "checked": true
             },
             "zh": {
-              "value": "颜色向外",
-              "checked": false
+              "value": "向外颜色",
+              "checked": true
             }
           },
           "Color Inward": {
@@ -6799,8 +6796,8 @@
               "checked": true
             },
             "zh": {
-              "value": "颜色向内",
-              "checked": false
+              "value": "向内颜色",
+              "checked": true
             }
           },
           "Transparency": {
@@ -6818,7 +6815,7 @@
             },
             "zh": {
               "value": "透明度",
-              "checked": false
+              "checked": true
             }
           },
           "Max Threshold": {
@@ -6836,7 +6833,7 @@
             },
             "zh": {
               "value": "最大阈值",
-              "checked": false
+              "checked": true
             }
           },
           "Remove Edge": {
@@ -6853,8 +6850,8 @@
               "checked": true
             },
             "zh": {
-              "value": "线条修正",
-              "checked": false
+              "value": "边缘修正",
+              "checked": true
             }
           },
           "Remove Internal Edge": {
@@ -6871,8 +6868,8 @@
               "checked": true
             },
             "zh": {
-              "value": "内部线条修正",
-              "checked": false
+              "value": "内边缘修正",
+              "checked": true
             }
           },
           "Denoising": {
@@ -6889,8 +6886,8 @@
               "checked": true
             },
             "zh": {
-              "value": "虚化",
-              "checked": false
+              "value": "羽化",
+              "checked": true
             }
           },
           "Edge Threshold": {
@@ -6907,8 +6904,8 @@
               "checked": true
             },
             "zh": {
-              "value": "范围",
-              "checked": false
+              "value": "边界阈值",
+              "checked": true
             }
           },
           "Sigma Radius": {
@@ -6925,8 +6922,8 @@
               "checked": false
             },
             "zh": {
-              "value": "西格玛半径",
-              "checked": false
+              "value": "Sigma半径",
+              "checked": true
             }
           },
           "Sigma coef.": {
@@ -6943,8 +6940,8 @@
               "checked": false
             },
             "zh": {
-              "value": "Sigma coef.",
-              "checked": false
+              "value": "Sigma系数",
+              "checked": true
             }
           },
           "Tiled mode": {
@@ -6961,8 +6958,8 @@
               "checked": true
             },
             "zh": {
-              "value": "平铺模式",
-              "checked": false
+              "value": "平铺",
+              "checked": true
             }
           },
           "Opacity Drop": {
@@ -6979,8 +6976,8 @@
               "checked": true
             },
             "zh": {
-              "value": "不透明度调整",
-              "checked": false
+              "value": "不透明度降值",
+              "checked": true
             }
           },
           "Enable": {
@@ -6997,8 +6994,8 @@
               "checked": true
             },
             "zh": {
-              "value": "启用",
-              "checked": false
+              "value": "生效",
+              "checked": true
             }
           },
           "Time": {
@@ -7016,7 +7013,7 @@
             },
             "zh": {
               "value": "时间",
-              "checked": false
+              "checked": true
             }
           },
           "Angle": {
@@ -7034,7 +7031,7 @@
             },
             "zh": {
               "value": "角度",
-              "checked": false
+              "checked": true
             }
           },
           "Frequency": {
@@ -7051,8 +7048,8 @@
               "checked": true
             },
             "zh": {
-              "value": "頻率",
-              "checked": false
+              "value": "频率",
+              "checked": true
             }
           },
           "Amplitude": {
@@ -7070,7 +7067,7 @@
             },
             "zh": {
               "value": "振幅",
-              "checked": false
+              "checked": true
             }
           },
           "Wrap": {
@@ -7088,7 +7085,7 @@
             },
             "zh": {
               "value": "包裹",
-              "checked": false
+              "checked": true
             }
           },
           "Width": {
@@ -7106,7 +7103,7 @@
             },
             "zh": {
               "value": "范围",
-              "checked": false
+              "checked": true
             }
           },
           "Height": {
@@ -7123,8 +7120,8 @@
               "checked": true
             },
             "zh": {
-              "value": "深度",
-              "checked": false
+              "value": "高度",
+              "checked": true
             }
           },
           "Visible": {
@@ -7141,8 +7138,8 @@
               "checked": true
             },
             "zh": {
-              "value": "可见",
-              "checked": false
+              "value": "展示",
+              "checked": true
             }
           },
           "Opacity": {
@@ -7159,8 +7156,8 @@
               "checked": true
             },
             "zh": {
-              "value": "不透明",
-              "checked": false
+              "value": "不透明度",
+              "checked": true
             }
           },
           "Z Layer": {
@@ -7178,7 +7175,7 @@
             },
             "zh": {
               "value": "Z层",
-              "checked": false
+              "checked": true
             }
           },
           "Corner Radius": {
@@ -7195,8 +7192,8 @@
               "checked": true
             },
             "zh": {
-              "value": "转角半径",
-              "checked": false
+              "value": "圆角半径",
+              "checked": true
             }
           },
           "Center Radius": {
@@ -7214,7 +7211,7 @@
             },
             "zh": {
               "value": "中心半径",
-              "checked": false
+              "checked": true
             }
           },
           "Type": {
@@ -7232,7 +7229,7 @@
             },
             "zh": {
               "value": "类型",
-              "checked": false
+              "checked": true
             }
           },
           "Duration": {
@@ -7249,8 +7246,8 @@
               "checked": true
             },
             "zh": {
-              "value": "时间",
-              "checked": false
+              "value": "时段",
+              "checked": true
             }
           },
           "Quality": {
@@ -7268,7 +7265,7 @@
             },
             "zh": {
               "value": "质量",
-              "checked": false
+              "checked": true
             }
           },
           "Horizontal Alignment": {
@@ -7286,7 +7283,7 @@
             },
             "zh": {
               "value": "横向排列",
-              "checked": false
+              "checked": true
             }
           },
           "Vertical Alignment": {
@@ -7303,8 +7300,8 @@
               "checked": true
             },
             "zh": {
-              "value": "垂直排列",
-              "checked": false
+              "value": "纵向排列",
+              "checked": true
             }
           },
           "Projection": {
@@ -7321,8 +7318,8 @@
               "checked": true
             },
             "zh": {
-              "value": "透视",
-              "checked": false
+              "value": "投影",
+              "checked": true
             }
           },
           "Orthogonal": {
@@ -7340,7 +7337,7 @@
             },
             "zh": {
               "value": "正交",
-              "checked": false
+              "checked": true
             }
           },
           "Perspective": {
@@ -7358,7 +7355,7 @@
             },
             "zh": {
               "value": "透视",
-              "checked": false
+              "checked": true
             }
           },
           "FOV": {
@@ -7375,8 +7372,8 @@
               "checked": true
             },
             "zh": {
-              "value": "视野",
-              "checked": false
+              "value": "视场角",
+              "checked": true
             }
           },
           "Light": {
@@ -7394,7 +7391,7 @@
             },
             "zh": {
               "value": "亮度",
-              "checked": false
+              "checked": true
             }
           },
           "Intensity": {
@@ -7412,7 +7409,7 @@
             },
             "zh": {
               "value": "强度",
-              "checked": false
+              "checked": true
             }
           },
           "Vertically": {
@@ -7430,7 +7427,7 @@
             },
             "zh": {
               "value": "纵向翻转",
-              "checked": false
+              "checked": true
             }
           }
         },
@@ -7449,8 +7446,8 @@
               "checked": false
             },
             "zh": {
-              "value": "常规视图",
-              "checked": false
+              "value": "无效果",
+              "checked": true
             }
           },
           "Preview": {
@@ -7468,7 +7465,7 @@
             },
             "zh": {
               "value": "预览视图",
-              "checked": false
+              "checked": true
             }
           },
           "Normal buffer": {
@@ -7486,7 +7483,7 @@
             },
             "zh": {
               "value": "法线视图",
-              "checked": false
+              "checked": true
             }
           },
           "Depth buffer": {
@@ -7504,7 +7501,7 @@
             },
             "zh": {
               "value": "深度视图",
-              "checked": false
+              "checked": true
             }
           },
           "Disabled": {
@@ -7521,8 +7518,8 @@
               "checked": false
             },
             "zh": {
-              "value": "无",
-              "checked": false
+              "value": "禁用",
+              "checked": true
             }
           },
           "Path only": {
@@ -7539,8 +7536,8 @@
               "checked": false
             },
             "zh": {
-              "value": "只有路径",
-              "checked": false
+              "value": "仅路径",
+              "checked": true
             }
           },
           "Path and data": {
@@ -7558,7 +7555,7 @@
             },
             "zh": {
               "value": "路径和数据",
-              "checked": false
+              "checked": true
             }
           },
           "Always": {
@@ -7575,8 +7572,8 @@
               "checked": false
             },
             "zh": {
-              "value": "始终如一",
-              "checked": false
+              "value": "总是",
+              "checked": true
             }
           },
           "item_no_track_exist": {
@@ -7593,8 +7590,8 @@
               "checked": false
             },
             "zh": {
-              "value": "当没有轨道存在时",
-              "checked": false
+              "value": "轨道不存在时",
+              "checked": true
             }
           },
           "Never": {
@@ -7612,7 +7609,7 @@
             },
             "zh": {
               "value": "从不",
-              "checked": false
+              "checked": true
             }
           },
           "item_no_animation": {
@@ -7629,8 +7626,8 @@
               "checked": false
             },
             "zh": {
-              "value": "当没有动画存在时",
-              "checked": false
+              "value": "动画不存在时",
+              "checked": true
             }
           },
           "item_animation": {
@@ -7647,8 +7644,8 @@
               "checked": false
             },
             "zh": {
-              "value": "当一个动画存在时",
-              "checked": false
+              "value": "动画存在时",
+              "checked": true
             }
           },
           "item_in_new_animation": {
@@ -7665,8 +7662,8 @@
               "checked": false
             },
             "zh": {
-              "value": "总是在一个新的动画中",
-              "checked": false
+              "value": "总是在新动画中",
+              "checked": true
             }
           },
           "item_in_current_animation": {
@@ -7683,8 +7680,8 @@
               "checked": false
             },
             "zh": {
-              "value": "总是在当前的动画中",
-              "checked": false
+              "value": "总是在当前动画中",
+              "checked": true
             }
           },
           "Top": {
@@ -7701,8 +7698,8 @@
               "checked": false
             },
             "zh": {
-              "value": "返回顶部",
-              "checked": false
+              "value": "顶部",
+              "checked": true
             }
           },
           "Bottom": {
@@ -7720,7 +7717,7 @@
             },
             "zh": {
               "value": "底部",
-              "checked": false
+              "checked": true
             }
           },
           "Left": {
@@ -7737,8 +7734,8 @@
               "checked": false
             },
             "zh": {
-              "value": "左边",
-              "checked": false
+              "value": "←",
+              "checked": true
             }
           },
           "Right": {
@@ -7755,8 +7752,8 @@
               "checked": false
             },
             "zh": {
-              "value": "对",
-              "checked": false
+              "value": "→",
+              "checked": true
             }
           },
           "Cube": {
@@ -7774,7 +7771,7 @@
             },
             "zh": {
               "value": "立方体",
-              "checked": false
+              "checked": true
             }
           },
           "Sphere": {
@@ -7792,7 +7789,7 @@
             },
             "zh": {
               "value": "球体",
-              "checked": false
+              "checked": true
             }
           },
           "Cylinder": {
@@ -7810,7 +7807,7 @@
             },
             "zh": {
               "value": "圆柱",
-              "checked": false
+              "checked": true
             }
           },
           "None": {
@@ -7828,7 +7825,7 @@
             },
             "zh": {
               "value": "无",
-              "checked": false
+              "checked": true
             }
           },
           "Linear": {
@@ -7845,8 +7842,8 @@
               "checked": false
             },
             "zh": {
-              "value": "硬边缘",
-              "checked": false
+              "value": "线性",
+              "checked": true
             }
           },
           "Local": {
@@ -7863,8 +7860,8 @@
               "checked": false
             },
             "zh": {
-              "value": "自身",
-              "checked": false
+              "value": "本地",
+              "checked": true
             }
           },
           "Global": {
@@ -7882,7 +7879,7 @@
             },
             "zh": {
               "value": "全局",
-              "checked": false
+              "checked": true
             }
           },
           "Move down": {
@@ -7900,7 +7897,7 @@
             },
             "zh": {
               "value": "下移",
-              "checked": false
+              "checked": true
             }
           },
           "Move up": {
@@ -7917,8 +7914,8 @@
               "checked": false
             },
             "zh": {
-              "value": "向上移动",
-              "checked": false
+              "value": "上移",
+              "checked": true
             }
           },
           "Move to bottom": {
@@ -7936,7 +7933,7 @@
             },
             "zh": {
               "value": "移至底部",
-              "checked": false
+              "checked": true
             }
           },
           "Move to top": {
@@ -7954,7 +7951,7 @@
             },
             "zh": {
               "value": "移至顶部",
-              "checked": false
+              "checked": true
             }
           },
           "Top Left": {
@@ -7971,8 +7968,8 @@
               "checked": false
             },
             "zh": {
-              "value": "左上角",
-              "checked": false
+              "value": "左上",
+              "checked": true
             }
           },
           "Delete": {
@@ -7989,8 +7986,8 @@
               "checked": false
             },
             "zh": {
-              "value": "删除",
-              "checked": false
+              "value": "Delete",
+              "checked": true
             }
           },
           "Down": {
@@ -8007,8 +8004,8 @@
               "checked": false
             },
             "zh": {
-              "value": "下降",
-              "checked": false
+              "value": "下",
+              "checked": true
             }
           },
           "Up": {
@@ -8026,7 +8023,7 @@
             },
             "zh": {
               "value": "上",
-              "checked": false
+              "checked": true
             }
           }
         },
@@ -8046,7 +8043,7 @@
             },
             "zh": {
               "value": "调整",
-              "checked": false
+              "checked": true
             }
           },
           "Indexation": {
@@ -8063,8 +8060,8 @@
               "checked": false
             },
             "zh": {
-              "value": "索引色卡",
-              "checked": false
+              "value": "索引色",
+              "checked": true
             }
           },
           "Match indexation": {
@@ -8081,8 +8078,8 @@
               "checked": false
             },
             "zh": {
-              "value": "匹配色卡",
-              "checked": false
+              "value": "匹配索引色",
+              "checked": true
             }
           },
           "Colors Line": {
@@ -8099,8 +8096,8 @@
               "checked": false
             },
             "zh": {
-              "value": "颜色线",
-              "checked": false
+              "value": "颜色边线",
+              "checked": true
             }
           },
           "Normal Line": {
@@ -8117,8 +8114,8 @@
               "checked": false
             },
             "zh": {
-              "value": "正常线",
-              "checked": false
+              "value": "法线",
+              "checked": true
             }
           },
           "Depth Line": {
@@ -8136,7 +8133,7 @@
             },
             "zh": {
               "value": "深度线",
-              "checked": false
+              "checked": true
             }
           },
           "Polish": {
@@ -8153,8 +8150,8 @@
               "checked": true
             },
             "zh": {
-              "value": "修正布线",
-              "checked": false
+              "value": "修正",
+              "checked": true
             }
           },
           "Tiled Mode": {
@@ -8172,7 +8169,7 @@
             },
             "zh": {
               "value": "瓷砖",
-              "checked": false
+              "checked": true
             }
           },
           "Water": {
@@ -8189,8 +8186,8 @@
               "checked": false
             },
             "zh": {
-              "value": "水",
-              "checked": false
+              "value": "水纹",
+              "checked": true
             }
           },
           "Shockwave": {
@@ -8204,11 +8201,11 @@
             },
             "es": {
               "value": "Ondas",
-              "checked": true
+              "checked": false
             },
             "zh": {
-              "value": "冲击",
-              "checked": false
+              "value": "冲击波",
+              "checked": true
             }
           },
           "ReSampling": {
@@ -8225,8 +8222,8 @@
               "checked": false
             },
             "zh": {
-              "value": "修正",
-              "checked": false
+              "value": "重采样",
+              "checked": true
             }
           },
           "Fill": {
@@ -8244,7 +8241,7 @@
             },
             "zh": {
               "value": "填充",
-              "checked": false
+              "checked": true
             }
           },
           "Visibility": {
@@ -8279,7 +8276,7 @@
               "checked": false
             },
             "zh": {
-              "value": "数值",
+              "value": "变换",
               "checked": false
             }
           },
@@ -8316,7 +8313,7 @@
             },
             "zh": {
               "value": "残影",
-              "checked": false
+              "checked": true
             }
           },
           "Effects": {
@@ -8333,8 +8330,8 @@
               "checked": false
             },
             "zh": {
-              "value": "特殊",
-              "checked": false
+              "value": "特效",
+              "checked": true
             }
           },
           "Filters": {
@@ -8351,8 +8348,8 @@
               "checked": false
             },
             "zh": {
-              "value": "过滤器",
-              "checked": false
+              "value": "滤镜",
+              "checked": true
             }
           },
           "Lines": {
@@ -8370,7 +8367,7 @@
             },
             "zh": {
               "value": "描边",
-              "checked": false
+              "checked": true
             }
           },
           "Clipping Mask": {
@@ -8388,7 +8385,7 @@
             },
             "zh": {
               "value": "剪切蒙版",
-              "checked": false
+              "checked": true
             }
           },
           "Background Transform": {
@@ -8405,8 +8402,8 @@
               "checked": false
             },
             "zh": {
-              "value": "背景转换",
-              "checked": false
+              "value": "背景变换",
+              "checked": true
             }
           },
           "2D objects": {
@@ -8423,44 +8420,44 @@
               "checked": false
             },
             "zh": {
-              "value": "二维物体",
-              "checked": false
+              "value": "2D对象",
+              "checked": true
             }
           },
           "3D objects": {
             "en": {
               "value": "3D objects",
-              "checked": false
+              "checked": true
             },
             "fr": {
               "value": "Objets 3D",
-              "checked": false
+              "checked": true
             },
             "es": {
               "value": "Objetos 3D",
               "checked": false
             },
             "zh": {
-              "value": "三维物体",
-              "checked": false
+              "value": "3D对象",
+              "checked": true
             }
           },
           "3D Transform": {
             "en": {
               "value": "3D Transform",
-              "checked": false
+              "checked": true
             },
             "fr": {
               "value": "Transformation 3D",
-              "checked": false
+              "checked": true
             },
             "es": {
               "value": "Transformación 3D",
               "checked": false
             },
             "zh": {
-              "value": "三维转换",
-              "checked": false
+              "value": "3D转换",
+              "checked": true
             }
           },
           "Camera": {
@@ -8478,7 +8475,7 @@
             },
             "zh": {
               "value": "摄像机",
-              "checked": false
+              "checked": true
             }
           },
           "Environment": {
@@ -8496,7 +8493,7 @@
             },
             "zh": {
               "value": "环境",
-              "checked": false
+              "checked": true
             }
           },
           "Ambient": {
@@ -8514,7 +8511,7 @@
             },
             "zh": {
               "value": "环境",
-              "checked": false
+              "checked": true
             }
           }
         }
@@ -8536,7 +8533,7 @@
             },
             "zh": {
               "value": "切换折叠",
-              "checked": false
+              "checked": true
             }
           },
           "Cut": {
@@ -8553,8 +8550,8 @@
               "checked": false
             },
             "zh": {
-              "value": "削减",
-              "checked": false
+              "value": "剪切",
+              "checked": true
             }
           },
           "Copy": {
@@ -8571,8 +8568,8 @@
               "checked": false
             },
             "zh": {
-              "value": "拷贝",
-              "checked": false
+              "value": "复制",
+              "checked": true
             }
           },
           "Paste": {
@@ -8590,7 +8587,7 @@
             },
             "zh": {
               "value": "粘贴",
-              "checked": false
+              "checked": true
             }
           },
           "Duplicate": {
@@ -8607,7 +8604,7 @@
               "checked": true
             },
             "zh": {
-              "value": "重复的",
+              "value": "重复",
               "checked": false
             }
           },
@@ -8626,7 +8623,7 @@
             },
             "zh": {
               "value": "移动",
-              "checked": false
+              "checked": true
             }
           },
           "Align Horizontally": {
@@ -8644,7 +8641,7 @@
             },
             "zh": {
               "value": "水平对齐",
-              "checked": false
+              "checked": true
             }
           },
           "Align Vertically": {
@@ -8661,8 +8658,8 @@
               "checked": false
             },
             "zh": {
-              "value": "垂直排列",
-              "checked": false
+              "value": "垂直对齐",
+              "checked": true
             }
           },
           "Platformer": {
@@ -8680,7 +8677,7 @@
             },
             "zh": {
               "value": "正视图",
-              "checked": false
+              "checked": true
             }
           },
           "Isometric": {
@@ -8698,7 +8695,7 @@
             },
             "zh": {
               "value": "等高线",
-              "checked": false
+              "checked": true
             }
           },
           "TopDown": {
@@ -8716,7 +8713,7 @@
             },
             "zh": {
               "value": "自上而下",
-              "checked": false
+              "checked": true
             }
           },
           "Preset": {
@@ -8733,8 +8730,8 @@
               "checked": false
             },
             "zh": {
-              "value": "预设镜头",
-              "checked": false
+              "value": "预设",
+              "checked": true
             }
           },
           "Pivot": {
@@ -8751,7 +8748,7 @@
               "checked": false
             },
             "zh": {
-              "value": "枢轴",
+              "value": "原点",
               "checked": false
             }
           }
@@ -8773,7 +8770,7 @@
               },
               "zh": {
                 "value": "点击物体或拖动来选择它们，并切换到变换工具。",
-                "checked": false
+                "checked": true
               }
             },
             "hand_tool_tooltip": {
@@ -8791,7 +8788,7 @@
               },
               "zh": {
                 "value": "按住左键在视图中移动。\\n（%s）按住工具。\\n（右键或中键）使用工具而不选择它。",
-                "checked": false
+                "checked": true
               }
             },
             "transform_tool_tooltip": {
@@ -8809,7 +8806,7 @@
               },
               "zh": {
                 "value": "设置位置和调整大小。点击其他对象进行选择。\\n点击外面，回到选择工具。",
-                "checked": false
+                "checked": true
               }
             },
             "deform_tool_tooltip": {
@@ -8827,7 +8824,7 @@
               },
               "zh": {
                 "value": "将物体变形为一个三维平面。点击其他对象进行选择。\\n点击外面，回到选择工具。",
-                "checked": false
+                "checked": true
               }
             },
             "create_shape_tooltip": {
@@ -8845,7 +8842,7 @@
               },
               "zh": {
                 "value": "点击并拖动以创建一个形状并调整其大小。",
-                "checked": false
+                "checked": true
               }
             },
             "create_shape3d_tooltip": {
@@ -8863,7 +8860,7 @@
               },
               "zh": {
                 "value": "点击并拖动以创建一个3D形状并调整其大小。",
-                "checked": false
+                "checked": true
               }
             },
             "create_container3d_tooltip": {
@@ -8881,7 +8878,7 @@
               },
               "zh": {
                 "value": "单击以创建一个三维容器。",
-                "checked": false
+                "checked": true
               }
             },
             "create_bone_tooltip": {
@@ -8899,7 +8896,7 @@
               },
               "zh": {
                 "value": "点击并拖动以创建一个骨骼并设置其休息姿势。",
-                "checked": false
+                "checked": true
               }
             },
             "palette_color_picker_invalid_tooltip": {
@@ -8917,7 +8914,7 @@
               },
               "zh": {
                 "value": "该层应该是有索引的，并且色卡处于管理模式，以使用这个工具。",
-                "checked": false
+                "checked": true
               }
             },
             "palette_color_picker_tooltip": {
@@ -8935,7 +8932,7 @@
               },
               "zh": {
                 "value": "选择图层上的颜色将选择你色卡上的颜色。\\n（%s）来保持工具。",
-                "checked": false
+                "checked": true
               }
             },
             "set_parent_tooltip": {
@@ -8953,7 +8950,7 @@
               },
               "zh": {
                 "value": "点击为所选对象定义新的父本。",
-                "checked": false
+                "checked": true
               }
             }
           },
@@ -8972,7 +8969,7 @@
             },
             "zh": {
               "value": "选择工具",
-              "checked": false
+              "checked": true
             }
           },
           "Hand tool": {
@@ -8989,8 +8986,8 @@
               "checked": true
             },
             "zh": {
-              "value": "手工工具",
-              "checked": false
+              "value": "抓手工具",
+              "checked": true
             }
           },
           "Transform tool": {
@@ -9007,8 +9004,8 @@
               "checked": true
             },
             "zh": {
-              "value": "转换工具",
-              "checked": false
+              "value": "变换工具",
+              "checked": true
             }
           },
           "Deform tool": {
@@ -9026,7 +9023,7 @@
             },
             "zh": {
               "value": "变形工具",
-              "checked": false
+              "checked": true
             }
           },
           "Create shape tool": {
@@ -9044,7 +9041,7 @@
             },
             "zh": {
               "value": "创建形状",
-              "checked": false
+              "checked": true
             }
           },
           "Create 3D shape tool": {
@@ -9061,8 +9058,8 @@
               "checked": true
             },
             "zh": {
-              "value": "创建3D形状工具",
-              "checked": false
+              "value": "创建3D形状",
+              "checked": true
             }
           },
           "Create 3D container tool": {
@@ -9079,8 +9076,8 @@
               "checked": true
             },
             "zh": {
-              "value": "创建3D容器工具",
-              "checked": false
+              "value": "创建3D容器",
+              "checked": true
             }
           },
           "Create bone tool": {
@@ -9097,8 +9094,8 @@
               "checked": true
             },
             "zh": {
-              "value": "创建骨骼工具",
-              "checked": false
+              "value": "创建骨骼",
+              "checked": true
             }
           },
           "Palette color picker tool": {
@@ -9115,8 +9112,8 @@
               "checked": true
             },
             "zh": {
-              "value": "色卡选色工具",
-              "checked": false
+              "value": "调色板选色",
+              "checked": true
             }
           },
           "Set parent tool": {
@@ -9133,8 +9130,8 @@
               "checked": true
             },
             "zh": {
-              "value": "设置家长",
-              "checked": false
+              "value": "设置父对象",
+              "checked": true
             }
           },
           "Hand tool (Hold)": {
@@ -9151,8 +9148,8 @@
               "checked": true
             },
             "zh": {
-              "value": "手持工具（持）。",
-              "checked": false
+              "value": "抓手工具（保持）。",
+              "checked": true
             }
           },
           "Parent tool": {
@@ -9169,8 +9166,8 @@
               "checked": true
             },
             "zh": {
-              "value": "家长工具",
-              "checked": false
+              "value": "父对象工具",
+              "checked": true
             }
           },
           "Palette color picker tool (Hold)": {
@@ -9187,8 +9184,8 @@
               "checked": true
             },
             "zh": {
-              "value": "色卡选色工具（保持）",
-              "checked": false
+              "value": "调色板选色工具（保持）",
+              "checked": true
             }
           }
         },
@@ -9207,7 +9204,7 @@
           },
           "zh": {
             "value": "动画",
-            "checked": false
+            "checked": true
           }
         },
         "Scene": {
@@ -9225,7 +9222,7 @@
           },
           "zh": {
             "value": "场景",
-            "checked": false
+            "checked": true
           }
         },
         "Z Order": {
@@ -9242,8 +9239,8 @@
             "checked": false
           },
           "zh": {
-            "value": "图层顺序",
-            "checked": false
+            "value": "Z顺序",
+            "checked": true
           }
         },
         "Selected": {
@@ -9260,8 +9257,8 @@
             "checked": false
           },
           "zh": {
-            "value": "基本",
-            "checked": false
+            "value": "已选中",
+            "checked": true
           }
         },
         "Layer Shader": {
@@ -9279,7 +9276,7 @@
           },
           "zh": {
             "value": "图层着色器",
-            "checked": false
+            "checked": true
           }
         },
         "Add": {
@@ -9297,7 +9294,7 @@
           },
           "zh": {
             "value": "添加",
-            "checked": false
+            "checked": true
           }
         },
         "Search": {
@@ -9315,7 +9312,7 @@
           },
           "zh": {
             "value": "搜索",
-            "checked": false
+            "checked": true
           }
         },
         "Display Order": {
@@ -9333,7 +9330,7 @@
           },
           "zh": {
             "value": "显示顺序",
-            "checked": false
+            "checked": true
           }
         },
         "Z Layer": {
@@ -9351,7 +9348,7 @@
           },
           "zh": {
             "value": "Z层",
-            "checked": false
+            "checked": true
           }
         },
         "Shape": {
@@ -9368,8 +9365,8 @@
             "checked": false
           },
           "zh": {
-            "value": "素体",
-            "checked": false
+            "value": "形状",
+            "checked": true
           }
         },
         "Bone": {
@@ -9387,7 +9384,7 @@
           },
           "zh": {
             "value": "骨骼",
-            "checked": false
+            "checked": true
           }
         },
         "Layers": {
@@ -9404,8 +9401,8 @@
             "checked": false
           },
           "zh": {
-            "value": "分层",
-            "checked": false
+            "value": "图层",
+            "checked": true
           }
         },
         "2D Objects": {
@@ -9422,8 +9419,8 @@
             "checked": false
           },
           "zh": {
-            "value": "二维物体",
-            "checked": false
+            "value": "2D对象",
+            "checked": true
           }
         },
         "3D Objects": {
@@ -9440,8 +9437,8 @@
             "checked": false
           },
           "zh": {
-            "value": "三维物体",
-            "checked": false
+            "value": "3D对象",
+            "checked": true
           }
         },
         "3D Container": {
@@ -9458,8 +9455,8 @@
             "checked": false
           },
           "zh": {
-            "value": "三维集装箱",
-            "checked": false
+            "value": "3D容器",
+            "checked": true
           }
         },
         "3D Model": {
@@ -9476,8 +9473,8 @@
             "checked": false
           },
           "zh": {
-            "value": "三维模型",
-            "checked": false
+            "value": "3D模型",
+            "checked": true
           }
         },
         "3D Shape": {
@@ -9494,8 +9491,8 @@
             "checked": false
           },
           "zh": {
-            "value": "三维形状",
-            "checked": false
+            "value": "3D形状",
+            "checked": true
           }
         },
         "Create": {
@@ -9513,7 +9510,7 @@
           },
           "zh": {
             "value": "创建",
-            "checked": false
+            "checked": true
           }
         },
         "Layer": {
@@ -9531,7 +9528,7 @@
           },
           "zh": {
             "value": "层数",
-            "checked": false
+            "checked": true
           }
         },
         "Container": {
@@ -9549,7 +9546,7 @@
           },
           "zh": {
             "value": "容器",
-            "checked": false
+            "checked": true
           }
         },
         "Shader Layer": {
@@ -9566,8 +9563,8 @@
             "checked": false
           },
           "zh": {
-            "value": "图层",
-            "checked": false
+            "value": "着色图层",
+            "checked": true
           }
         },
         "Shader 3D Layer": {
@@ -9584,8 +9581,8 @@
             "checked": false
           },
           "zh": {
-            "value": "3D图层",
-            "checked": false
+            "value": "3D着色图层",
+            "checked": true
           }
         },
         "Nothing selected": {
@@ -9602,7 +9599,7 @@
             "checked": false
           },
           "zh": {
-            "value": "没有选择",
+            "value": "未选中物体",
             "checked": false
           }
         }
@@ -9623,8 +9620,8 @@
               "checked": true
             },
             "zh": {
-              "value": "打开图片",
-              "checked": false
+              "value": "打开图像",
+              "checked": true
             }
           },
           "drop_files": {
@@ -9641,8 +9638,8 @@
               "checked": true
             },
             "zh": {
-              "value": "丢弃文件",
-              "checked": false
+              "value": "拖放文件",
+              "checked": true
             }
           },
           "Import": {
@@ -9659,8 +9656,8 @@
               "checked": true
             },
             "zh": {
-              "value": "进口",
-              "checked": false
+              "value": "导出",
+              "checked": true
             }
           },
           "All cells": {
@@ -9677,8 +9674,8 @@
               "checked": true
             },
             "zh": {
-              "value": "所有细胞",
-              "checked": false
+              "value": "所有单元",
+              "checked": true
             }
           },
           "spritesheet_import_all_tooltip": {
@@ -9695,8 +9692,8 @@
               "checked": true
             },
             "zh": {
-              "value": "导入所有单元格。",
-              "checked": false
+              "value": "导入所有单元。",
+              "checked": true
             }
           },
           "Number": {
@@ -9714,7 +9711,7 @@
             },
             "zh": {
               "value": "数量",
-              "checked": false
+              "checked": true
             }
           },
           "suffix_cells": {
@@ -9731,8 +9728,8 @@
               "checked": false
             },
             "zh": {
-              "value": "细胞",
-              "checked": false
+              "value": "单元",
+              "checked": true
             }
           },
           "spritesheet_import_number_tooltip": {
@@ -9749,8 +9746,8 @@
               "checked": true
             },
             "zh": {
-              "value": "细胞的数量。",
-              "checked": false
+              "value": "单元数量。",
+              "checked": true
             }
           },
           "Sprite sheet Import": {
@@ -9767,8 +9764,8 @@
               "checked": true
             },
             "zh": {
-              "value": "雪碧表的导入",
-              "checked": false
+              "value": "导入精灵图",
+              "checked": true
             }
           },
           "Cells": {
@@ -9785,8 +9782,8 @@
               "checked": true
             },
             "zh": {
-              "value": "细胞",
-              "checked": false
+              "value": "单元",
+              "checked": true
             }
           },
           "Split": {
@@ -9804,7 +9801,7 @@
             },
             "zh": {
               "value": "分割",
-              "checked": false
+              "checked": true
             }
           },
           "Columns": {
@@ -9821,8 +9818,8 @@
               "checked": true
             },
             "zh": {
-              "value": "专栏",
-              "checked": false
+              "value": "列数",
+              "checked": true
             }
           },
           "Rows": {
@@ -9859,8 +9856,8 @@
               "checked": true
             },
             "zh": {
-              "value": "有了%s的行动。",
-              "checked": false
+              "value": "有了%s个操作。",
+              "checked": true
             }
           },
           "session_with_date": {
@@ -9877,8 +9874,8 @@
               "checked": true
             },
             "zh": {
-              "value": "在%s的%s会议",
-              "checked": false
+              "value": "在%s的%s会话",
+              "checked": true
             }
           },
           "session_duration_with_projects": {
@@ -9895,8 +9892,8 @@
               "checked": true
             },
             "zh": {
-              "value": "该会议持续了%s，有%s项目。",
-              "checked": false
+              "value": "该会话持续了%s，有%s个项目。",
+              "checked": true
             }
           },
           "session_crashed_with_projects": {
@@ -9913,8 +9910,8 @@
               "checked": true
             },
             "zh": {
-              "value": "会话因%s项目而崩溃。",
-              "checked": false
+              "value": "含%s个项目的会话已崩溃。",
+              "checked": true
             }
           },
           "no_session_files": {
@@ -9931,13 +9928,17 @@
               "checked": true
             },
             "zh": {
-              "value": "没有以前会议的文件。",
-              "checked": false
+              "value": "没有以前会话的文件。",
+              "checked": true
             }
           }
         },
         "Export": {
           "export_anim_all_tooltip": {
+            "zh": {
+              "value": "导出所有文件",
+              "checked": true
+            },
             "en": {
               "value": "Export all animations.",
               "checked": true
@@ -9948,10 +9949,6 @@
             },
             "es": {
               "value": "Exportar todo.",
-              "checked": false
-            },
-            "zh": {
-              "value": "导出全部",
               "checked": false
             }
           }
@@ -9970,8 +9967,8 @@
             "checked": true
           },
           "zh": {
-            "value": "否",
-            "checked": false
+            "value": "取消",
+            "checked": true
           }
         },
         "Yes": {
@@ -9988,8 +9985,8 @@
             "checked": true
           },
           "zh": {
-            "value": "是",
-            "checked": false
+            "value": "确认",
+            "checked": true
           }
         },
         "Don't save": {
@@ -10007,7 +10004,7 @@
           },
           "zh": {
             "value": "不保存",
-            "checked": false
+            "checked": true
           }
         },
         "Save and close": {
@@ -10025,7 +10022,7 @@
           },
           "zh": {
             "value": "保存并关闭",
-            "checked": false
+            "checked": true
           }
         },
         "Close the application": {
@@ -10043,7 +10040,7 @@
           },
           "zh": {
             "value": "关闭应用程序",
-            "checked": false
+            "checked": true
           }
         },
         "Report issue": {
@@ -10061,7 +10058,7 @@
           },
           "zh": {
             "value": "上传错误报告",
-            "checked": false
+            "checked": true
           }
         },
         "Get full version": {
@@ -10079,7 +10076,7 @@
           },
           "zh": {
             "value": "获取完整版本",
-            "checked": false
+            "checked": true
           }
         },
         "is_alpha_version": {
@@ -10096,8 +10093,8 @@
             "checked": true
           },
           "zh": {
-            "value": "这是一个测试版本。如果你发现错误，请点击下面的按钮上传。谢谢你。",
-            "checked": false
+            "value": "这是Alpha版本。如果你发现错误，请点击下面的按钮上传。不胜感谢。",
+            "checked": true
           }
         },
         "free_version": {
@@ -10114,8 +10111,8 @@
             "checked": true
           },
           "zh": {
-            "value": "你使用的是PixelOver的测试版本。请获得完整版，以便能够导出您的项目。",
-            "checked": false
+            "value": "你使用的是PixelOver的测试版本。请获得完整版，以便您的项目导出。",
+            "checked": true
           }
         },
         "project_not_saved": {
@@ -10132,8 +10129,8 @@
             "checked": true
           },
           "zh": {
-            "value": "该项目没有保存。",
-            "checked": false
+            "value": "该项目未保存。",
+            "checked": true
           }
         },
         "add_favorite": {
@@ -10150,8 +10147,8 @@
             "checked": true
           },
           "zh": {
-            "value": "将此shader添加到列表？",
-            "checked": false
+            "value": "将此着色器添加到收藏夹？",
+            "checked": true
           }
         },
         "projects_unsaved": {
@@ -10168,8 +10165,8 @@
             "checked": true
           },
           "zh": {
-            "value": "一些项目没有保存，是否退出应用程序？",
-            "checked": false
+            "value": "部分工程未保存，是否退出应用程序？",
+            "checked": true
           }
         },
         "file_not_found": {
@@ -10187,7 +10184,7 @@
           },
           "zh": {
             "value": "未找到该文件，已损坏或格式不支持。",
-            "checked": false
+            "checked": true
           }
         },
         "Please confirm...": {
@@ -10205,7 +10202,7 @@
           },
           "zh": {
             "value": "请确认...",
-            "checked": false
+            "checked": true
           }
         },
         "All": {
@@ -10223,7 +10220,7 @@
           },
           "zh": {
             "value": "全部",
-            "checked": false
+            "checked": true
           }
         },
         "Crashed": {
@@ -10240,8 +10237,8 @@
             "checked": true
           },
           "zh": {
-            "value": "坠毁",
-            "checked": false
+            "value": "崩溃",
+            "checked": true
           }
         },
         "Others": {
@@ -10259,7 +10256,7 @@
           },
           "zh": {
             "value": "其他",
-            "checked": false
+            "checked": true
           }
         },
         "New project": {
@@ -10276,8 +10273,8 @@
             "checked": true
           },
           "zh": {
-            "value": "新项目",
-            "checked": false
+            "value": "新工程",
+            "checked": true
           }
         },
         "Please confirm": {
@@ -10295,7 +10292,7 @@
           },
           "zh": {
             "value": "请确认",
-            "checked": false
+            "checked": true
           }
         },
         "project_error": {
@@ -10312,8 +10309,8 @@
             "checked": true
           },
           "zh": {
-            "value": "项目无法加载。项目文件无法访问或损坏。",
-            "checked": false
+            "value": "项目无法加载。项目文件无法访问或已损坏。",
+            "checked": true
           }
         },
         "dont_ask_again": {
@@ -10330,8 +10327,8 @@
             "checked": false
           },
           "zh": {
-            "value": "不要再问了，用设置值代替。",
-            "checked": false
+            "value": "不要再弹出对话框并用设置值代替。",
+            "checked": true
           }
         },
         "create_objects_drop_files": {
@@ -10348,8 +10345,8 @@
             "checked": false
           },
           "zh": {
-            "value": "你可以直接投放文件来创建对象。",
-            "checked": false
+            "value": "你可以直接拖放文件来创建对象。",
+            "checked": true
           }
         }
       },
@@ -10370,7 +10367,7 @@
             },
             "zh": {
               "value": "添加新的轨道。",
-              "checked": false
+              "checked": true
             }
           }
         },
@@ -10388,8 +10385,8 @@
             "checked": true
           },
           "zh": {
-            "value": "没有选择关键帧",
-            "checked": false
+            "value": "未选择关键帧",
+            "checked": true
           }
         },
         "label_no_track_key": {
@@ -10406,8 +10403,8 @@
             "checked": true
           },
           "zh": {
-            "value": "没有选择键或轨道",
-            "checked": false
+            "value": "未选择关键帧或轨道",
+            "checked": true
           }
         },
         "selected_key_value": {
@@ -10424,8 +10421,8 @@
             "checked": true
           },
           "zh": {
-            "value": "选择键值。",
-            "checked": false
+            "value": "选择关键帧值。",
+            "checked": true
           }
         },
         "selected_key_time": {
@@ -10442,8 +10439,8 @@
             "checked": true
           },
           "zh": {
-            "value": "在时间轴上选定关键位置。",
-            "checked": false
+            "value": "选择关键帧时长。",
+            "checked": true
           }
         },
         "New animation": {
@@ -10461,7 +10458,7 @@
           },
           "zh": {
             "value": "新动画",
-            "checked": false
+            "checked": true
           }
         },
         "No track": {
@@ -10478,8 +10475,8 @@
             "checked": true
           },
           "zh": {
-            "value": "没有轨道",
-            "checked": false
+            "value": "无轨道",
+            "checked": true
           }
         },
         "Add track": {
@@ -10497,7 +10494,7 @@
           },
           "zh": {
             "value": "添加轨道",
-            "checked": false
+            "checked": true
           }
         },
         "All tracks": {
@@ -10514,8 +10511,8 @@
             "checked": false
           },
           "zh": {
-            "value": "所有曲目",
-            "checked": false
+            "value": "所有轨道",
+            "checked": true
           }
         },
         "Track": {
@@ -10532,8 +10529,8 @@
             "checked": true
           },
           "zh": {
-            "value": "追踪",
-            "checked": false
+            "value": "轨道",
+            "checked": true
           }
         },
         "Key": {
@@ -10551,7 +10548,7 @@
           },
           "zh": {
             "value": "关键帧",
-            "checked": false
+            "checked": true
           }
         },
         "loop_button_tooltip": {
@@ -10569,7 +10566,7 @@
           },
           "zh": {
             "value": "循环动画。",
-            "checked": false
+            "checked": true
           }
         },
         "animation_new_tooltip": {
@@ -10587,7 +10584,7 @@
           },
           "zh": {
             "value": "创建新的动画。",
-            "checked": false
+            "checked": true
           }
         },
         "Delete tracks": {
@@ -10605,7 +10602,7 @@
           },
           "zh": {
             "value": "删除轨道",
-            "checked": false
+            "checked": true
           }
         }
       }
