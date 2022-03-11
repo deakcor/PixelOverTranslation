@@ -1217,6 +1217,348 @@
               "value": "从新的3D场景创建动画。",
               "checked": true
             }
+          },
+          "files_open_folder_tooltip": {
+            "en": {
+              "value": "Default opening folder",
+              "checked": true
+            },
+            "fr": {
+              "value": "Dossier d'ouverture par défaut",
+              "checked": true
+            },
+            "es": {
+              "value": "Carpeta de apertura predeterminada",
+              "checked": false
+            },
+            "zh": {
+              "value": "默认打开文件夹",
+              "checked": false
+            }
+          },
+          "files_open_folder_last_selected_tooltip": {
+            "en": {
+              "value": "Update opening folder to last selected.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Mettre à jour le dossier d'ouverture au dernier sélectionné.",
+              "checked": true
+            },
+            "es": {
+              "value": "Actualizar la carpeta de apertura a la última seleccionada.",
+              "checked": false
+            },
+            "zh": {
+              "value": "将打开的文件夹更新为最后选定的。",
+              "checked": false
+            }
+          },
+          "files_recent_items_tooltip": {
+            "en": {
+              "value": "Maximum number of recent files.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Nombre maximum de fichiers récents.",
+              "checked": true
+            },
+            "es": {
+              "value": "Número máximo de archivos recientes.",
+              "checked": false
+            },
+            "zh": {
+              "value": "最近文件的最大数量。",
+              "checked": false
+            }
+          },
+          "alert_unsaved_image_tooltip": {
+            "en": {
+              "value": "Display a message when closing an unsaved new project.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Afficher un message lors de la fermeture d'un nouveau projet non sauvegardé.",
+              "checked": true
+            },
+            "es": {
+              "value": "Mostrar un mensaje al cerrar un proyecto nuevo no guardado.",
+              "checked": false
+            },
+            "zh": {
+              "value": "在关闭一个未保存的新项目时显示一条信息。",
+              "checked": false
+            }
+          },
+          "alert_unsaved_project_tooltip": {
+            "en": {
+              "value": "Display a message when closing an unsaved PixelOver project.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Affiche un message lors de la fermeture d'un projet PixelOver non sauvegardé.",
+              "checked": true
+            },
+            "es": {
+              "value": "Mostrar un mensaje al cerrar un proyecto PixelOver no guardado.",
+              "checked": false
+            },
+            "zh": {
+              "value": "关闭未保存的PixelOver项目时，显示一条信息。",
+              "checked": false
+            }
+          },
+          "backup_enabled_tooltip": {
+            "en": {
+              "value": "Allow application to save current session files. Useful in case of crash.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Permet à l'application de sauvegarder les fichiers de la session en cours. Utile en cas de crash.",
+              "checked": true
+            },
+            "es": {
+              "value": "Permite que la aplicación guarde los archivos de la sesión actual. Útil en caso de caída.",
+              "checked": false
+            },
+            "zh": {
+              "value": "允许应用程序保存当前会话文件。在崩溃的情况下很有用。",
+              "checked": false
+            }
+          },
+          "backup_actions_tooltip": {
+            "en": {
+              "value": "Number of actions before creating new backup file.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Nombre d'actions avant de créer un nouveau fichier de sauvegarde.",
+              "checked": true
+            },
+            "es": {
+              "value": "Número de acciones antes de crear un nuevo archivo de copia de seguridad.",
+              "checked": false
+            },
+            "zh": {
+              "value": "创建新的备份文件前的行动次数。",
+              "checked": false
+            }
+          },
+          "backup_keep_tooltip": {
+            "en": {
+              "value": "Delete backup files after this number of days.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Supprime les fichiers de sauvegarde après ce nombre de jours.",
+              "checked": true
+            },
+            "es": {
+              "value": "Eliminar los archivos de copia de seguridad después de este número de días.",
+              "checked": false
+            },
+            "zh": {
+              "value": "在这个天数之后删除备份文件。",
+              "checked": false
+            }
+          },
+          "app_processor_low_tooltip": {
+            "en": {
+              "value": "Don't refresh screen if nothing change saving CPU/GPU usage. But can slowdown the interface. ",
+              "checked": true
+            },
+            "fr": {
+              "value": "Ne pas rafraîchir l'écran si rien ne change permet d'économiser l'utilisation du CPU/GPU. Mais peut ralentir l'interface.",
+              "checked": true
+            },
+            "es": {
+              "value": "No refrescar la pantalla si nada cambia ahorrando el uso de la CPU/GPU. Pero puede ralentizar la interfaz.",
+              "checked": false
+            },
+            "zh": {
+              "value": "如果没有任何变化，就不要刷新屏幕，以节省CPU/GPU的使用。但会使界面变慢。",
+              "checked": false
+            }
+          },
+          "app_processor_sleep_tooltip": {
+            "en": {
+              "value": "sleeping time between two frames when low processor mode is activated. Long sleeping time will use less CPU/GPU.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Temps d'attente entre deux frames lorsque le mode processeur réduit est activé. Un temps d'attente long utilisera moins de CPU/GPU.",
+              "checked": true
+            },
+            "es": {
+              "value": "tiempo de reposo entre dos fotogramas cuando se activa el modo de bajo procesador. Un tiempo de reposo largo utilizará menos CPU/GPU.",
+              "checked": false
+            },
+            "zh": {
+              "value": "当低处理器模式被激活时，两帧之间的睡眠时间。长的睡眠时间将使用更少的CPU/GPU。",
+              "checked": false
+            }
+          },
+          "theme_tree_vseparation_tooltip": {
+            "en": {
+              "value": "Space between lines in pixel.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Espace entre les lignes en pixel.",
+              "checked": true
+            },
+            "es": {
+              "value": "Espacio entre líneas en píxeles.",
+              "checked": false
+            },
+            "zh": {
+              "value": "行与行之间的空间，以像素为单位。",
+              "checked": false
+            }
+          },
+          "window_color_tooltip": {
+            "en": {
+              "value": "Main view background color.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Couleur de fond de la vue principale.",
+              "checked": true
+            },
+            "es": {
+              "value": "Color de fondo de la vista principal.",
+              "checked": false
+            },
+            "zh": {
+              "value": "主视图的背景颜色。",
+              "checked": false
+            }
+          },
+          "enable_canvas_checker_tooltip": {
+            "en": {
+              "value": "Display checkered background for transparent color in the canvas.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Affiche un fond en damier pour une couleur transparente dans le canevas.",
+              "checked": true
+            },
+            "es": {
+              "value": "Mostrar el fondo a cuadros para el color transparente en el lienzo.",
+              "checked": false
+            },
+            "zh": {
+              "value": "为画布中的透明色显示格子背景。",
+              "checked": false
+            }
+          },
+          "canvas_checker_fit_zoom_tooltip": {
+            "en": {
+              "value": "Readjust the checkered background size to follow the zoom.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Réajuste la taille du fond à carreaux pour suivre le zoom.",
+              "checked": true
+            },
+            "es": {
+              "value": "Reajuste el tamaño del fondo cuadriculado para seguir el zoom.",
+              "checked": false
+            },
+            "zh": {
+              "value": "重新调整格子背景的大小，以跟随缩放。",
+              "checked": false
+            }
+          },
+          "enable_grid_tooltip": {
+            "en": {
+              "value": "Display a grid, useful for snapping objects transform.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Affiche une grille, utile pour contraindre la transformation des objets.",
+              "checked": true
+            },
+            "es": {
+              "value": "Muestra una rejilla, útil para transformar objetos.",
+              "checked": false
+            },
+            "zh": {
+              "value": "显示一个网格，对捕捉对象的变换很有用。",
+              "checked": false
+            }
+          },
+          "snap_grid_tooltip": {
+            "en": {
+              "value": "Snap objects transform on the grid if visible.",
+              "checked": true
+            },
+            "fr": {
+              "value": "La transformation des objets est contrainte sur la grille si elle est visible.",
+              "checked": true
+            },
+            "es": {
+              "value": "Los objetos de ajuste se transforman en la cuadrícula si son visibles.",
+              "checked": false
+            },
+            "zh": {
+              "value": "捕捉对象在网格上的转换，如果可见的话。",
+              "checked": false
+            }
+          },
+          "snap_axes_tooltip": {
+            "en": {
+              "value": "Snap objects transform on the axes if visible.",
+              "checked": true
+            },
+            "fr": {
+              "value": "La transformation des objets est contrainte sur les axes s'ils sont visibles.",
+              "checked": true
+            },
+            "es": {
+              "value": "Los objetos de ajuste se transforman en los ejes si son visibles.",
+              "checked": false
+            },
+            "zh": {
+              "value": "捕捉对象在轴上的变换，如果可见的话。",
+              "checked": false
+            }
+          },
+          "show_bones_tooltip": {
+            "en": {
+              "value": "Don't show unselected bones if unchecked.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Ne montre pas les os non sélectionnés si cette option n'est pas cochée.",
+              "checked": true
+            },
+            "es": {
+              "value": "No mostrar los huesos no seleccionados si no está marcada.",
+              "checked": false
+            },
+            "zh": {
+              "value": "如果不勾选，就不显示未选择的骨头。",
+              "checked": false
+            }
+          },
+          "compare_tooltip": {
+            "en": {
+              "value": "Enable comparison between two views.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Permet la comparaison entre deux vues.",
+              "checked": true
+            },
+            "es": {
+              "value": "Permitir la comparación entre dos vistas.",
+              "checked": false
+            },
+            "zh": {
+              "value": "启用两个视图之间的比较。",
+              "checked": false
+            }
           }
         },
         "Collapse": {
