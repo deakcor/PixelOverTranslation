@@ -1,7 +1,9 @@
 {
   "version": "1.3.0",
   "mainLanguage": "en",
-  "ExportingPaths": {},
+  "ExportingPaths": {
+    "csv": "C:\\Users\\vince\\Documents\\projects\\app_topixelart\\src\\asset\\font\\PixelOver.csv"
+  },
   "project": {
     "PixelOver": {
       "Toolbar": {
@@ -1557,6 +1559,132 @@
             },
             "zh": {
               "value": "启用两个视图之间的比较。",
+              "checked": false
+            }
+          },
+          "resource_auto_reload_tooltip": {
+            "en": {
+              "value": "Auto reload resource when externally modified.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Recharge automatiquement la ressource en cas de modification externe.",
+              "checked": true
+            },
+            "es": {
+              "value": "Recarga automática del recurso cuando se modifica externamente.",
+              "checked": false
+            },
+            "zh": {
+              "value": "当外部修改时，自动重新加载资源。",
+              "checked": false
+            }
+          },
+          "image_max_size_tooltip": {
+            "en": {
+              "value": "Auto-resize imported image to max size if original size is above. A high size can cause the software to lag.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Redimensionne automatiquement l'image importée à la taille maximale si la taille originale est supérieure. Une taille élevée peut entraîner un ralentissement du logiciel.",
+              "checked": true
+            },
+            "es": {
+              "value": "Redimensiona automáticamente la imagen importada al tamaño máximo si el tamaño original es superior. Un tamaño alto puede hacer que el software se retrase.",
+              "checked": false
+            },
+            "zh": {
+              "value": "如果原始尺寸在上面，自动调整导入的图像大小到最大尺寸。高尺寸会导致软件滞后。",
+              "checked": false
+            }
+          },
+          "image_fit_canvas_tooltip": {
+            "en": {
+              "value": "Resize the image to fit the canvas bounds.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Redimensionne l'image pour l'adapter aux limites du canevas.",
+              "checked": true
+            },
+            "es": {
+              "value": "Redimensiona la imagen para que se ajuste a los límites del lienzo.",
+              "checked": false
+            },
+            "zh": {
+              "value": "调整图像的大小以适应画布的界限。",
+              "checked": false
+            }
+          },
+          "image_detect_pa_tooltip": {
+            "en": {
+              "value": "Automatically detect a pixel art to remove filters.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Détecte automatiquement un pixel art pour supprimer les filtres.",
+              "checked": true
+            },
+            "es": {
+              "value": "Detecta automáticamente un pixel art para eliminar los filtros.",
+              "checked": false
+            },
+            "zh": {
+              "value": "自动检测像素艺术，删除过滤器。",
+              "checked": false
+            }
+          },
+          "image_pa_max_colors_tooltip": {
+            "en": {
+              "value": "The image isn't a pixel art with more colors.",
+              "checked": true
+            },
+            "fr": {
+              "value": "L'image n'est pas un pixel art avec plus de couleurs.",
+              "checked": true
+            },
+            "es": {
+              "value": "La imagen no es un pixel art con más colores.",
+              "checked": false
+            },
+            "zh": {
+              "value": "这张图不是一个有更多颜色的像素艺术。",
+              "checked": false
+            }
+          },
+          "image_pa_max_size_tooltip": {
+            "en": {
+              "value": "The image isn't a pixel art with a larger size.",
+              "checked": true
+            },
+            "fr": {
+              "value": "L'image n'est pas un pixel art avec une plus grande taille.",
+              "checked": true
+            },
+            "es": {
+              "value": "La imagen no es un pixel art con un tamaño mayor.",
+              "checked": false
+            },
+            "zh": {
+              "value": "这张图片不是像素艺术，尺寸较大。",
+              "checked": false
+            }
+          },
+          "settings_aimage_anim_ask_tooltip": {
+            "en": {
+              "value": "Don't ask user and use below settings.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Ne demandez pas à l'utilisateur et utilisez les paramètres ci-dessous.",
+              "checked": true
+            },
+            "es": {
+              "value": "No preguntes al usuario y utiliza la configuración de abajo.",
+              "checked": false
+            },
+            "zh": {
+              "value": "不要问用户，使用下面的设置。",
               "checked": false
             }
           }
