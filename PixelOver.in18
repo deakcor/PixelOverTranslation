@@ -10421,6 +10421,42 @@
               "value": "导出所有文件",
               "checked": true
             }
+          },
+          "Animations": {
+            "en": {
+              "value": "Animations",
+              "checked": true
+            },
+            "fr": {
+              "value": "Animations",
+              "checked": true
+            },
+            "es": {
+              "value": "Animaciones",
+              "checked": false
+            },
+            "zh": {
+              "value": "动画片",
+              "checked": false
+            }
+          },
+          "export_anims_tooltip": {
+            "en": {
+              "value": "Only selected animations will be exported.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Seules les animations sélectionnées seront exportées.",
+              "checked": true
+            },
+            "es": {
+              "value": "Sólo se exportarán las animaciones seleccionadas.",
+              "checked": false
+            },
+            "zh": {
+              "value": "只有选定的动画会被导出。",
+              "checked": false
+            }
           }
         },
         "Cancel": {
