@@ -10405,10 +10405,6 @@
         },
         "Export": {
           "export_anim_all_tooltip": {
-            "zh": {
-              "value": "导出所有文件",
-              "checked": true
-            },
             "en": {
               "value": "Export all animations.",
               "checked": true
@@ -10420,6 +10416,10 @@
             "es": {
               "value": "Exportar todo.",
               "checked": false
+            },
+            "zh": {
+              "value": "导出所有文件",
+              "checked": true
             }
           }
         },
