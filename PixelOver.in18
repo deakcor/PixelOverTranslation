@@ -867,7 +867,7 @@
             "checked": true
           },
           "es": {
-            "value": "Noticias.",
+            "value": "Noticias",
             "checked": true
           },
           "zh": {
@@ -5470,7 +5470,7 @@
               "checked": true
             },
             "es": {
-              "value": "Activar efecto de estela.",
+              "value": "Activar efecto de trail.",
               "checked": true
             },
             "zh": {
@@ -8778,8 +8778,8 @@
               "checked": true
             },
             "es": {
-              "value": "Camino",
-              "checked": false
+              "value": "Trail",
+              "checked": true
             },
             "zh": {
               "value": "残影",
