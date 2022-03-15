@@ -11821,6 +11821,172 @@
             }
           }
         },
+        "Multi images": {
+          "how_handle_images": {
+            "en": {
+              "value": "How do you want to handle these images ?",
+              "checked": true
+            },
+            "fr": {
+              "value": "Comment voulez-vous traiter ces images ?",
+              "checked": true
+            },
+            "es": {
+              "value": "¿Cómo quiere manejar estas imágenes?",
+              "checked": false
+            },
+            "zh": {
+              "value": "你想如何处理这些图像？",
+              "checked": false
+            }
+          },
+          "Create animated image": {
+            "en": {
+              "value": "Create animated image",
+              "checked": true
+            },
+            "fr": {
+              "value": "Créer une image animée",
+              "checked": true
+            },
+            "es": {
+              "value": "Crear una imagen animada",
+              "checked": false
+            },
+            "zh": {
+              "value": "创建动画图像",
+              "checked": false
+            }
+          },
+          "Create different images": {
+            "en": {
+              "value": "Create different images",
+              "checked": true
+            },
+            "fr": {
+              "value": "Créer des images différentes",
+              "checked": true
+            },
+            "es": {
+              "value": "Crear diferentes imágenes",
+              "checked": false
+            },
+            "zh": {
+              "value": "创建不同的图像",
+              "checked": false
+            }
+          },
+          "Import images": {
+            "en": {
+              "value": "Import images",
+              "checked": true
+            },
+            "fr": {
+              "value": "Importer des images",
+              "checked": false
+            },
+            "es": {
+              "value": "Importar imágenes",
+              "checked": false
+            },
+            "zh": {
+              "value": "进口图片",
+              "checked": false
+            }
+          },
+          "Sort": {
+            "en": {
+              "value": "Sort",
+              "checked": true
+            },
+            "fr": {
+              "value": "Trier",
+              "checked": false
+            },
+            "es": {
+              "value": "Ordenar",
+              "checked": false
+            },
+            "zh": {
+              "value": "分类",
+              "checked": false
+            }
+          },
+          "File Name": {
+            "en": {
+              "value": "File Name",
+              "checked": true
+            },
+            "fr": {
+              "value": "Nom du fichier",
+              "checked": true
+            },
+            "es": {
+              "value": "Nombre del archivo",
+              "checked": false
+            },
+            "zh": {
+              "value": "文件名称",
+              "checked": false
+            }
+          },
+          "File Date": {
+            "en": {
+              "value": "File Date",
+              "checked": true
+            },
+            "fr": {
+              "value": "Date du fichier",
+              "checked": false
+            },
+            "es": {
+              "value": "Fecha del archivo",
+              "checked": false
+            },
+            "zh": {
+              "value": "文件日期",
+              "checked": false
+            }
+          }
+        },
+        "New": {
+          "layer_select_tooltip": {
+            "en": {
+              "value": "Select first layer type.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Sélectionnez le premier type de calque.",
+              "checked": true
+            },
+            "es": {
+              "value": "Seleccione el primer tipo de capa.",
+              "checked": false
+            },
+            "zh": {
+              "value": "选择第一层类型。",
+              "checked": false
+            }
+          },
+          "shader_select_tooltip": {
+            "en": {
+              "value": "Select a shader to be applied on that layer.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Sélectionnez un shader à appliquer sur ce calque.",
+              "checked": true
+            },
+            "es": {
+              "value": "Seleccione un shader que se aplicará en esa capa.",
+              "checked": true
+            },
+            "zh": {
+              "value": "选择一个要在该层上应用的着色器。",
+              "checked": false
+            }
+          }
+        },
         "Cancel": {
           "en": {
             "value": "Cancel",
@@ -12215,6 +12381,24 @@
           "zh": {
             "value": "你可以直接拖放文件来创建对象。",
             "checked": true
+          }
+        },
+        "Move object(s)": {
+          "en": {
+            "value": "Move object(s)",
+            "checked": true
+          },
+          "fr": {
+            "value": "Déplacer le(s) objet(s)",
+            "checked": true
+          },
+          "es": {
+            "value": "Mover objeto(s)",
+            "checked": false
+          },
+          "zh": {
+            "value": "移动物体(s)",
+            "checked": false
           }
         }
       },
