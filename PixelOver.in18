@@ -6947,7 +6947,7 @@
                 "checked": false
               }
             },
-            "Shift Palette": {
+            "Shift Colors": {
               "en": {
                 "value": "Shift Colors",
                 "checked": true
@@ -9201,6 +9201,24 @@
               "value": "环境",
               "checked": true
             }
+          },
+          "Rest transform": {
+            "en": {
+              "value": "Rest transform",
+              "checked": true
+            },
+            "fr": {
+              "value": "Transformation de repos",
+              "checked": true
+            },
+            "es": {
+              "value": "Transformación del descanso",
+              "checked": false
+            },
+            "zh": {
+              "value": "休息转换",
+              "checked": false
+            }
           }
         }
       },
@@ -9874,6 +9892,170 @@
             "zh": {
               "value": "调色板选色工具（保持）",
               "checked": true
+            }
+          }
+        },
+        "Subtools": {
+          "button_reset_zoom_tooltip": {
+            "en": {
+              "value": "Reset zoom to 100%.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Remet le zoom à 100%.",
+              "checked": true
+            },
+            "es": {
+              "value": "Restablecer el zoom al 100%.",
+              "checked": false
+            },
+            "zh": {
+              "value": "重置缩放到100%。",
+              "checked": false
+            }
+          },
+          "camera_projection_tooltip": {
+            "en": {
+              "value": "Camera projection.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Projection de la caméra.",
+              "checked": true
+            },
+            "es": {
+              "value": "Proyección de la cámara.",
+              "checked": false
+            },
+            "zh": {
+              "value": "相机投影。",
+              "checked": false
+            }
+          },
+          "bone_rest_reset": {
+            "en": {
+              "value": "Reset current state from rest",
+              "checked": true
+            },
+            "fr": {
+              "value": "Remise à zéro de l'état actuel à partir du repos",
+              "checked": true
+            },
+            "es": {
+              "value": "Restablecer el estado actual desde el reposo",
+              "checked": false
+            },
+            "zh": {
+              "value": "从静止状态重置当前状态",
+              "checked": false
+            }
+          },
+          "bone_rest_set": {
+            "en": {
+              "value": "Set rest from current state",
+              "checked": true
+            },
+            "fr": {
+              "value": "Met le repos à partir de l'état actuel",
+              "checked": true
+            },
+            "es": {
+              "value": "Establecer el descanso desde el estado actual",
+              "checked": false
+            },
+            "zh": {
+              "value": "从当前状态设置休息",
+              "checked": false
+            }
+          },
+          "camera_angle_preset_tooltip": {
+            "en": {
+              "value": "Camera angle preset.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Préréglage de l'angle de la caméra.",
+              "checked": true
+            },
+            "es": {
+              "value": "Preajuste del ángulo de la cámara.",
+              "checked": false
+            },
+            "zh": {
+              "value": "摄像机角度预设。",
+              "checked": false
+            }
+          },
+          "Alignment": {
+            "en": {
+              "value": "Alignment",
+              "checked": true
+            },
+            "fr": {
+              "value": "Alignement",
+              "checked": true
+            },
+            "es": {
+              "value": "Alineación",
+              "checked": false
+            },
+            "zh": {
+              "value": "统一口径",
+              "checked": false
+            }
+          },
+          "Bones rest": {
+            "en": {
+              "value": "Bones rest",
+              "checked": true
+            },
+            "fr": {
+              "value": "Position de repos des os",
+              "checked": true
+            },
+            "es": {
+              "value": "Los huesos descansan",
+              "checked": false
+            },
+            "zh": {
+              "value": "骨骼休息",
+              "checked": false
+            }
+          },
+          "Selected bones": {
+            "en": {
+              "value": "Selected bones",
+              "checked": true
+            },
+            "fr": {
+              "value": "Os sélectionnés",
+              "checked": true
+            },
+            "es": {
+              "value": "Huesos seleccionados",
+              "checked": false
+            },
+            "zh": {
+              "value": "精选骨骼",
+              "checked": false
+            }
+          },
+          "All bones": {
+            "en": {
+              "value": "All bones",
+              "checked": true
+            },
+            "fr": {
+              "value": "Tous les os",
+              "checked": true
+            },
+            "es": {
+              "value": "Todos los huesos",
+              "checked": false
+            },
+            "zh": {
+              "value": "所有骨骼",
+              "checked": false
             }
           }
         },
