@@ -3462,6 +3462,224 @@
       },
       "Inputs": {
         "Tooltip": {
+          "Animation": {
+            "anim_name_tooltip": {
+              "en": {
+                "value": "Name of the current animation.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Nom de l'animation en cours.",
+                "checked": true
+              },
+              "es": {
+                "value": "Nombre de la animación actual.",
+                "checked": false
+              },
+              "zh": {
+                "value": "当前动画的名称。",
+                "checked": false
+              }
+            },
+            "rewind_button_tooltip": {
+              "en": {
+                "value": "Put animation cursor to position 0.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Place le curseur d'animation à la position 0.",
+                "checked": true
+              },
+              "es": {
+                "value": "Poner el cursor de la animación en la posición 0.",
+                "checked": false
+              },
+              "zh": {
+                "value": "把动画光标放到0的位置。",
+                "checked": false
+              }
+            },
+            "play_button_tooltip": {
+              "en": {
+                "value": "Play/pause",
+                "checked": true
+              },
+              "fr": {
+                "value": "Lecture/pause",
+                "checked": true
+              },
+              "es": {
+                "value": "Reproducir/pausar",
+                "checked": false
+              },
+              "zh": {
+                "value": "播放/暂停",
+                "checked": false
+              }
+            },
+            "anim_position_tooltip": {
+              "en": {
+                "value": "Current position.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Position actuelle.",
+                "checked": true
+              },
+              "es": {
+                "value": "Posición actual.",
+                "checked": false
+              },
+              "zh": {
+                "value": "目前的职位。",
+                "checked": false
+              }
+            },
+            "anim_length_tooltip": {
+              "en": {
+                "value": "Animation length.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Durée de l'animation.",
+                "checked": true
+              },
+              "es": {
+                "value": "Duración de la animación.",
+                "checked": false
+              },
+              "zh": {
+                "value": "动画长度。",
+                "checked": false
+              }
+            },
+            "rescale_button_tooltip": {
+              "en": {
+                "value": "Change animation length and rescale the keys position.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Change la longueur de l'animation et modifie la position des clés.",
+                "checked": true
+              },
+              "es": {
+                "value": "Cambiar la longitud de la animación y reescalar la posición de las teclas.",
+                "checked": false
+              },
+              "zh": {
+                "value": "改变动画长度并重新调整按键位置。",
+                "checked": false
+              }
+            },
+            "anim_fps_tooltip": {
+              "en": {
+                "value": "Set animation frames per second.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Définie le nombre d'images par seconde.",
+                "checked": true
+              },
+              "es": {
+                "value": "Establezca los cuadros de animación por segundo.",
+                "checked": false
+              },
+              "zh": {
+                "value": "设置每秒的动画帧数。",
+                "checked": false
+              }
+            },
+            "anim_scale_tooltip": {
+              "en": {
+                "value": "Scale the animation default speed. Useful for debugging but please use rescaling before export.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Met à l'échelle la vitesse par défaut de l'animation. Utile pour le débogage mais veuillez utiliser le redimensionnement avant d'exporter.",
+                "checked": true
+              },
+              "es": {
+                "value": "Escala la velocidad por defecto de la animación. Útil para la depuración, pero por favor, utilice el reescalado antes de la exportación.",
+                "checked": false
+              },
+              "zh": {
+                "value": "缩放动画的默认速度。对调试有用，但请在导出前使用重新缩放。",
+                "checked": false
+              }
+            },
+            "anim_step_tooltip": {
+              "en": {
+                "value": "Set animation cursor minimum step.",
+                "checked": false
+              },
+              "fr": {
+                "value": "Définit le pas minimum du curseur d'animation.",
+                "checked": false
+              },
+              "es": {
+                "value": "Establecer el paso mínimo del cursor de animación.",
+                "checked": false
+              },
+              "zh": {
+                "value": "设置动画光标的最小步长。",
+                "checked": false
+              }
+            },
+            "anim_track_step_tooltip": {
+              "en": {
+                "value": "Minimum step between two values for this track.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Pas minimum entre deux valeurs pour cette piste.",
+                "checked": true
+              },
+              "es": {
+                "value": "Paso mínimo entre dos valores para esta pista.",
+                "checked": false
+              },
+              "zh": {
+                "value": "该轨道的两个值之间的最小步长。",
+                "checked": false
+              }
+            },
+            "anim_track_wrap_tooltip": {
+              "en": {
+                "value": "Interpolate between last key and first key if the animation loop.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Interpole entre la dernière clé et la première clé si l'animation boucle.",
+                "checked": true
+              },
+              "es": {
+                "value": "Interpolar entre la última tecla y la primera si el animación bucle.",
+                "checked": false
+              },
+              "zh": {
+                "value": "如果动画循环，在最后一个键和第一个键之间进行插值。",
+                "checked": false
+              }
+            },
+            "anim_track_modulo_tooltip": {
+              "en": {
+                "value": "Loop the value between 0 and modulo value, useful for rotation.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Boucle la valeur entre 0 et la valeur modulo, utile pour les rotations.",
+                "checked": true
+              },
+              "es": {
+                "value": "Bucle del valor entre 0 y el valor del módulo, útil para rotaciones.",
+                "checked": false
+              },
+              "zh": {
+                "value": "在0和modulo值之间进行循环，对旋转很有用。",
+                "checked": false
+              }
+            }
+          },
           "object_name_tooltip": {
             "en": {
               "value": "Object name in scene tree.",
@@ -6729,21 +6947,21 @@
                 "checked": false
               }
             },
-            "Shift": {
+            "Shift Palette": {
               "en": {
-                "value": "Shift",
+                "value": "Shift Colors",
                 "checked": true
               },
               "fr": {
-                "value": "Déplacement",
+                "value": "Déplacer les couleurs",
                 "checked": true
               },
               "es": {
-                "value": "Desplazamiento",
+                "value": "Mover los colores",
                 "checked": false
               },
               "zh": {
-                "value": "移动",
+                "value": "轮班颜色",
                 "checked": false
               }
             },
@@ -10874,6 +11092,114 @@
             "zh": {
               "value": "添加新的轨道。",
               "checked": true
+            }
+          },
+          "button_rec_tooltip": {
+            "en": {
+              "value": "Auto add keys when modified input has track.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Ajout automatique de clés lorsque l'input modifiée a une piste.",
+              "checked": true
+            },
+            "es": {
+              "value": "Añadir automáticamente las llaves cuando la entrada modificada tiene pista.",
+              "checked": false
+            },
+            "zh": {
+              "value": "当修改后的输入有轨迹时，自动添加按键。",
+              "checked": false
+            }
+          },
+          "button_add_track_tooltip": {
+            "en": {
+              "value": "Add new input track.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Ajouter une nouvelle piste d'entrée.",
+              "checked": true
+            },
+            "es": {
+              "value": "Añade una nueva pista de entrada.",
+              "checked": false
+            },
+            "zh": {
+              "value": "添加新的输入轨道。",
+              "checked": false
+            }
+          },
+          "button_filter_tooltip": {
+            "en": {
+              "value": "Only display selected objects tracks.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Affiche uniquement les pistes des objets sélectionnés.",
+              "checked": true
+            },
+            "es": {
+              "value": "Mostrar sólo las pistas de los objetos seleccionados.",
+              "checked": false
+            },
+            "zh": {
+              "value": "只显示选定的对象轨道。",
+              "checked": false
+            }
+          },
+          "button_unit_tooltip": {
+            "en": {
+              "value": "Timeline unit.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Unité.",
+              "checked": true
+            },
+            "es": {
+              "value": "Unidad.",
+              "checked": true
+            },
+            "zh": {
+              "value": "时间轴单元。",
+              "checked": false
+            }
+          },
+          "button_snap_tooltip": {
+            "en": {
+              "value": "Toggle cursor snap.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Activer/désactiver le snap du curseur",
+              "checked": true
+            },
+            "es": {
+              "value": "Alternar el ajuste del cursor.",
+              "checked": false
+            },
+            "zh": {
+              "value": "切换光标捕捉。",
+              "checked": false
+            }
+          },
+          "anim_delete_tooltip": {
+            "en": {
+              "value": "Delete this animation.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Supprimer cette animation.",
+              "checked": true
+            },
+            "es": {
+              "value": "Eliminar esta animación.",
+              "checked": false
+            },
+            "zh": {
+              "value": "删除这个动画。",
+              "checked": false
             }
           }
         },
