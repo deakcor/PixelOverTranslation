@@ -9457,6 +9457,42 @@
               "value": "原点",
               "checked": false
             }
+          },
+          "Visual 2D": {
+            "en": {
+              "value": "Visual 2D",
+              "checked": true
+            },
+            "fr": {
+              "value": "Visuel 2D",
+              "checked": true
+            },
+            "es": {
+              "value": "Visual 2D",
+              "checked": false
+            },
+            "zh": {
+              "value": "视觉2D",
+              "checked": false
+            }
+          },
+          "Visual 3D": {
+            "en": {
+              "value": "Visual 3D",
+              "checked": true
+            },
+            "fr": {
+              "value": "Visuel 3D",
+              "checked": true
+            },
+            "es": {
+              "value": "Visual 3D",
+              "checked": false
+            },
+            "zh": {
+              "value": "视觉3D",
+              "checked": false
+            }
           }
         },
         "Tools": {
@@ -10476,6 +10512,62 @@
       },
       "Dialogs": {
         "Sprite sheet": {
+          "Tooltip": {
+            "spritesheet_import_column_tooltip": {
+              "en": {
+                "value": "Sprite sheet column numbers",
+                "checked": true
+              },
+              "fr": {
+                "value": "Nombre de colonnes du sprite sheet",
+                "checked": true
+              },
+              "es": {
+                "value": "Números de columna de la hoja de Sprite",
+                "checked": false
+              },
+              "zh": {
+                "value": "雪碧表的列号",
+                "checked": false
+              }
+            },
+            "spritesheet_import_row_tooltip": {
+              "en": {
+                "value": "Sprite sheet row numbers",
+                "checked": true
+              },
+              "fr": {
+                "value": "Nombre de lignes du sprite sheet",
+                "checked": true
+              },
+              "es": {
+                "value": "Números de fila de la hoja de Sprite",
+                "checked": false
+              },
+              "zh": {
+                "value": "雪碧表的行数",
+                "checked": false
+              }
+            },
+            "spritesheet_import_size_tooltip": {
+              "en": {
+                "value": "Sprite sheet cell size. It will take the nearest size when impossible.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Taille de la cellule du sprite sheet. Il prendra la taille la plus proche lorsque cela est impossible.",
+                "checked": true
+              },
+              "es": {
+                "value": "Tamaño de la celda de la hoja de Sprite. Tomará el tamaño más cercano cuando sea imposible.",
+                "checked": false
+              },
+              "zh": {
+                "value": "Sprite sheet单元的尺寸。在不可能的情况下，它将采取最接近的尺寸。",
+                "checked": false
+              }
+            }
+          },
           "open_images": {
             "en": {
               "value": "Open Images",
@@ -10804,22 +10896,494 @@
           }
         },
         "Export": {
-          "export_anim_all_tooltip": {
-            "en": {
-              "value": "Export all animations.",
-              "checked": true
+          "Tooltip": {
+            "export_anim_all_tooltip": {
+              "en": {
+                "value": "Export all animations.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Exporter toutes les animations.",
+                "checked": true
+              },
+              "es": {
+                "value": "Exportar todo.",
+                "checked": false
+              },
+              "zh": {
+                "value": "导出所有文件",
+                "checked": true
+              }
             },
-            "fr": {
-              "value": "Exporter toutes les animations.",
-              "checked": true
+            "export_anims_tooltip": {
+              "en": {
+                "value": "Only selected animations will be exported.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Seules les animations sélectionnées seront exportées.",
+                "checked": true
+              },
+              "es": {
+                "value": "Sólo se exportarán las animaciones seleccionadas.",
+                "checked": false
+              },
+              "zh": {
+                "value": "只有选定的动画会被导出。",
+                "checked": false
+              }
             },
-            "es": {
-              "value": "Exportar todo.",
-              "checked": false
+            "export_path_tooltip": {
+              "en": {
+                "value": "The path where the files will be saved.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Le chemin où les fichiers seront enregistrés.",
+                "checked": true
+              },
+              "es": {
+                "value": "La ruta donde se guardarán los archivos.",
+                "checked": false
+              },
+              "zh": {
+                "value": "文件将被保存的路径。",
+                "checked": false
+              }
             },
-            "zh": {
-              "value": "导出所有文件",
-              "checked": true
+            "export_layer_separated_tooltip": {
+              "en": {
+                "value": "Separate each layer in a new different file.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Sépare chaque calque dans un nouveau fichier différent.",
+                "checked": true
+              },
+              "es": {
+                "value": "Separe cada capa en un nuevo archivo diferente.",
+                "checked": false
+              },
+              "zh": {
+                "value": "在一个新的不同文件中分离每个层。",
+                "checked": false
+              }
+            },
+            "export_current_view_tooltip": {
+              "en": {
+                "value": "Only export the current view used.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Exporter uniquement la vue actuellement utilisée.",
+                "checked": true
+              },
+              "es": {
+                "value": "Sólo exporta la vista actual utilizada.",
+                "checked": false
+              },
+              "zh": {
+                "value": "只导出当前使用的视图。",
+                "checked": false
+              }
+            },
+            "export_background_tooltip": {
+              "en": {
+                "value": "Fill transparent background with this color.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Remplir le fond transparent avec cette couleur.",
+                "checked": false
+              },
+              "es": {
+                "value": "Rellena el fondo transparente con este color.",
+                "checked": false
+              },
+              "zh": {
+                "value": "用这种颜色填充透明背景。",
+                "checked": false
+              }
+            },
+            "export_scale_tooltip": {
+              "en": {
+                "value": "Rescale exported image.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Redimensionner l'image exportée.",
+                "checked": true
+              },
+              "es": {
+                "value": "Reescala la imagen exportada.",
+                "checked": false
+              },
+              "zh": {
+                "value": "对导出的图像进行重新缩放。",
+                "checked": false
+              }
+            },
+            "export_size_tooltip": {
+              "en": {
+                "value": "Final size of the exported image. (maximum image size after scale applied)",
+                "checked": true
+              },
+              "fr": {
+                "value": "Taille finale de l'image exportée. (taille maximale de l'image après application de la mise à l'échelle)",
+                "checked": true
+              },
+              "es": {
+                "value": "Tamaño final de la imagen exportada. (tamaño máximo de la imagen después de aplicar la escala)",
+                "checked": false
+              },
+              "zh": {
+                "value": "输出图像的最终尺寸。(应用缩放后的最大图像尺寸)",
+                "checked": false
+              }
+            },
+            "export_animation_tooltip": {
+              "en": {
+                "value": "Export the animations.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Exporter les animations.",
+                "checked": true
+              },
+              "es": {
+                "value": "Exporta las animaciones.",
+                "checked": false
+              },
+              "zh": {
+                "value": "导出动画。",
+                "checked": false
+              }
+            },
+            "export_anim_folder_tooltip": {
+              "en": {
+                "value": "Create a folder for each animations.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Créer un dossier pour chaque animation.",
+                "checked": true
+              },
+              "es": {
+                "value": "Cree una carpeta para cada animación.",
+                "checked": false
+              },
+              "zh": {
+                "value": "为每个动画创建一个文件夹。",
+                "checked": false
+              }
+            },
+            "export_3d_auto_rotate_tooltip": {
+              "en": {
+                "value": "Automatically rotate 3D layers in several directions.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Fait pivoter automatiquement les calques 3D dans plusieurs directions.",
+                "checked": true
+              },
+              "es": {
+                "value": "Rota automáticamente las capas 3D en varias direcciones.",
+                "checked": false
+              },
+              "zh": {
+                "value": "自动在几个方向上旋转3D层。",
+                "checked": false
+              }
+            },
+            "export_3d_dir_tooltip": {
+              "en": {
+                "value": "Will auto rotate the layer on Y axes by the number of rotations.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Permet de faire pivoter automatiquement le calque sur les axes Y par le nombre de rotations.",
+                "checked": true
+              },
+              "es": {
+                "value": "Rotará automáticamente la capa en los ejes Y por el número de rotaciones.",
+                "checked": false
+              },
+              "zh": {
+                "value": "将在Y轴上自动旋转该层，旋转的次数。",
+                "checked": false
+              }
+            },
+            "export_anim_spritesheet_tooltip": {
+              "en": {
+                "value": "Create sprite sheets instead of separated images.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Crée des feuilles de sprites au lieu d'images séparées.",
+                "checked": true
+              },
+              "es": {
+                "value": "Crear hojas de sprites en lugar de imágenes separadas.",
+                "checked": false
+              },
+              "zh": {
+                "value": "创建精灵表而不是分离的图像。",
+                "checked": false
+              }
+            },
+            "export_anim_spritesheet_size_tooltip": {
+              "en": {
+                "value": "Sprite sheet number of columns.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Feuille de sprites nombre de colonnes.",
+                "checked": true
+              },
+              "es": {
+                "value": "Número de columnas de la hoja de Sprite.",
+                "checked": false
+              },
+              "zh": {
+                "value": "Sprite sheet的列数。",
+                "checked": false
+              }
+            },
+            "export_anim_resize_tooltip": {
+              "en": {
+                "value": "Resize all the images to the largest one and respect canvas offset.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Redimensionne toutes les images à la plus grande et respecte le décalage du canevas.",
+                "checked": true
+              },
+              "es": {
+                "value": "Redimensiona todas las imágenes a la mayor y respeta el desplazamiento del lienzo.",
+                "checked": false
+              },
+              "zh": {
+                "value": "将所有图片的大小调整为最大的一张，并尊重画布的偏移。",
+                "checked": false
+              }
+            },
+            "export_reveal_tooltip": {
+              "en": {
+                "value": "Reveal exported files in system explorer.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Révéler les fichiers exportés dans l'explorateur système.",
+                "checked": true
+              },
+              "es": {
+                "value": "Revelar los archivos exportados en el explorador del sistema.",
+                "checked": false
+              },
+              "zh": {
+                "value": "在系统资源管理器中显示导出的文件。",
+                "checked": false
+              }
+            }
+          },
+          "Summary": {
+            "export_will_create": {
+              "en": {
+                "value": "This export will create",
+                "checked": true
+              },
+              "fr": {
+                "value": "Cette exportation créera",
+                "checked": true
+              },
+              "es": {
+                "value": "Esta exportación creará",
+                "checked": false
+              },
+              "zh": {
+                "value": "这个出口将创建",
+                "checked": false
+              }
+            },
+            "in_specific_folder": {
+              "en": {
+                "value": "in the specified folder.",
+                "checked": true
+              },
+              "fr": {
+                "value": "dans le dossier spécifié.",
+                "checked": true
+              },
+              "es": {
+                "value": "en la carpeta especificada.",
+                "checked": false
+              },
+              "zh": {
+                "value": "在指定的文件夹中。",
+                "checked": false
+              }
+            },
+            "frame_in": {
+              "en": {
+                "value": "frame(s) in",
+                "checked": true
+              },
+              "fr": {
+                "value": "frame(s) dans",
+                "checked": true
+              },
+              "es": {
+                "value": "frame(s) en",
+                "checked": false
+              },
+              "zh": {
+                "value": "框中",
+                "checked": false
+              }
+            },
+            "aseprite_file": {
+              "en": {
+                "value": "an Aseprite file",
+                "checked": true
+              },
+              "fr": {
+                "value": "un fichier Aseprite",
+                "checked": true
+              },
+              "es": {
+                "value": "un archivo Aseprite",
+                "checked": false
+              },
+              "zh": {
+                "value": "一个Aseprite文件",
+                "checked": false
+              }
+            },
+            "image(s)": {
+              "en": {
+                "value": "image(s)",
+                "checked": true
+              },
+              "fr": {
+                "value": "image(s)",
+                "checked": true
+              },
+              "es": {
+                "value": "imagen(es)",
+                "checked": false
+              },
+              "zh": {
+                "value": "图像(s)",
+                "checked": false
+              }
+            },
+            "different_animated_image": {
+              "en": {
+                "value": "different animated image(s)",
+                "checked": true
+              },
+              "fr": {
+                "value": "image(s) animée(s) différente(s)",
+                "checked": true
+              },
+              "es": {
+                "value": "diferentes imágenes animadas",
+                "checked": false
+              },
+              "zh": {
+                "value": "不同的动画图像(s)",
+                "checked": false
+              }
+            },
+            "different_sprite_sheet": {
+              "en": {
+                "value": "different sprite sheet(s)",
+                "checked": true
+              },
+              "fr": {
+                "value": "feuille(s) de sprite différente(s)",
+                "checked": true
+              },
+              "es": {
+                "value": "diferentes hojas de sprites",
+                "checked": false
+              },
+              "zh": {
+                "value": "不同的精灵片",
+                "checked": false
+              }
+            },
+            "separated_different_folder": {
+              "en": {
+                "value": "separated in %s different folder(s).",
+                "checked": true
+              },
+              "fr": {
+                "value": "séparés dans %s dossier(s) différent(s).",
+                "checked": true
+              },
+              "es": {
+                "value": "separados en %s carpeta(s) diferentes.",
+                "checked": false
+              },
+              "zh": {
+                "value": "分离在%s不同的文件夹中。",
+                "checked": false
+              }
+            },
+            "by_views": {
+              "en": {
+                "value": "by %s views",
+                "checked": true
+              },
+              "fr": {
+                "value": "par %s vues",
+                "checked": true
+              },
+              "es": {
+                "value": "por %s vistas",
+                "checked": false
+              },
+              "zh": {
+                "value": "由%s意见",
+                "checked": false
+              }
+            },
+            "by_layers": {
+              "en": {
+                "value": "by %s layers",
+                "checked": true
+              },
+              "fr": {
+                "value": "par %s couches",
+                "checked": true
+              },
+              "es": {
+                "value": "por capas %s",
+                "checked": false
+              },
+              "zh": {
+                "value": "通过%s层",
+                "checked": false
+              }
+            },
+            "by_directions": {
+              "en": {
+                "value": "by %s directions",
+                "checked": true
+              },
+              "fr": {
+                "value": "par %s directions",
+                "checked": true
+              },
+              "es": {
+                "value": "por %s direcciones",
+                "checked": false
+              },
+              "zh": {
+                "value": "按%s方向",
+                "checked": false
+              }
             }
           },
           "Animations": {
@@ -10840,21 +11404,419 @@
               "checked": false
             }
           },
-          "export_anims_tooltip": {
+          "Resize": {
             "en": {
-              "value": "Only selected animations will be exported.",
+              "value": "Resize",
               "checked": true
             },
             "fr": {
-              "value": "Seules les animations sélectionnées seront exportées.",
-              "checked": true
+              "value": "Redimensionner",
+              "checked": false
             },
             "es": {
-              "value": "Sólo se exportarán las animaciones seleccionadas.",
+              "value": "Redimensionar",
               "checked": false
             },
             "zh": {
-              "value": "只有选定的动画会被导出。",
+              "value": "调整大小",
+              "checked": false
+            }
+          },
+          "Export": {
+            "en": {
+              "value": "Export",
+              "checked": true
+            },
+            "fr": {
+              "value": "Exportation",
+              "checked": true
+            },
+            "es": {
+              "value": "Exportar",
+              "checked": false
+            },
+            "zh": {
+              "value": "出口",
+              "checked": false
+            }
+          },
+          "Separate folder": {
+            "en": {
+              "value": "Separate folder",
+              "checked": true
+            },
+            "fr": {
+              "value": "Dossier séparé",
+              "checked": true
+            },
+            "es": {
+              "value": "Carpeta separada",
+              "checked": false
+            },
+            "zh": {
+              "value": "单独的文件夹",
+              "checked": false
+            }
+          },
+          "Final Size": {
+            "en": {
+              "value": "Final Size",
+              "checked": true
+            },
+            "fr": {
+              "value": "Taille finale",
+              "checked": true
+            },
+            "es": {
+              "value": "Tamaño final",
+              "checked": false
+            },
+            "zh": {
+              "value": "最终尺寸",
+              "checked": false
+            }
+          },
+          "Separated": {
+            "en": {
+              "value": "Separated",
+              "checked": true
+            },
+            "fr": {
+              "value": "Séparé",
+              "checked": true
+            },
+            "es": {
+              "value": "Separado",
+              "checked": false
+            },
+            "zh": {
+              "value": "分离的",
+              "checked": false
+            }
+          },
+          "Only Current": {
+            "en": {
+              "value": "Only Current",
+              "checked": true
+            },
+            "fr": {
+              "value": "Seulement l'actuelle",
+              "checked": true
+            },
+            "es": {
+              "value": "Sólo la corriente",
+              "checked": false
+            },
+            "zh": {
+              "value": "仅限当前",
+              "checked": false
+            }
+          },
+          "Auto Rotate": {
+            "en": {
+              "value": "Auto Rotate",
+              "checked": true
+            },
+            "fr": {
+              "value": "Rotation automatique",
+              "checked": true
+            },
+            "es": {
+              "value": "Rotación automática",
+              "checked": false
+            },
+            "zh": {
+              "value": "自动旋转",
+              "checked": false
+            }
+          },
+          "Directions": {
+            "en": {
+              "value": "Directions",
+              "checked": true
+            },
+            "fr": {
+              "value": "Directions",
+              "checked": true
+            },
+            "es": {
+              "value": "Direcciones",
+              "checked": false
+            },
+            "zh": {
+              "value": "路线图",
+              "checked": false
+            }
+          },
+          "Open files folder": {
+            "en": {
+              "value": "Open files folder",
+              "checked": true
+            },
+            "fr": {
+              "value": "Ouvrir le dossier des fichiers",
+              "checked": true
+            },
+            "es": {
+              "value": "Abrir la carpeta de archivos",
+              "checked": false
+            },
+            "zh": {
+              "value": "打开文件夹",
+              "checked": false
+            }
+          },
+          "Views": {
+            "en": {
+              "value": "Views",
+              "checked": true
+            },
+            "fr": {
+              "value": "Vues",
+              "checked": true
+            },
+            "es": {
+              "value": "Vistas",
+              "checked": false
+            },
+            "zh": {
+              "value": "观点",
+              "checked": false
+            }
+          },
+          "Sprite sheet": {
+            "en": {
+              "value": "Sprite sheet",
+              "checked": true
+            },
+            "fr": {
+              "value": "Sprite sheet",
+              "checked": true
+            },
+            "es": {
+              "value": "Hoja de Sprite",
+              "checked": false
+            },
+            "zh": {
+              "value": "雪碧表",
+              "checked": false
+            }
+          },
+          "No Effect Background": {
+            "en": {
+              "value": "No Effect Background",
+              "checked": true
+            },
+            "fr": {
+              "value": "Arrière-plan sans effets",
+              "checked": true
+            },
+            "es": {
+              "value": "Sin efecto Antecedentes",
+              "checked": false
+            },
+            "zh": {
+              "value": "无影响 背景",
+              "checked": false
+            }
+          },
+          "Preview Background": {
+            "en": {
+              "value": "Preview Background",
+              "checked": true
+            },
+            "fr": {
+              "value": "Arrière-plan de l'aperçu",
+              "checked": true
+            },
+            "es": {
+              "value": "Vista previa del fondo",
+              "checked": false
+            },
+            "zh": {
+              "value": "背景预览",
+              "checked": false
+            }
+          },
+          "Normal Background": {
+            "en": {
+              "value": "Normal Background",
+              "checked": true
+            },
+            "fr": {
+              "value": "Arrière-plan normal",
+              "checked": false
+            },
+            "es": {
+              "value": "Fondo normal",
+              "checked": false
+            },
+            "zh": {
+              "value": "正常背景",
+              "checked": false
+            }
+          },
+          "Depth Background": {
+            "en": {
+              "value": "Depth Background",
+              "checked": true
+            },
+            "fr": {
+              "value": "Arrière-plan de la profondeur",
+              "checked": true
+            },
+            "es": {
+              "value": "Fondo de profundidad",
+              "checked": false
+            },
+            "zh": {
+              "value": "深度背景",
+              "checked": false
+            }
+          }
+        },
+        "Create animation": {
+          "create_new_animation": {
+            "en": {
+              "value": "Do you want to create an animation ?",
+              "checked": true
+            },
+            "fr": {
+              "value": "Voulez-vous créer une animation ?",
+              "checked": true
+            },
+            "es": {
+              "value": "¿Quieres crear una animación?",
+              "checked": false
+            },
+            "zh": {
+              "value": "你想创建一个动画吗？",
+              "checked": false
+            }
+          },
+          "add_anim_create_tooltip": {
+            "en": {
+              "value": "Add in an animation.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Ajouter dans une animation.",
+              "checked": true
+            },
+            "es": {
+              "value": "Añade una animación.",
+              "checked": false
+            },
+            "zh": {
+              "value": "加入一个动画。",
+              "checked": false
+            }
+          },
+          "add_anim_new_tooltip": {
+            "en": {
+              "value": "Add in a new animation.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Ajouter dans une nouvelle animation.",
+              "checked": true
+            },
+            "es": {
+              "value": "Añade una nueva animación.",
+              "checked": false
+            },
+            "zh": {
+              "value": "加入一个新的动画。",
+              "checked": false
+            }
+          },
+          "add_anim_name_tooltip": {
+            "en": {
+              "value": "New animation name.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Nom de la nouvelle animation.",
+              "checked": true
+            },
+            "es": {
+              "value": "Nuevo nombre de animación.",
+              "checked": false
+            },
+            "zh": {
+              "value": "新的动画名称。",
+              "checked": false
+            }
+          },
+          "add_anim_update_length_tooltip": {
+            "en": {
+              "value": "update animation length.",
+              "checked": true
+            },
+            "fr": {
+              "value": "mettre à jour la longueur de l'animation.",
+              "checked": true
+            },
+            "es": {
+              "value": "actualizar la duración de la animación.",
+              "checked": false
+            },
+            "zh": {
+              "value": "更新动画长度。",
+              "checked": false
+            }
+          },
+          "add_anim_update_fps_tooltip": {
+            "en": {
+              "value": "update animation FPS to the animated image one.",
+              "checked": true
+            },
+            "fr": {
+              "value": "mettre à jour les FPS de l'animation avec ceux de l'image animée.",
+              "checked": true
+            },
+            "es": {
+              "value": "actualizar la animación FPS a la de la imagen animada.",
+              "checked": false
+            },
+            "zh": {
+              "value": "将动画的FPS更新为动画图像的FPS。",
+              "checked": false
+            }
+          },
+          "Create new": {
+            "en": {
+              "value": "Create new",
+              "checked": true
+            },
+            "fr": {
+              "value": "Créer une nouvelle",
+              "checked": true
+            },
+            "es": {
+              "value": "Crear nuevo",
+              "checked": false
+            },
+            "zh": {
+              "value": "创建新的",
+              "checked": false
+            }
+          },
+          "Animation for ": {
+            "en": {
+              "value": "Animation for ",
+              "checked": true
+            },
+            "fr": {
+              "value": "Animation pour",
+              "checked": true
+            },
+            "es": {
+              "value": "Animación para",
+              "checked": false
+            },
+            "zh": {
+              "value": "动画为",
               "checked": false
             }
           }
