@@ -2342,58 +2342,76 @@
               "checked": true
             }
           },
-          "Toggle Lock": {
+          "3D Ratio Lock": {
             "en": {
-              "value": "Toggle Lock",
+              "value": "3D Ratio Lock",
               "checked": true
             },
             "fr": {
-              "value": "Alterner le blocage",
+              "value": "Verrouillage du ratio 3D",
               "checked": true
             },
             "es": {
-              "value": "Alternar bloqueo",
-              "checked": true
+              "value": "Bloqueo de la relación 3D",
+              "checked": false
             },
             "zh": {
-              "value": "切换锁定",
-              "checked": true
+              "value": "三维比例锁定",
+              "checked": false
             }
           },
-          "Toggle 3D Lock": {
+          "Ratio Lock": {
             "en": {
-              "value": "Toggle 3D Lock",
+              "value": "Ratio Lock",
               "checked": true
             },
             "fr": {
-              "value": "Alterner le blocage 3D",
+              "value": "Verrouillage du ratio",
               "checked": true
             },
             "es": {
-              "value": "Alternar bloqueo 3D",
-              "checked": true
+              "value": "Bloqueo de la relación",
+              "checked": false
             },
             "zh": {
-              "value": "切换3D锁定",
-              "checked": true
+              "value": "比率锁定",
+              "checked": false
             }
           },
-          "Toggle Center": {
+          "Center Resize": {
             "en": {
-              "value": "Toggle Center",
+              "value": "Center Resize",
               "checked": true
             },
             "fr": {
-              "value": "Alterner le centre",
+              "value": "Centrer le redimensionnement",
               "checked": true
             },
             "es": {
-              "value": "Alternar centrado",
-              "checked": true
+              "value": "Redimensionamiento del centro",
+              "checked": false
             },
             "zh": {
-              "value": "切换中心",
+              "value": "中心调整大小",
+              "checked": false
+            }
+          },
+          "Rotation Lock": {
+            "en": {
+              "value": "Rotation Lock",
               "checked": true
+            },
+            "fr": {
+              "value": "Verrouiller la rotation",
+              "checked": true
+            },
+            "es": {
+              "value": "Bloqueo de rotación",
+              "checked": false
+            },
+            "zh": {
+              "value": "旋转锁",
+              "checked": false
             }
           }
         },
