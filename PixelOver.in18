@@ -2214,6 +2214,188 @@
                 "value": "删除关键帧",
                 "checked": true
               }
+            },
+            "3D Ratio Lock": {
+              "en": {
+                "value": "3D Ratio Lock",
+                "checked": true
+              },
+              "fr": {
+                "value": "Verrouillage du ratio 3D",
+                "checked": true
+              },
+              "es": {
+                "value": "Bloqueo de la relación 3D",
+                "checked": false
+              },
+              "zh": {
+                "value": "三维比例锁定",
+                "checked": false
+              }
+            },
+            "Ratio Lock": {
+              "en": {
+                "value": "Ratio Lock",
+                "checked": true
+              },
+              "fr": {
+                "value": "Verrouillage du ratio",
+                "checked": true
+              },
+              "es": {
+                "value": "Bloqueo de la relación",
+                "checked": false
+              },
+              "zh": {
+                "value": "比率锁定",
+                "checked": false
+              }
+            },
+            "Center Resize": {
+              "en": {
+                "value": "Center Resize",
+                "checked": true
+              },
+              "fr": {
+                "value": "Centrer le redimensionnement",
+                "checked": true
+              },
+              "es": {
+                "value": "Redimensionamiento del centro",
+                "checked": false
+              },
+              "zh": {
+                "value": "中心调整大小",
+                "checked": false
+              }
+            },
+            "Rotation Lock": {
+              "en": {
+                "value": "Rotation Lock",
+                "checked": true
+              },
+              "fr": {
+                "value": "Verrouiller la rotation",
+                "checked": true
+              },
+              "es": {
+                "value": "Bloqueo de rotación",
+                "checked": false
+              },
+              "zh": {
+                "value": "旋转锁",
+                "checked": false
+              }
+            }
+          },
+          "Theme": {
+            "Darker": {
+              "en": {
+                "value": "Darker",
+                "checked": true
+              },
+              "fr": {
+                "value": "Plus sombre",
+                "checked": true
+              },
+              "es": {
+                "value": "Más oscuro",
+                "checked": false
+              },
+              "zh": {
+                "value": "更加黑暗",
+                "checked": false
+              }
+            },
+            "Darkest": {
+              "en": {
+                "value": "Darkest",
+                "checked": true
+              },
+              "fr": {
+                "value": "Le plus sombre",
+                "checked": true
+              },
+              "es": {
+                "value": "La más oscura",
+                "checked": false
+              },
+              "zh": {
+                "value": "最黑暗的",
+                "checked": false
+              }
+            },
+            "Dark": {
+              "en": {
+                "value": "Dark",
+                "checked": true
+              },
+              "fr": {
+                "value": "Sombre",
+                "checked": true
+              },
+              "es": {
+                "value": "Oscuro",
+                "checked": false
+              },
+              "zh": {
+                "value": "黑暗",
+                "checked": false
+              }
+            },
+            "Normal": {
+              "en": {
+                "value": "Normal",
+                "checked": true
+              },
+              "fr": {
+                "value": "Normal",
+                "checked": true
+              },
+              "es": {
+                "value": "Normal",
+                "checked": true
+              },
+              "zh": {
+                "value": "正常",
+                "checked": false
+              }
+            },
+            "Light": {
+              "en": {
+                "value": "Light",
+                "checked": true
+              },
+              "fr": {
+                "value": "Lumineux",
+                "checked": true
+              },
+              "es": {
+                "value": "Luz",
+                "checked": false
+              },
+              "zh": {
+                "value": "亮度",
+                "checked": false
+              }
+            },
+            "Lighter": {
+              "en": {
+                "value": "Lighter",
+                "checked": true
+              },
+              "fr": {
+                "value": "Plus lumineux",
+                "checked": true
+              },
+              "es": {
+                "value": "Más luz",
+                "checked": false
+              },
+              "zh": {
+                "value": "打火机",
+                "checked": false
+              }
             }
           },
           "Max colors": {
@@ -2304,114 +2486,6 @@
             "zh": {
               "value": "全选",
               "checked": true
-            }
-          },
-          "Play": {
-            "en": {
-              "value": "Play",
-              "checked": true
-            },
-            "fr": {
-              "value": "Jouer",
-              "checked": true
-            },
-            "es": {
-              "value": "Reproducir",
-              "checked": true
-            },
-            "zh": {
-              "value": "播放",
-              "checked": true
-            }
-          },
-          "Rewind": {
-            "en": {
-              "value": "Rewind",
-              "checked": true
-            },
-            "fr": {
-              "value": "Rembobinage",
-              "checked": true
-            },
-            "es": {
-              "value": "Rebobinar",
-              "checked": true
-            },
-            "zh": {
-              "value": "倒带",
-              "checked": true
-            }
-          },
-          "3D Ratio Lock": {
-            "en": {
-              "value": "3D Ratio Lock",
-              "checked": true
-            },
-            "fr": {
-              "value": "Verrouillage du ratio 3D",
-              "checked": true
-            },
-            "es": {
-              "value": "Bloqueo de la relación 3D",
-              "checked": false
-            },
-            "zh": {
-              "value": "三维比例锁定",
-              "checked": false
-            }
-          },
-          "Ratio Lock": {
-            "en": {
-              "value": "Ratio Lock",
-              "checked": true
-            },
-            "fr": {
-              "value": "Verrouillage du ratio",
-              "checked": true
-            },
-            "es": {
-              "value": "Bloqueo de la relación",
-              "checked": false
-            },
-            "zh": {
-              "value": "比率锁定",
-              "checked": false
-            }
-          },
-          "Center Resize": {
-            "en": {
-              "value": "Center Resize",
-              "checked": true
-            },
-            "fr": {
-              "value": "Centrer le redimensionnement",
-              "checked": true
-            },
-            "es": {
-              "value": "Redimensionamiento del centro",
-              "checked": false
-            },
-            "zh": {
-              "value": "中心调整大小",
-              "checked": false
-            }
-          },
-          "Rotation Lock": {
-            "en": {
-              "value": "Rotation Lock",
-              "checked": true
-            },
-            "fr": {
-              "value": "Verrouiller la rotation",
-              "checked": true
-            },
-            "es": {
-              "value": "Bloqueo de rotación",
-              "checked": false
-            },
-            "zh": {
-              "value": "旋转锁",
-              "checked": false
             }
           }
         },
@@ -8082,22 +8156,22 @@
               "checked": true
             }
           },
-          "Light": {
+          "Directional Light": {
             "en": {
-              "value": "Light",
+              "value": "Directional Light",
               "checked": true
             },
             "fr": {
-              "value": "Lumière",
+              "value": "Lumière directionnelle",
               "checked": true
             },
             "es": {
-              "value": "Luz",
-              "checked": true
+              "value": "Luz direccional",
+              "checked": false
             },
             "zh": {
-              "value": "亮度",
-              "checked": true
+              "value": "方向灯",
+              "checked": false
             }
           },
           "Intensity": {
