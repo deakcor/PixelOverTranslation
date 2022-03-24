@@ -2396,6 +2396,78 @@
                 "value": "打火机",
                 "checked": false
               }
+            },
+            "Text Secondary": {
+              "en": {
+                "value": "Text Secondary",
+                "checked": true
+              },
+              "fr": {
+                "value": "Texte Secondaire",
+                "checked": true
+              },
+              "es": {
+                "value": "Texto Secundario",
+                "checked": false
+              },
+              "zh": {
+                "value": "中学文本",
+                "checked": false
+              }
+            },
+            "Theme": {
+              "en": {
+                "value": "Theme",
+                "checked": true
+              },
+              "fr": {
+                "value": "Thème",
+                "checked": true
+              },
+              "es": {
+                "value": "Tema",
+                "checked": false
+              },
+              "zh": {
+                "value": "主题",
+                "checked": false
+              }
+            },
+            "Advanced Colors": {
+              "en": {
+                "value": "Advanced Colors",
+                "checked": true
+              },
+              "fr": {
+                "value": "Couleurs avancées",
+                "checked": true
+              },
+              "es": {
+                "value": "Colores avanzados",
+                "checked": false
+              },
+              "zh": {
+                "value": "高级颜色",
+                "checked": false
+              }
+            },
+            "Lightest": {
+              "en": {
+                "value": "Lightest",
+                "checked": true
+              },
+              "fr": {
+                "value": "Le plus lumineux",
+                "checked": true
+              },
+              "es": {
+                "value": "El más luz",
+                "checked": false
+              },
+              "zh": {
+                "value": "最轻的",
+                "checked": false
+              }
             }
           },
           "Max colors": {
