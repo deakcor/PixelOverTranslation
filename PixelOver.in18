@@ -10451,8 +10451,8 @@
             "checked": true
           },
           "es": {
-            "value": "Sombreado de capas",
-            "checked": false
+            "value": "Shader de capas",
+            "checked": true
           },
           "zh": {
             "value": "图层着色器",
@@ -10739,8 +10739,8 @@
             "checked": true
           },
           "es": {
-            "value": "Capa de sombreado",
-            "checked": false
+            "value": "Capa de shader",
+            "checked": true
           },
           "zh": {
             "value": "着色图层",
@@ -10757,8 +10757,8 @@
             "checked": true
           },
           "es": {
-            "value": "Capa de sombreado 3D",
-            "checked": false
+            "value": "Capa de shader 3D",
+            "checked": true
           },
           "zh": {
             "value": "3D着色图层",
