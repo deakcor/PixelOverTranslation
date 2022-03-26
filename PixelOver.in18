@@ -1941,6 +1941,24 @@
               "value": "渲染",
               "checked": true
             }
+          },
+          "Bone tool": {
+            "en": {
+              "value": "Bone tool",
+              "checked": true
+            },
+            "fr": {
+              "value": "Outil os",
+              "checked": true
+            },
+            "es": {
+              "value": "Herramienta huesos",
+              "checked": false
+            },
+            "zh": {
+              "value": "骨骼工具",
+              "checked": false
+            }
           }
         },
         "Title": {
@@ -2468,6 +2486,42 @@
                 "value": "最轻的",
                 "checked": false
               }
+            },
+            "Blue": {
+              "en": {
+                "value": "Blue",
+                "checked": true
+              },
+              "fr": {
+                "value": "Bleu",
+                "checked": true
+              },
+              "es": {
+                "value": "Azul",
+                "checked": false
+              },
+              "zh": {
+                "value": "蓝色",
+                "checked": false
+              }
+            },
+            "From theme": {
+              "en": {
+                "value": "From theme",
+                "checked": true
+              },
+              "fr": {
+                "value": "Du thème",
+                "checked": true
+              },
+              "es": {
+                "value": "Desde el tema",
+                "checked": false
+              },
+              "zh": {
+                "value": "从主题",
+                "checked": false
+              }
             }
           },
           "Max colors": {
@@ -2558,6 +2612,42 @@
             "zh": {
               "value": "全选",
               "checked": true
+            }
+          },
+          "Axes Colors": {
+            "en": {
+              "value": "Axes Colors",
+              "checked": true
+            },
+            "fr": {
+              "value": "Couleurs des axes",
+              "checked": true
+            },
+            "es": {
+              "value": "Ejes Colores",
+              "checked": false
+            },
+            "zh": {
+              "value": "轴的颜色",
+              "checked": false
+            }
+          },
+          "Colors": {
+            "en": {
+              "value": "Colors",
+              "checked": true
+            },
+            "fr": {
+              "value": "Couleurs",
+              "checked": true
+            },
+            "es": {
+              "value": "Colores",
+              "checked": false
+            },
+            "zh": {
+              "value": "颜色",
+              "checked": false
             }
           }
         },
