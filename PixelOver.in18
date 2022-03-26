@@ -10259,6 +10259,26 @@
             }
           }
         },
+        "Object Type": {
+          "Model": {
+            "en": {
+              "value": "Model",
+              "checked": true
+            },
+            "fr": {
+              "value": "Modèle",
+              "checked": true
+            },
+            "es": {
+              "value": "Modelo",
+              "checked": false
+            },
+            "zh": {
+              "value": "模型",
+              "checked": false
+            }
+          }
+        },
         "Animation": {
           "en": {
             "value": "Animation",
@@ -10670,6 +10690,24 @@
           },
           "zh": {
             "value": "未选中物体",
+            "checked": false
+          }
+        },
+        "Default shader": {
+          "en": {
+            "value": "Default shader",
+            "checked": true
+          },
+          "fr": {
+            "value": "Shader par défaut",
+            "checked": true
+          },
+          "es": {
+            "value": "Shader por defecto",
+            "checked": false
+          },
+          "zh": {
+            "value": "默认的着色器",
             "checked": false
           }
         }
@@ -12151,6 +12189,152 @@
             }
           }
         },
+        "File explorer": {
+          "Open a Directory": {
+            "en": {
+              "value": "Open a Directory",
+              "checked": true
+            },
+            "fr": {
+              "value": "Ouvrir un répertoire",
+              "checked": true
+            },
+            "es": {
+              "value": "Abrir un directorio",
+              "checked": false
+            },
+            "zh": {
+              "value": "打开一个目录",
+              "checked": false
+            }
+          },
+          "Create Folder": {
+            "en": {
+              "value": "Create Folder",
+              "checked": true
+            },
+            "fr": {
+              "value": "Créer un dossier",
+              "checked": true
+            },
+            "es": {
+              "value": "Crear carpeta",
+              "checked": false
+            },
+            "zh": {
+              "value": "创建文件夹",
+              "checked": false
+            }
+          },
+          "Select Current Folder": {
+            "en": {
+              "value": "Select Current Folder",
+              "checked": true
+            },
+            "fr": {
+              "value": "Sélectionner le dossier actuel",
+              "checked": true
+            },
+            "es": {
+              "value": "Seleccione la carpeta actual",
+              "checked": false
+            },
+            "zh": {
+              "value": "选择当前文件夹",
+              "checked": false
+            }
+          },
+          "Path:": {
+            "en": {
+              "value": "Path:",
+              "checked": true
+            },
+            "fr": {
+              "value": "Chemin :",
+              "checked": true
+            },
+            "es": {
+              "value": "Camino:",
+              "checked": false
+            },
+            "zh": {
+              "value": "路径。",
+              "checked": false
+            }
+          },
+          "Directories & Files:": {
+            "en": {
+              "value": "Directories & Files:",
+              "checked": true
+            },
+            "fr": {
+              "value": "Répertoires et fichiers :",
+              "checked": true
+            },
+            "es": {
+              "value": "Directorios y archivos:",
+              "checked": false
+            },
+            "zh": {
+              "value": "目录和文件。",
+              "checked": false
+            }
+          },
+          "Open File(s)": {
+            "en": {
+              "value": "Open File(s)",
+              "checked": true
+            },
+            "fr": {
+              "value": "Ouvrir des fichiers",
+              "checked": true
+            },
+            "es": {
+              "value": "Abrir archivo(s)",
+              "checked": false
+            },
+            "zh": {
+              "value": "打开文件",
+              "checked": false
+            }
+          },
+          "File:": {
+            "en": {
+              "value": "File:",
+              "checked": true
+            },
+            "fr": {
+              "value": "Fichier :",
+              "checked": true
+            },
+            "es": {
+              "value": "Archivo:",
+              "checked": false
+            },
+            "zh": {
+              "value": "文件。",
+              "checked": false
+            }
+          },
+          "Open a File": {
+            "en": {
+              "value": "Open a File",
+              "checked": true
+            },
+            "fr": {
+              "value": "Ouvrir un fichier",
+              "checked": true
+            },
+            "es": {
+              "value": "Abrir un archivo",
+              "checked": false
+            },
+            "zh": {
+              "value": "打开一个文件",
+              "checked": false
+            }
+          }
+        },
         "Cancel": {
           "en": {
             "value": "Cancel",
@@ -12562,6 +12746,78 @@
           },
           "zh": {
             "value": "移动物体(s)",
+            "checked": false
+          }
+        },
+        "Alert!": {
+          "en": {
+            "value": "Alert!",
+            "checked": true
+          },
+          "fr": {
+            "value": "Alerte !",
+            "checked": true
+          },
+          "es": {
+            "value": "¡Alerta!",
+            "checked": false
+          },
+          "zh": {
+            "value": "警报!",
+            "checked": false
+          }
+        },
+        "OK": {
+          "en": {
+            "value": "OK",
+            "checked": true
+          },
+          "fr": {
+            "value": "OK",
+            "checked": true
+          },
+          "es": {
+            "value": "OK",
+            "checked": false
+          },
+          "zh": {
+            "value": "认可",
+            "checked": false
+          }
+        },
+        "material_with_mesh": {
+          "en": {
+            "value": "Material should be opened with a mesh.",
+            "checked": true
+          },
+          "fr": {
+            "value": "Les matériels doivent être ouverts avec une mesh.",
+            "checked": true
+          },
+          "es": {
+            "value": "El material debe abrirse con una malla.",
+            "checked": false
+          },
+          "zh": {
+            "value": "材料应该用网眼打开。",
+            "checked": false
+          }
+        },
+        "Demo version": {
+          "en": {
+            "value": "Demo version",
+            "checked": true
+          },
+          "fr": {
+            "value": "Version de démo",
+            "checked": true
+          },
+          "es": {
+            "value": "Versión de demo",
+            "checked": false
+          },
+          "zh": {
+            "value": "演示版",
             "checked": false
           }
         }
