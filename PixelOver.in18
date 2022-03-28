@@ -12910,6 +12910,24 @@
             "value": "演示版",
             "checked": false
           }
+        },
+        "No": {
+          "en": {
+            "value": "No",
+            "checked": true
+          },
+          "fr": {
+            "value": "Non",
+            "checked": true
+          },
+          "es": {
+            "value": "No",
+            "checked": true
+          },
+          "zh": {
+            "value": "没有",
+            "checked": false
+          }
         }
       },
       "Animation": {
@@ -13273,6 +13291,78 @@
           "zh": {
             "value": "删除轨道",
             "checked": true
+          }
+        },
+        "track_exist_replace": {
+          "en": {
+            "value": "Track '%s' already exist in '%s', replace ?",
+            "checked": true
+          },
+          "fr": {
+            "value": "La piste '%s' existe déjà dans '%s', remplacer ?",
+            "checked": true
+          },
+          "es": {
+            "value": "La pista '%s' ya existe en '%s', reemplazar ?",
+            "checked": false
+          },
+          "zh": {
+            "value": "轨道'%s'已经存在于'%s'中，替换？",
+            "checked": false
+          }
+        },
+        "same_next_tracks": {
+          "en": {
+            "value": "Same for next tracks.",
+            "checked": true
+          },
+          "fr": {
+            "value": "Idem pour les pistes suivantes.",
+            "checked": true
+          },
+          "es": {
+            "value": "Lo mismo para las próximas pistas.",
+            "checked": false
+          },
+          "zh": {
+            "value": "下一个轨道也是如此。",
+            "checked": false
+          }
+        },
+        "New Length": {
+          "en": {
+            "value": "New Length",
+            "checked": true
+          },
+          "fr": {
+            "value": "Nouvelle durée",
+            "checked": true
+          },
+          "es": {
+            "value": "Nueva longitud",
+            "checked": false
+          },
+          "zh": {
+            "value": "新长度",
+            "checked": false
+          }
+        },
+        "animation_rescale": {
+          "en": {
+            "value": "Change animation length and rescale keys position.",
+            "checked": true
+          },
+          "fr": {
+            "value": "Modifie la durée de l'animation et modifie la position des clés.",
+            "checked": true
+          },
+          "es": {
+            "value": "Cambiar la longitud de la animación y reescalar la posición de las teclas.",
+            "checked": false
+          },
+          "zh": {
+            "value": "改变动画长度并重新调整按键位置。",
+            "checked": false
           }
         }
       }
