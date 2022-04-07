@@ -3934,6 +3934,26 @@
               }
             }
           },
+          "Shader": {
+            "shader_dithering_center": {
+              "en": {
+                "value": "Center the dithering pattern between lightest and darkest color.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Centre le motif de tramage entre la couleur la plus claire et la plus sombre.",
+                "checked": true
+              },
+              "es": {
+                "value": "Centra el patrón de dithering entre el color más claro y el más oscuro.",
+                "checked": false
+              },
+              "zh": {
+                "value": "在最亮和最暗的颜色之间将抖动图案置于中心。",
+                "checked": false
+              }
+            }
+          },
           "object_name_tooltip": {
             "en": {
               "value": "Object name in scene tree.",
@@ -7343,6 +7363,24 @@
               "zh": {
                 "value": "仅显示描边",
                 "checked": true
+              }
+            },
+            "Pattern": {
+              "en": {
+                "value": "Pattern",
+                "checked": true
+              },
+              "fr": {
+                "value": "motif",
+                "checked": true
+              },
+              "es": {
+                "value": "Patrón",
+                "checked": false
+              },
+              "zh": {
+                "value": "样式",
+                "checked": false
               }
             }
           },
