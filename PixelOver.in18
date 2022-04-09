@@ -8409,6 +8409,24 @@
               "value": "纵向翻转",
               "checked": true
             }
+          },
+          "Gradient": {
+            "en": {
+              "value": "Gradient",
+              "checked": true
+            },
+            "fr": {
+              "value": "Dégradé",
+              "checked": true
+            },
+            "es": {
+              "value": "Gradiente",
+              "checked": false
+            },
+            "zh": {
+              "value": "梯度",
+              "checked": false
+            }
           }
         },
         "Items": {
