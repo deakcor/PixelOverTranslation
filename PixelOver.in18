@@ -3954,6 +3954,44 @@
               }
             }
           },
+          "Fill": {
+            "fill_gradient_tooltip": {
+              "en": {
+                "value": "One dimension gradient. Multi keys with easing functions.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Dégradé unidimensionnel. Plusieurs clefs avec des fonctions de transitions.",
+                "checked": true
+              },
+              "es": {
+                "value": "Gradiente de una dimensión. Teclas múltiples con funciones de facilitación.",
+                "checked": false
+              },
+              "zh": {
+                "value": "一维渐变。具有缓和功能的多键。",
+                "checked": false
+              }
+            },
+            "fill_gradient_type_tooltip": {
+              "en": {
+                "value": "How the unidirectional gradient will be displayed on 2D.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Comment le gradient unidirectionnel sera affiché en 2D.",
+                "checked": true
+              },
+              "es": {
+                "value": "Cómo se mostrará el gradiente unidireccional en 2D.",
+                "checked": false
+              },
+              "zh": {
+                "value": "单向梯度将如何在2D上显示。",
+                "checked": false
+              }
+            }
+          },
           "object_name_tooltip": {
             "en": {
               "value": "Object name in scene tree.",
@@ -6928,6 +6966,42 @@
                 "value": "关键帧过渡",
                 "checked": true
               }
+            },
+            "Transition": {
+              "en": {
+                "value": "Transition",
+                "checked": true
+              },
+              "fr": {
+                "value": "Transition",
+                "checked": true
+              },
+              "es": {
+                "value": "Transición",
+                "checked": false
+              },
+              "zh": {
+                "value": "过渡期",
+                "checked": false
+              }
+            },
+            "Easing": {
+              "en": {
+                "value": "Easing",
+                "checked": true
+              },
+              "fr": {
+                "value": "Assouplissement",
+                "checked": true
+              },
+              "es": {
+                "value": "Facilitando",
+                "checked": false
+              },
+              "zh": {
+                "value": "缓和",
+                "checked": false
+              }
             }
           },
           "Resource": {
@@ -8430,6 +8504,154 @@
           }
         },
         "Items": {
+          "Animation": {
+            "Linear": {
+              "en": {
+                "value": "Linear",
+                "checked": true
+              },
+              "fr": {
+                "value": "Linéaire",
+                "checked": true
+              },
+              "es": {
+                "value": "Lineal",
+                "checked": false
+              },
+              "zh": {
+                "value": "线性",
+                "checked": true
+              }
+            },
+            "In Out": {
+              "en": {
+                "value": "In Out",
+                "checked": true
+              },
+              "fr": {
+                "value": "In Out",
+                "checked": true
+              },
+              "es": {
+                "value": "In Out",
+                "checked": false
+              },
+              "zh": {
+                "value": "进 出",
+                "checked": false
+              }
+            },
+            "Out In": {
+              "en": {
+                "value": "Out In",
+                "checked": true
+              },
+              "fr": {
+                "value": "Out In",
+                "checked": true
+              },
+              "es": {
+                "value": "Out In",
+                "checked": false
+              },
+              "zh": {
+                "value": "出入",
+                "checked": false
+              }
+            },
+            "Circ": {
+              "en": {
+                "value": "Circ",
+                "checked": true
+              },
+              "fr": {
+                "value": "Circ",
+                "checked": false
+              },
+              "es": {
+                "value": "Circ",
+                "checked": false
+              },
+              "zh": {
+                "value": "循环",
+                "checked": false
+              }
+            },
+            "Bounce": {
+              "en": {
+                "value": "Bounce",
+                "checked": true
+              },
+              "fr": {
+                "value": "Rebond",
+                "checked": true
+              },
+              "es": {
+                "value": "Rebote",
+                "checked": false
+              },
+              "zh": {
+                "value": "蹦蹦跳跳",
+                "checked": false
+              }
+            },
+            "Elastic": {
+              "en": {
+                "value": "Elastic",
+                "checked": true
+              },
+              "fr": {
+                "value": "Elastique",
+                "checked": true
+              },
+              "es": {
+                "value": "Elástico",
+                "checked": false
+              },
+              "zh": {
+                "value": "弹性",
+                "checked": false
+              }
+            }
+          },
+          "Gradient": {
+            "Radial": {
+              "en": {
+                "value": "Radial",
+                "checked": true
+              },
+              "fr": {
+                "value": "Radial",
+                "checked": true
+              },
+              "es": {
+                "value": "Radial",
+                "checked": false
+              },
+              "zh": {
+                "value": "径向",
+                "checked": false
+              }
+            },
+            "Conic": {
+              "en": {
+                "value": "Conic",
+                "checked": true
+              },
+              "fr": {
+                "value": "Conique",
+                "checked": true
+              },
+              "es": {
+                "value": "Cónica",
+                "checked": false
+              },
+              "zh": {
+                "value": "圆锥形",
+                "checked": false
+              }
+            }
+          },
           "No effects": {
             "en": {
               "value": "No effects",
@@ -8823,24 +9045,6 @@
             },
             "zh": {
               "value": "无",
-              "checked": true
-            }
-          },
-          "Linear": {
-            "en": {
-              "value": "Linear",
-              "checked": true
-            },
-            "fr": {
-              "value": "Linéaire",
-              "checked": true
-            },
-            "es": {
-              "value": "Lineal",
-              "checked": false
-            },
-            "zh": {
-              "value": "线性",
               "checked": true
             }
           },
@@ -12982,6 +13186,42 @@
           },
           "zh": {
             "value": "没有",
+            "checked": false
+          }
+        },
+        "Pick": {
+          "en": {
+            "value": "Pick",
+            "checked": true
+          },
+          "fr": {
+            "value": "Choisir",
+            "checked": true
+          },
+          "es": {
+            "value": "Escoge",
+            "checked": false
+          },
+          "zh": {
+            "value": "挑选",
+            "checked": false
+          }
+        },
+        "Pick an object": {
+          "en": {
+            "value": "Pick an object",
+            "checked": true
+          },
+          "fr": {
+            "value": "Choisissez un objet",
+            "checked": true
+          },
+          "es": {
+            "value": "Elige un objeto",
+            "checked": false
+          },
+          "zh": {
+            "value": "挑选一个物体",
             "checked": false
           }
         }
