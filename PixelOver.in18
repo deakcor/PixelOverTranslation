@@ -3952,6 +3952,24 @@
                 "value": "在最亮和最暗的颜色之间将抖动图案置于中心。",
                 "checked": false
               }
+            },
+            "shader_dithering_center_tooltip": {
+              "en": {
+                "value": "Center dithering pattern between darker and lighter colors.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Centre le tramage entre la couleur la plus sombre et la plus claire.",
+                "checked": true
+              },
+              "es": {
+                "value": "Patrón de vacilación central entre colores más oscuros y más claros.",
+                "checked": false
+              },
+              "zh": {
+                "value": "深色和浅色之间的中心抖动模式。",
+                "checked": false
+              }
             }
           },
           "Fill": {
