@@ -7476,6 +7476,44 @@
               }
             }
           },
+          "Gradient": {
+            "Gradient": {
+              "en": {
+                "value": "Gradient",
+                "checked": true
+              },
+              "fr": {
+                "value": "Dégradé",
+                "checked": true
+              },
+              "es": {
+                "value": "Gradiente",
+                "checked": false
+              },
+              "zh": {
+                "value": "梯度",
+                "checked": false
+              }
+            },
+            "Repeat": {
+              "en": {
+                "value": "Repeat",
+                "checked": true
+              },
+              "fr": {
+                "value": "Répéter",
+                "checked": true
+              },
+              "es": {
+                "value": "Repita",
+                "checked": false
+              },
+              "zh": {
+                "value": "重复进行",
+                "checked": false
+              }
+            }
+          },
           "Saving mode": {
             "en": {
               "value": "Saving mode",
@@ -8501,24 +8539,6 @@
               "value": "纵向翻转",
               "checked": true
             }
-          },
-          "Gradient": {
-            "en": {
-              "value": "Gradient",
-              "checked": true
-            },
-            "fr": {
-              "value": "Dégradé",
-              "checked": true
-            },
-            "es": {
-              "value": "Gradiente",
-              "checked": false
-            },
-            "zh": {
-              "value": "梯度",
-              "checked": false
-            }
           }
         },
         "Items": {
@@ -8630,6 +8650,24 @@
                 "value": "弹性",
                 "checked": false
               }
+            },
+            "Bezier": {
+              "en": {
+                "value": "Bezier",
+                "checked": true
+              },
+              "fr": {
+                "value": "Bézier",
+                "checked": true
+              },
+              "es": {
+                "value": "Bezier",
+                "checked": false
+              },
+              "zh": {
+                "value": "Bezier",
+                "checked": false
+              }
             }
           },
           "Gradient": {
@@ -8666,6 +8704,80 @@
               },
               "zh": {
                 "value": "圆锥形",
+                "checked": false
+              }
+            },
+            "Mirror": {
+              "en": {
+                "value": "Mirror",
+                "checked": true
+              },
+              "fr": {
+                "value": "Miroir",
+                "checked": true
+              },
+              "es": {
+                "value": "Espejo",
+                "checked": false
+              },
+              "zh": {
+                "value": "镜子",
+                "checked": false
+              }
+            }
+          },
+          "Dithering": {
+            "convert_simple": {
+              "en": {
+                "value": "Convert to simple pattern",
+                "checked": true
+              },
+              "fr": {
+                "value": "Convertir en paterne simple",
+                "checked": true
+              },
+              "es": {
+                "value": "Convertir en patrón simple",
+                "checked": false
+              },
+              "zh": {
+                "value": "转换为简单模式",
+                "checked": false
+              }
+            },
+            "convert_separated": {
+              "en": {
+                "value": "Convert to separated pattern",
+                "checked": true
+              },
+              "fr": {
+                "value": "Convertir en paterne séparé",
+                "checked": true
+              },
+              "es": {
+                "value": "Convertir en patrón separado",
+                "checked": false
+              },
+              "zh": {
+                "value": "转换为分离模式",
+                "checked": false
+              }
+            },
+            "Base Image": {
+              "en": {
+                "value": "Base Image",
+                "checked": true
+              },
+              "fr": {
+                "value": "Image de base",
+                "checked": true
+              },
+              "es": {
+                "value": "Imagen base",
+                "checked": false
+              },
+              "zh": {
+                "value": "底部图像",
                 "checked": false
               }
             }
@@ -9244,6 +9356,42 @@
             "zh": {
               "value": "上",
               "checked": true
+            }
+          },
+          "Manage": {
+            "en": {
+              "value": "Manage",
+              "checked": true
+            },
+            "fr": {
+              "value": "Modifier",
+              "checked": true
+            },
+            "es": {
+              "value": "Gestionar",
+              "checked": false
+            },
+            "zh": {
+              "value": "管理",
+              "checked": false
+            }
+          },
+          "Empty": {
+            "en": {
+              "value": "Empty",
+              "checked": true
+            },
+            "fr": {
+              "value": "Vide",
+              "checked": true
+            },
+            "es": {
+              "value": "Vacío",
+              "checked": false
+            },
+            "zh": {
+              "value": "空的",
+              "checked": false
             }
           }
         },
