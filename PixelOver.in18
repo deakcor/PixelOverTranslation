@@ -854,6 +854,24 @@
             "value": "默认",
             "checked": true
           }
+        },
+        "Version": {
+          "en": {
+            "value": "Version",
+            "checked": true
+          },
+          "fr": {
+            "value": "Version",
+            "checked": true
+          },
+          "es": {
+            "value": "Versión",
+            "checked": false
+          },
+          "zh": {
+            "value": "版本",
+            "checked": false
+          }
         }
       },
       "Home": {
