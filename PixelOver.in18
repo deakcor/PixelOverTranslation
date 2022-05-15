@@ -6259,6 +6259,24 @@
               "value": "设置环境光强度。",
               "checked": true
             }
+          },
+          "lock_ratio_tooltip": {
+            "en": {
+              "value": "Lock the current ratio",
+              "checked": true
+            },
+            "fr": {
+              "value": "Verrouiller le ratio actuel",
+              "checked": true
+            },
+            "es": {
+              "value": "Bloquear el ratio actual",
+              "checked": false
+            },
+            "zh": {
+              "value": "锁定流动比率",
+              "checked": false
+            }
           }
         },
         "Title": {
