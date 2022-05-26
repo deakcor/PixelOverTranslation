@@ -4028,6 +4028,44 @@
               }
             }
           },
+          "Palette": {
+            "add_transitive_color_tooltip": {
+              "en": {
+                "value": "Add transitive color between each selected colors.\\nIf no color selected, it will apply on all.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Ajoute une couleur transitive entre chaque couleur sélectionnée.\\nSi aucune couleur n'est sélectionnée, elle s'appliquera à toutes.",
+                "checked": true
+              },
+              "es": {
+                "value": "Añade el color transitivo entre cada uno de los colores seleccionados.\\NSi no se selecciona ningún color, se aplicará en todos.",
+                "checked": false
+              },
+              "zh": {
+                "value": "在每个选定的颜色之间添加过渡性颜色。\\n如果没有选定颜色，它将适用于所有颜色。",
+                "checked": false
+              }
+            },
+            "sort_palette_tooltip": {
+              "en": {
+                "value": "Palette sorting\\nIf more than two colors are selected, sort will only affect these colors.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Tri de palette\\nSi plus de deux couleurs sont sélectionnées, le tri n'affectera que ces couleurs.",
+                "checked": true
+              },
+              "es": {
+                "value": "Ordenación de paleta\\nSi se seleccionan más de dos colores, la ordenación sólo afectará a estos colores.",
+                "checked": false
+              },
+              "zh": {
+                "value": "托盘分拣\\n如果选择了两种以上的颜色，排序将只影响这些颜色。",
+                "checked": false
+              }
+            }
+          },
           "object_name_tooltip": {
             "en": {
               "value": "Object name in scene tree.",
