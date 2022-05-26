@@ -8856,6 +8856,62 @@
               }
             }
           },
+          "Palette": {
+            "Generated size": {
+              "en": {
+                "value": "Generated size",
+                "checked": true
+              },
+              "fr": {
+                "value": "Taille générée",
+                "checked": false
+              },
+              "es": {
+                "value": "Tamaño generado",
+                "checked": false
+              },
+              "zh": {
+                "value": "生成的尺寸",
+                "checked": false
+              }
+            },
+            "Import & Manage": {
+              "en": {
+                "value": "Import & Manage",
+                "checked": true
+              },
+              "fr": {
+                "value": "Importer et modifier",
+                "checked": true
+              },
+              "es": {
+                "value": "Importar y gestionar",
+                "checked": false
+              },
+              "zh": {
+                "value": "进口和管理",
+                "checked": false
+              }
+            },
+            "generated_from_layer_img": {
+              "en": {
+                "value": "Generated from a layer or an image.",
+                "checked": true
+              },
+              "fr": {
+                "value": "Généré à partir d'un calque ou d'une image.",
+                "checked": true
+              },
+              "es": {
+                "value": "Generado a partir de una capa o una imagen.",
+                "checked": false
+              },
+              "zh": {
+                "value": "从一个图层或一个图像中生成。",
+                "checked": false
+              }
+            }
+          },
           "No effects": {
             "en": {
               "value": "No effects",
