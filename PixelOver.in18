@@ -13161,21 +13161,21 @@
             "checked": true
           }
         },
-        "add_favorite": {
+        "add_favorite_shader": {
           "en": {
-            "value": "Add this shader to favorite ?",
+            "value": "Add \"%s\" to favorite shaders ?",
             "checked": true
           },
           "fr": {
-            "value": "Ajouter ce shader en favoris ?",
+            "value": "Ajouter \"%s\" aux shaders favoris ?",
             "checked": true
           },
           "es": {
-            "value": "¿Añadir este shader a favoritos?",
+            "value": "¿Añadir \"%s\" a los shaders favoritos?",
             "checked": true
           },
           "zh": {
-            "value": "将此着色器添加到收藏夹？",
+            "value": "添加\"%s\"到最喜欢的着色器？",
             "checked": true
           }
         },
