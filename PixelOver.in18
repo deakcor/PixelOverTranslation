@@ -13109,20 +13109,20 @@
         },
         "is_alpha_version": {
           "en": {
-            "value": "It's an Alpha version. If you have seen any issue, please report it by clicking on the button below. Thank you.",
+            "value": "PixelOver is in active development. If you have seen any issue, please report it by clicking on the button below. Thank you.",
             "checked": true
           },
           "fr": {
-            "value": "C'est une version alpha. Si vous voyez un bug, merci de le reporter en cliquant sur le bouton ci-dessous. Merci.",
+            "value": "PixelOver est en développement actif. Si vous avez rencontré un problème, veuillez le signaler en cliquant sur le bouton ci-dessous. Merci.",
             "checked": true
           },
           "es": {
-            "value": "Es una versión Alfa. Si has visto algún problema, por favor, infórmalo haciendo clic en el botón de abajo. Gracias.",
-            "checked": true
+            "value": "PixelOver está en desarrollo activo. Si has visto algún problema, por favor, infórmalo haciendo clic en el botón de abajo. Gracias.",
+            "checked": false
           },
           "zh": {
-            "value": "这是Alpha版本。如果你发现错误，请点击下面的按钮上传。不胜感谢。",
-            "checked": true
+            "value": "PixelOver正在积极开发中。如果你看到任何问题，请点击下面的按钮来报告。谢谢你。",
+            "checked": false
           }
         },
         "free_version": {
@@ -13518,6 +13518,42 @@
           },
           "zh": {
             "value": "挑选一个物体",
+            "checked": false
+          }
+        },
+        "theme_update_warning": {
+          "en": {
+            "value": "There are too many elements to update. This will take effect when the software will be restarted.",
+            "checked": true
+          },
+          "fr": {
+            "value": "Il y a trop d'éléments à mettre a jour. Cela prendra effet au redémarrage du logiciel.",
+            "checked": true
+          },
+          "es": {
+            "value": "Hay demasiados elementos para actualizar. Esto tendrá efecto cuando se reinicie el software.",
+            "checked": false
+          },
+          "zh": {
+            "value": "有太多的元素需要更新。这将在软件重新启动时生效。",
+            "checked": false
+          }
+        },
+        "Warning": {
+          "en": {
+            "value": "Warning",
+            "checked": true
+          },
+          "fr": {
+            "value": "Attention",
+            "checked": true
+          },
+          "es": {
+            "value": "Advertencia",
+            "checked": false
+          },
+          "zh": {
+            "value": "警告",
             "checked": false
           }
         }
