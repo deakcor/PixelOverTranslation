@@ -12981,6 +12981,98 @@
             }
           }
         },
+        "Errors": {
+          "error_default": {
+            "en": {
+              "value": "This file is corrupted, inaccessible or with a bad format.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Ce fichier est corrompu, inaccessible ou a un mauvais format.",
+              "checked": true
+            },
+            "es": {
+              "value": "Este archivo está dañado, es inaccesible o tiene un formato incorrecto.",
+              "checked": false
+            },
+            "zh": {
+              "value": "该文件已损坏，无法访问或格式不良。",
+              "checked": false
+            }
+          },
+          "error_file_not_found": {
+            "en": {
+              "value": "This file is inaccessible because it doesn't exist or wrong path.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Ce fichier est inaccessible car il n'existe pas ou son chemin d'accès est incorrect.",
+              "checked": true
+            },
+            "es": {
+              "value": "Este archivo es inaccesible porque no existe o la ruta es incorrecta.",
+              "checked": false
+            },
+            "zh": {
+              "value": "该文件无法访问，因为它不存在或路径错误。",
+              "checked": false
+            }
+          },
+          "error_file_already_in_use": {
+            "en": {
+              "value": "The file is inaccessible because already in use externally.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Le fichier est inaccessible car déjà utilisé en externe.",
+              "checked": true
+            },
+            "es": {
+              "value": "El archivo es inaccesible porque ya se está utilizando externamente.",
+              "checked": false
+            },
+            "zh": {
+              "value": "该文件无法访问，因为已经在外部使用。",
+              "checked": false
+            }
+          },
+          "error_file_no_permission": {
+            "en": {
+              "value": "This file is inaccessible because of lack of permissions or wrong path.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Ce fichier est inaccessible en raison d'un manque de permissions ou d'un mauvais chemin.",
+              "checked": true
+            },
+            "es": {
+              "value": "Este archivo es inaccesible por falta de permisos o por una ruta incorrecta.",
+              "checked": false
+            },
+            "zh": {
+              "value": "由于缺乏权限或路径错误，该文件无法访问。",
+              "checked": false
+            }
+          },
+          "error_invalid_data": {
+            "en": {
+              "value": "Invalid data provided.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Données fournies non valides.",
+              "checked": true
+            },
+            "es": {
+              "value": "Datos no válidos proporcionados.",
+              "checked": false
+            },
+            "zh": {
+              "value": "提供的数据无效。",
+              "checked": false
+            }
+          }
+        },
         "Cancel": {
           "en": {
             "value": "Cancel",
