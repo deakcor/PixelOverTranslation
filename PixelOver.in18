@@ -872,6 +872,42 @@
             "value": "版本",
             "checked": false
           }
+        },
+        "new_version_available": {
+          "en": {
+            "value": "New version available",
+            "checked": true
+          },
+          "fr": {
+            "value": "Nouvelle version disponible",
+            "checked": true
+          },
+          "es": {
+            "value": "Nueva versión disponible",
+            "checked": false
+          },
+          "zh": {
+            "value": "新版本上市",
+            "checked": false
+          }
+        },
+        "new_unstable_version_available": {
+          "en": {
+            "value": "New unstable version available",
+            "checked": true
+          },
+          "fr": {
+            "value": "Nouvelle version instable disponible",
+            "checked": true
+          },
+          "es": {
+            "value": "Nueva versión inestable disponible",
+            "checked": false
+          },
+          "zh": {
+            "value": "新的不稳定版本可用",
+            "checked": false
+          }
         }
       },
       "Home": {
