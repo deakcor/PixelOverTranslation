@@ -13145,6 +13145,24 @@
               "value": "提供的数据无效。",
               "checked": false
             }
+          },
+          "error_cant_create": {
+            "en": {
+              "value": "Can't create the file, maybe because the file name contains invalid characters.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Impossible de créer le fichier, peut-être parce que le nom du fichier contient des caractères invalides.",
+              "checked": true
+            },
+            "es": {
+              "value": "No se puede crear el archivo, tal vez porque el nombre del archivo contiene caracteres no válidos.",
+              "checked": false
+            },
+            "zh": {
+              "value": "不能创建文件，可能是因为文件名包含无效字符。",
+              "checked": false
+            }
           }
         },
         "Cancel": {
