@@ -13163,6 +13163,24 @@
               "value": "不能创建文件，可能是因为文件名包含无效字符。",
               "checked": false
             }
+          },
+          "error_file_cant_write": {
+            "en": {
+              "value": "Can't write file here. Due to missing permissions or invalid characters in the file name.",
+              "checked": true
+            },
+            "fr": {
+              "value": "Impossible d'écrire le fichier ici. En raison de permissions manquantes ou de caractères non valides dans le nom du fichier.",
+              "checked": true
+            },
+            "es": {
+              "value": "No se puede escribir el archivo aquí. Debido a la falta de permisos o a caracteres no válidos en el nombre del archivo.",
+              "checked": false
+            },
+            "zh": {
+              "value": "不能在这里写文件。由于缺少权限或文件名中的无效字符。",
+              "checked": false
+            }
           }
         },
         "Cancel": {
